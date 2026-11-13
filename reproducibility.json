@@ -1,0 +1,32 @@
+{
+  "numpy": "2.5.3",
+  "pillow": "12.3.0",
+  "pipeline_sha256": "48a8c2577e799f94ac5738225adb36b3d498581fb53430efcfbd92f3457f1770",
+  "python": "3.14.7",
+  "renderer_and_encoder_sha256": "db968ac423f5687ea0bcca5ae599fbe6928e161cedc31a6f7bd690451f32ed80",
+  "renderer_assets_sha256": {
+    "DejaVuSans.ttf": "7da195a74c55bef988d0d48f9508bd5d849425c1770dba5d7bfc6ce9ed848954",
+    "playstation-logo.png": "4c0662984d64748d389bbb6ae50b57194188ffa3f43279b8b3be9de01a3c94f9",
+    "portrait-layout-overrides.json": "69eb3d11a22391bf2f30add922b8607e0aee1fd03769e87ba2b80088e6b496fd",
+    "psn-retail.png": "13eada61a90548f33ad048b84e09b0713afd16052c52c3920cc760211abbcfbb",
+    "vita-logo.png": "972df3e33a38ece0bcd69d1d3f56eecce5afc81ad14a0bf43dec71f9a8c70017",
+    "vita-plastic-palette.json": "48e8be71add887762238ebb2f1f2e71ef1c351e37e1712397e2baa561830ca23"
+  },
+  "renderer_file_sha256": "24e5fd8ca8ed9d9b339e89f6322c8e82dd356f24d77a22b4f0664d07eddd4015",
+  "renderer_policy": "vita-canonical-retail-v6-reviewed-framing",
+  "sources": {
+    "alias-exclusions.json": "37a5a1f64ef3b41194aa8c3c5ae1a848c75ca05a2b7b209baf9170960116e088",
+    "catalog.json": "a64c2a43600c46e5f49d4305f9966f81db2a7ede03fb448e94d3e6c8c1d49d4e",
+    "igdb-metadata.json": "7016535c52cabb6815ca51b579d266b19bfb7525fb923e55cb97465e6cf8e459",
+    "igdb-release-facts.json": "64fe4d12e117ba66d194ea553b9876030ff9ab002ff8bf3c4576019733538a05",
+    "provider-corpus-coverage.json": "3d3863c9d16f5e6b660068caf1d82c1234f902c00797d4bc8de9644629c767da",
+    "provider-corpus-review.json": "48cd4bc3db1624ca6d3053256b9fc31c6c2c3fe3a7c746f0b827721695d29baf",
+    "provider-release-review.json": "db762938839cf6ec082eef1fe0312b20793c027a39ed3140c91901358100923c",
+    "review-catalog-facts.json": "b1258cd31debd1e0102590bb11c25cdfe65b9c86e5a98fff9f5960e4735238f8",
+    "reviewed-mappings.json": "8886042fe5b02e04a66c0565887f28d02ff2028c85c0b50da3ac9098da0426d0",
+    "sources.json": "b300e61ec5e8583a69e113d766b9d01555f4ba736e869dfde1f71b500dbe0ba9",
+    "title-assertions.json": "4211db61149026e16f3e92d18149772e4536918415b4ebc8d029f06cc467a77a",
+    "vita3k-commercial.json": "1c727d5250e0124373e94e3d586d73d26a072676fc507fad4a6134e4c36cd538"
+  },
+  "webp": "1.6.0"
+}

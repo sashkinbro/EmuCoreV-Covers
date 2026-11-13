@@ -1,0 +1,1581 @@
+{
+  "PCSA00095": {
+    "igdb_id": 7458,
+    "title": "The Sly Collection",
+    "source": "https://github.com/Electry/VitaGrafixPatchlist/blob/master/patchlist.txt",
+    "note": "Public VitaGrafix patchlist associates this title ID with Sly1.self and Sly2.self. SFO launcher title is Sly 1 & 2; collection artwork identity, not individual Sly 1.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "data/catalog.json"
+    ]
+  },
+  "PCSA00549": {
+    "igdb_id": 147222,
+    "title": "LittleBigPlanet: Marvel Super Hero Edition",
+    "source": "https://github.com/Vita3K/compatibility/issues/1622",
+    "note": "Full Marvel Super Hero Edition identity; not base LittleBigPlanet or Marvel Arcade DLC.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/1622",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00051": {
+    "igdb_id": 21722,
+    "title": "FIFA Soccer",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "note": "European FIFA Football regional name of PS Vita FIFA Soccer launch release, not FIFA 13.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00170": {
+    "igdb_id": 240395,
+    "title": "FIFA Soccer 13",
+    "source": "https://github.com/Vita3K/compatibility/issues/2971",
+    "note": "FIFA 13 Vita port is cataloged separately as FIFA Soccer 13.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/2971",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00176": {
+    "igdb_id": 99821,
+    "title": "Metal Gear Solid 3: Snake Eater - HD Edition",
+    "source": "https://github.com/Vita3K/compatibility/issues/3299",
+    "note": "Standalone Metal Gear Solid 3 HD release, not the combined collection.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/3299",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00177": {
+    "igdb_id": 55041,
+    "title": "Metal Gear Solid 2: Sons of Liberty - HD Edition",
+    "source": "https://github.com/Vita3K/compatibility/issues/3096",
+    "note": "Standalone Metal Gear Solid 2 HD release, not Metal Gear Solid 3 or collection.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/3096",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00294": {
+    "igdb_id": 21000,
+    "title": "Ninja Gaiden Sigma 2 Plus",
+    "source": "https://github.com/Vita3K/compatibility/issues/1637",
+    "note": "Greek Sigma character and numeral 2 correspond to Sigma 2 Plus, not Sigma Plus.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/1637",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00305": {
+    "igdb_id": 8873,
+    "title": "Superfrog HD",
+    "source": "https://blog.playstation.com/2013/08/05/superfrog-hd-on-ps3-and-ps-vita-launching-tomorrow/",
+    "note": "Vita Superfrog release is Superfrog HD; original Amiga game not used.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/596",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00361": {
+    "igdb_id": 21683,
+    "title": "Lone Survivor: The Director's Cut",
+    "source": "https://github.com/Vita3K/compatibility/issues/411",
+    "note": "PS Vita release is The Director's Cut, as identified by Vita release record.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/411",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00515": {
+    "igdb_id": 9867,
+    "title": "Hyperdimension Neptunia: Producing Perfection",
+    "source": "https://github.com/Vita3K/compatibility/issues/2238",
+    "note": "PP expands to Producing Perfection; distinct from Re;Birth games.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/2238",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00687": {
+    "igdb_id": 10142,
+    "title": "Home",
+    "source": "https://github.com/Vita3K/compatibility/issues/412",
+    "note": "SFO subtitle A Unique Horror Adventure agrees with IGDB Home summary.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/412",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00285": {
+    "igdb_id": 3180,
+    "title": "Farming Simulator 2013",
+    "source": "https://blog.playstation.com/2013/07/02/playstation-store-update-298/",
+    "note": "Original 2013 Vita Farming Simulator release, not Farming Simulator 14/16/18.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/1843",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00677": {
+    "igdb_id": 11612,
+    "title": "BlazBlue: Chrono Phantasma Extend",
+    "source": "https://github.com/Vita3K/compatibility/issues/1055",
+    "note": "Chronophantasma versus Chrono Phantasma spacing; Extend edition explicitly present.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/1055",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00700": {
+    "igdb_id": 52416,
+    "title": "Assassin's Creed Chronicles: Trilogy Pack",
+    "source": "https://github.com/Vita3K/compatibility/issues/796",
+    "note": "Vita AC Chronicles is the three-chapter trilogy pack, not an individual China/India/Russia game.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/796",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00707": {
+    "igdb_id": 91029,
+    "title": "Ar nosurge Plus",
+    "source": "https://github.com/Vita3K/compatibility/issues/1477",
+    "note": "Plus edition explicitly present; base Ar nosurge 7273 not used.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/1477",
+      "data/catalog.json"
+    ]
+  },
+  "PCSF00149": {
+    "igdb_id": 12377,
+    "title": "Jacob Jones and the Bigfoot Mystery: Episode 1",
+    "source": "https://blog.playstation.com/2013/05/14/jacob-jones-and-the-bigfoot-mystery-camps-out-on-ps-vita-today/",
+    "note": "Lucid Games PlayStation announcement identifies first Vita episode; episode 2 not used.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/3072",
+      "data/catalog.json"
+    ]
+  },
+  "PCSF00207": {
+    "igdb_id": 1801,
+    "title": "Sly Cooper: Thieves in Time",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "note": "SFO embeds same title ID after official full title; regional variant.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "data/catalog.json"
+    ]
+  },
+  "PCSF00247": {
+    "igdb_id": 20113,
+    "title": "Jak and Daxter Collection",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "note": "European Trilogy regional name of Jak and Daxter Collection; not individual game.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "data/catalog.json"
+    ]
+  },
+  "PCSF00308": {
+    "igdb_id": 1510,
+    "title": "Epic Mickey 2: The Power of Two",
+    "source": "https://github.com/Vita3K/compatibility/issues/1476",
+    "note": "Disney publisher prefix omitted in IGDB name; Epic Mickey 2 subtitle agrees exactly.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/1476",
+      "data/catalog.json"
+    ]
+  },
+  "PCSF00516": {
+    "igdb_id": 147222,
+    "title": "LittleBigPlanet: Marvel Super Hero Edition",
+    "source": "https://github.com/Vita3K/compatibility/issues/3200",
+    "note": "Full Marvel Super Hero Edition identity; not base LittleBigPlanet or Marvel Arcade DLC.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/3200",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00040": {
+    "igdb_id": 75723,
+    "title": "Mobile Suit Gundam SEED: Battle Destiny",
+    "source": "https://github.com/Vita3K/compatibility/issues/573",
+    "note": "Japanese Gundam SEED Battle Destiny SFO and romanized compatibility name identify same game.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/573",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00146": {
+    "igdb_id": 22357,
+    "title": "Steins;Gate: My Darling's Embrace",
+    "source": "https://github.com/Vita3K/compatibility/issues/887",
+    "note": "Japanese Hiyoku Renri no Darling localized as My Darling's Embrace; not original Steins;Gate.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/887",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00214": {
+    "igdb_id": 11847,
+    "title": "Puella Magi Madoka Magica: The Battle Pentagram",
+    "source": "https://github.com/Vita3K/compatibility/issues/463",
+    "note": "Gekijouban Madoka Magica is the film title prefix of Puella Magi Madoka Magica: The Battle Pentagram.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/463",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00250": {
+    "igdb_id": 65504,
+    "title": "Steins;Gate: Linear Bounded Phenogram",
+    "source": "https://github.com/Vita3K/compatibility/issues/1525",
+    "note": "Senkei Kousoku no Phenogram localized as Linear Bounded Phenogram; not base Steins;Gate.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/1525",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00300": {
+    "igdb_id": 7355,
+    "title": "J-Stars Victory Vs",
+    "source": "https://github.com/Vita3K/compatibility/issues/984",
+    "note": "Original Japanese J-Stars Victory VS; Plus edition 19958 rejected. SFO lacks Plus.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/984",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00423": {
+    "igdb_id": 36691,
+    "title": "Love Live! School Idol Paradise: Vol.2 BiBi Unit",
+    "source": "https://github.com/Vita3K/compatibility/issues/406",
+    "note": "Exact Vol.2 BiBi identity; catalog adds Unit suffix; Vol.1 and Vol.3 excluded.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/406",
+      "data/catalog.json"
+    ]
+  },
+  "PCSH00058": {
+    "igdb_id": 52832,
+    "title": "Shin Gundam Musou",
+    "source": "https://github.com/r0ah/vitacheat/blob/master/db/PCSH00058.psv",
+    "note": "Traditional Chinese 真・鋼彈無雙 is Shin Gundam Musou; not Dynasty Warriors Next.",
+    "identity_evidence": [
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "https://github.com/Vita3K/compatibility/issues/1293",
+      "data/catalog.json"
+    ]
+  },
+  "PCSA00108": {
+    "igdb_id": 12377,
+    "title": "Jacob Jones and the Bigfoot Mystery: Episode 1",
+    "source": "https://github.com/Vita3K/compatibility/issues/3343",
+    "note": "Exact same full release name as reviewed PCSF00149; plus-symbol count preserved. Lucid Games PlayStation announcement identifies first Vita episode; episode 2 not used.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3343",
+      "data/reviewed-mappings.json#PCSF00149",
+      "data/catalog.json"
+    ]
+  },
+  "PCSA00110": {
+    "igdb_id": 1510,
+    "title": "Epic Mickey 2: The Power of Two",
+    "source": "https://github.com/Vita3K/compatibility/issues/1056",
+    "note": "Exact same full release name as reviewed PCSF00308; plus-symbol count preserved. Disney publisher prefix omitted in IGDB name; Epic Mickey 2 subtitle agrees exactly.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1056",
+      "data/reviewed-mappings.json#PCSF00308",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00052": {
+    "igdb_id": 21722,
+    "title": "FIFA Soccer",
+    "source": "https://github.com/Vita3K/compatibility/issues/2976",
+    "note": "Exact same full release name as reviewed PCSB00051; plus-symbol count preserved. European FIFA Football regional name of PS Vita FIFA Soccer launch release, not FIFA 13.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2976",
+      "data/reviewed-mappings.json#PCSB00051",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00171": {
+    "igdb_id": 240395,
+    "title": "FIFA Soccer 13",
+    "source": "https://github.com/Vita3K/compatibility/issues/2972",
+    "note": "Exact same full release name as reviewed PCSB00170; plus-symbol count preserved. FIFA 13 Vita port is cataloged separately as FIFA Soccer 13.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2972",
+      "data/reviewed-mappings.json#PCSB00170",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00333": {
+    "igdb_id": 3180,
+    "title": "Farming Simulator 2013",
+    "source": "https://github.com/Vita3K/compatibility/issues/1404",
+    "note": "Exact same full release name as reviewed PCSE00285; plus-symbol count preserved. Original 2013 Vita Farming Simulator release, not Farming Simulator 14/16/18.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1404",
+      "data/reviewed-mappings.json#PCSE00285",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00792": {
+    "igdb_id": 52416,
+    "title": "Assassin's Creed Chronicles: Trilogy Pack",
+    "source": "https://github.com/Vita3K/compatibility/issues/164",
+    "note": "Exact same full release name as reviewed PCSE00700; plus-symbol count preserved. Vita AC Chronicles is the three-chapter trilogy pack, not an individual China/India/Russia game.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/164",
+      "data/reviewed-mappings.json#PCSE00700",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00798": {
+    "igdb_id": 91029,
+    "title": "Ar nosurge Plus",
+    "source": "https://github.com/Vita3K/compatibility/issues/579",
+    "note": "Exact same full release name as reviewed PCSE00707; plus-symbol count preserved. Plus edition explicitly present; base Ar nosurge 7273 not used.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/579",
+      "data/reviewed-mappings.json#PCSE00707",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00863": {
+    "igdb_id": 11612,
+    "title": "BlazBlue: Chrono Phantasma Extend",
+    "source": "https://github.com/Vita3K/compatibility/issues/2763",
+    "note": "Exact same full release name as reviewed PCSE00677; plus-symbol count preserved. Chronophantasma versus Chrono Phantasma spacing; Extend edition explicitly present.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2763",
+      "data/reviewed-mappings.json#PCSE00677",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00093": {
+    "igdb_id": 240395,
+    "title": "FIFA Soccer 13",
+    "source": "https://github.com/Vita3K/compatibility/issues/3118",
+    "note": "Exact same full release name as reviewed PCSB00170; plus-symbol count preserved. FIFA 13 Vita port is cataloged separately as FIFA Soccer 13.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3118",
+      "data/reviewed-mappings.json#PCSB00170",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00096": {
+    "igdb_id": 240395,
+    "title": "FIFA Soccer 13",
+    "source": "https://github.com/Vita3K/compatibility/issues/3965",
+    "note": "Exact same full release name as reviewed PCSB00170; plus-symbol count preserved. FIFA 13 Vita port is cataloged separately as FIFA Soccer 13.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3965",
+      "data/reviewed-mappings.json#PCSB00170",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00233": {
+    "igdb_id": 21000,
+    "title": "Ninja Gaiden Sigma 2 Plus",
+    "source": "https://github.com/Vita3K/compatibility/issues/3149",
+    "note": "Exact same full release name as reviewed PCSB00294; plus-symbol count preserved. Greek Sigma character and numeral 2 correspond to Sigma 2 Plus, not Sigma Plus.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3149",
+      "data/reviewed-mappings.json#PCSB00294",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00238": {
+    "igdb_id": 8873,
+    "title": "Superfrog HD",
+    "source": "https://github.com/Vita3K/compatibility/issues/3710",
+    "note": "Exact same full release name as reviewed PCSB00305; plus-symbol count preserved. Vita Superfrog release is Superfrog HD; original Amiga game not used.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3710",
+      "data/reviewed-mappings.json#PCSB00305",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00301": {
+    "igdb_id": 21683,
+    "title": "Lone Survivor: The Director's Cut",
+    "source": "https://github.com/Vita3K/compatibility/issues/1623",
+    "note": "Exact same full release name as reviewed PCSB00361; plus-symbol count preserved. PS Vita release is The Director's Cut, as identified by Vita release record.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1623",
+      "data/reviewed-mappings.json#PCSB00361",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00400": {
+    "igdb_id": 9867,
+    "title": "Hyperdimension Neptunia: Producing Perfection",
+    "source": "https://github.com/Vita3K/compatibility/issues/454",
+    "note": "Exact same full release name as reviewed PCSB00515; plus-symbol count preserved. PP expands to Producing Perfection; distinct from Re;Birth games.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/454",
+      "data/reviewed-mappings.json#PCSB00515",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00533": {
+    "igdb_id": 10142,
+    "title": "Home",
+    "source": "https://github.com/Vita3K/compatibility/issues/28",
+    "note": "Exact same full release name as reviewed PCSB00687; plus-symbol count preserved. SFO subtitle A Unique Horror Adventure agrees with IGDB Home summary.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/28",
+      "data/reviewed-mappings.json#PCSB00687",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE01107": {
+    "igdb_id": 10142,
+    "title": "Home",
+    "source": "https://github.com/Vita3K/compatibility/issues/4263",
+    "note": "Exact same full release name as reviewed PCSB00687; plus-symbol count preserved. SFO subtitle A Unique Horror Adventure agrees with IGDB Home summary.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4263",
+      "data/reviewed-mappings.json#PCSB00687",
+      "data/catalog.json"
+    ]
+  },
+  "PCSF00309": {
+    "igdb_id": 1510,
+    "title": "Epic Mickey 2: The Power of Two",
+    "source": "https://github.com/Vita3K/compatibility/issues/1475",
+    "note": "Exact same full release name as reviewed PCSF00308; plus-symbol count preserved. Disney publisher prefix omitted in IGDB name; Epic Mickey 2 subtitle agrees exactly.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1475",
+      "data/reviewed-mappings.json#PCSF00308",
+      "data/catalog.json"
+    ]
+  },
+  "PCSF00311": {
+    "igdb_id": 1510,
+    "title": "Epic Mickey 2: The Power of Two",
+    "source": "https://github.com/Vita3K/compatibility/issues/3891",
+    "note": "Exact same full release name as reviewed PCSF00308; plus-symbol count preserved. Disney publisher prefix omitted in IGDB name; Epic Mickey 2 subtitle agrees exactly.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3891",
+      "data/reviewed-mappings.json#PCSF00308",
+      "data/catalog.json"
+    ]
+  },
+  "PCSF00338": {
+    "igdb_id": 7458,
+    "title": "The Sly Collection",
+    "source": "https://github.com/Vita3K/compatibility/issues/337",
+    "note": "Exact same full release name as reviewed PCSA00095; plus-symbol count preserved. SFO identifies Sly 1 & 2 launcher; local archive identifies Sly Collection. Collection identity, not individual Sly 1.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/337",
+      "data/reviewed-mappings.json#PCSA00095",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00039": {
+    "igdb_id": 21722,
+    "title": "FIFA Soccer",
+    "source": "https://github.com/Vita3K/compatibility/issues/952",
+    "note": "Exact same full release name as reviewed PCSB00051; plus-symbol count preserved. European FIFA Football regional name of PS Vita FIFA Soccer launch release, not FIFA 13.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/952",
+      "data/reviewed-mappings.json#PCSB00051",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00081": {
+    "igdb_id": 99821,
+    "title": "Metal Gear Solid 3: Snake Eater - HD Edition",
+    "source": "https://github.com/Vita3K/compatibility/issues/1367",
+    "note": "Exact same full release name as reviewed PCSB00176; plus-symbol count preserved. Standalone Metal Gear Solid 3 HD release, not the combined collection.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1367",
+      "data/reviewed-mappings.json#PCSB00176",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00107": {
+    "igdb_id": 240395,
+    "title": "FIFA Soccer 13",
+    "source": "https://github.com/Vita3K/compatibility/issues/987",
+    "note": "Exact same full release name as reviewed PCSB00170; plus-symbol count preserved. FIFA 13 Vita port is cataloged separately as FIFA Soccer 13.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/987",
+      "data/reviewed-mappings.json#PCSB00170",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00157": {
+    "igdb_id": 21000,
+    "title": "Ninja Gaiden Sigma 2 Plus",
+    "source": "https://github.com/Vita3K/compatibility/issues/1626",
+    "note": "Exact same full release name as reviewed PCSB00294; plus-symbol count preserved. Greek Sigma character and numeral 2 correspond to Sigma 2 Plus, not Sigma Plus.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1626",
+      "data/reviewed-mappings.json#PCSB00294",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00582": {
+    "igdb_id": 11612,
+    "title": "BlazBlue: Chrono Phantasma Extend",
+    "source": "https://github.com/Vita3K/compatibility/issues/1829",
+    "note": "Exact same full release name as reviewed PCSE00677; plus-symbol count preserved. Chronophantasma versus Chrono Phantasma spacing; Extend edition explicitly present.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1829",
+      "data/reviewed-mappings.json#PCSE00677",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00655": {
+    "igdb_id": 52416,
+    "title": "Assassin's Creed Chronicles: Trilogy Pack",
+    "source": "https://github.com/Vita3K/compatibility/issues/2905",
+    "note": "Exact same full release name as reviewed PCSE00700; plus-symbol count preserved. Vita AC Chronicles is the three-chapter trilogy pack, not an individual China/India/Russia game.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2905",
+      "data/reviewed-mappings.json#PCSE00700",
+      "data/catalog.json"
+    ]
+  },
+  "PCSA00139": {
+    "igdb_id": 63011,
+    "title": "PlayStation Vita Pets",
+    "source": "https://github.com/Vita3K/compatibility/issues/833",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/833",
+      "data/catalog.json"
+    ]
+  },
+  "PCSA00511": {
+    "igdb_id": 8655,
+    "title": "MLB 15: The Show",
+    "source": "https://github.com/Vita3K/compatibility/issues/1339",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1339",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00316": {
+    "igdb_id": 7450,
+    "title": "MotoGP 13",
+    "source": "https://github.com/Vita3K/compatibility/issues/1603",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1603",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00390": {
+    "igdb_id": 95366,
+    "title": "ZRun",
+    "source": "https://github.com/Vita3K/compatibility/issues/850",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/850",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00410": {
+    "igdb_id": 8467,
+    "title": "Velocity 2X",
+    "source": "https://github.com/Vita3K/compatibility/issues/241",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/241",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00487": {
+    "igdb_id": 147303,
+    "title": "MotoGP 13 Compact",
+    "source": "https://github.com/Vita3K/compatibility/issues/3330",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3330",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00697": {
+    "igdb_id": 36238,
+    "title": "MotoGP 14 Compact",
+    "source": "https://github.com/Vita3K/compatibility/issues/2822",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2822",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00713": {
+    "igdb_id": 19958,
+    "title": "J-Stars Victory Vs+",
+    "source": "https://github.com/Vita3K/compatibility/issues/2321",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2321",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB00928": {
+    "igdb_id": 11743,
+    "title": "Ray Gigant",
+    "source": "https://github.com/Vita3K/compatibility/issues/1248",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1248",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB01079": {
+    "igdb_id": 167039,
+    "title": "Velocity 2X: Critical Mass Edition",
+    "source": "https://github.com/Vita3K/compatibility/issues/3858",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3858",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB01164": {
+    "igdb_id": 21317,
+    "title": "Factotum 90",
+    "source": "https://github.com/Vita3K/compatibility/issues/2948",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2948",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB01224": {
+    "igdb_id": 27667,
+    "title": "Cosmic Star Heroine",
+    "source": "https://github.com/Vita3K/compatibility/issues/2797",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2797",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB01248": {
+    "igdb_id": 16661,
+    "title": "Bunny Must Die! Chelsea and the 7 Devils",
+    "source": "https://github.com/Vita3K/compatibility/issues/4303",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4303",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB01302": {
+    "igdb_id": 118701,
+    "title": "Scintillatron 4096",
+    "source": "https://github.com/Vita3K/compatibility/issues/3142",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3142",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB01340": {
+    "igdb_id": 28916,
+    "title": "Hoggy 2",
+    "source": "https://github.com/Vita3K/compatibility/issues/1780",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1780",
+      "data/catalog.json"
+    ]
+  },
+  "PCSB01404": {
+    "igdb_id": 131965,
+    "title": "Duck Souls+",
+    "source": "https://github.com/Vita3K/compatibility/issues/1726",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1726",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00036": {
+    "igdb_id": 19211,
+    "title": "Wanted Corp.",
+    "source": "https://github.com/Vita3K/compatibility/issues/4064",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4064",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00279": {
+    "igdb_id": 5643,
+    "title": "BlazBlue: Chrono Phantasma",
+    "source": "https://github.com/Vita3K/compatibility/issues/1194",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1194",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00310": {
+    "igdb_id": 95366,
+    "title": "ZRun",
+    "source": "https://github.com/Vita3K/compatibility/issues/3989",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3989",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00374": {
+    "igdb_id": 8467,
+    "title": "Velocity 2X",
+    "source": "https://github.com/Vita3K/compatibility/issues/1469",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1469",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00409": {
+    "igdb_id": 7450,
+    "title": "MotoGP 13",
+    "source": "https://github.com/Vita3K/compatibility/issues/4019",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4019",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00458": {
+    "igdb_id": 11324,
+    "title": "Phantom Breaker: Battle Grounds",
+    "source": "https://github.com/Vita3K/compatibility/issues/4070",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4070",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00505": {
+    "igdb_id": 10788,
+    "title": "Rugby 15",
+    "source": "https://github.com/Vita3K/compatibility/issues/3222",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3222",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00529": {
+    "igdb_id": 7451,
+    "title": "MotoGP 14",
+    "source": "https://github.com/Vita3K/compatibility/issues/2818",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2818",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00595": {
+    "igdb_id": 19958,
+    "title": "J-Stars Victory Vs+",
+    "source": "https://github.com/Vita3K/compatibility/issues/1157",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1157",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00843": {
+    "igdb_id": 11743,
+    "title": "Ray Gigant",
+    "source": "https://github.com/Vita3K/compatibility/issues/771",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/771",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00860": {
+    "igdb_id": 23483,
+    "title": "SwapQuest",
+    "source": "https://github.com/Vita3K/compatibility/issues/33",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/33",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00942": {
+    "igdb_id": 14714,
+    "title": "Supermagical",
+    "source": "https://github.com/Vita3K/compatibility/issues/99",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/99",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE01051": {
+    "igdb_id": 21317,
+    "title": "Factotum 90",
+    "source": "https://github.com/Vita3K/compatibility/issues/275",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/275",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE01068": {
+    "igdb_id": 16661,
+    "title": "Bunny Must Die! Chelsea and the 7 Devils",
+    "source": "https://github.com/Vita3K/compatibility/issues/4256",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4256",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE01232": {
+    "igdb_id": 27667,
+    "title": "Cosmic Star Heroine",
+    "source": "https://github.com/Vita3K/compatibility/issues/1499",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1499",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE01288": {
+    "igdb_id": 11775,
+    "title": "Punch Line",
+    "source": "https://github.com/Vita3K/compatibility/issues/3214",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3214",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE01355": {
+    "igdb_id": 118701,
+    "title": "Scintillatron 4096",
+    "source": "https://github.com/Vita3K/compatibility/issues/2024",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2024",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE01383": {
+    "igdb_id": 28916,
+    "title": "Hoggy 2",
+    "source": "https://github.com/Vita3K/compatibility/issues/3707",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3707",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE01439": {
+    "igdb_id": 131965,
+    "title": "Duck Souls+",
+    "source": "https://github.com/Vita3K/compatibility/issues/3455",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3455",
+      "data/catalog.json"
+    ]
+  },
+  "PCSF00519": {
+    "igdb_id": 63011,
+    "title": "PlayStation Vita Pets",
+    "source": "https://github.com/Vita3K/compatibility/issues/3837",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3837",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00071": {
+    "igdb_id": 64943,
+    "title": "NextRev: Ouyou Jouhougijutsusha Shiken",
+    "source": "https://github.com/Vita3K/compatibility/issues/4180",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4180",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00072": {
+    "igdb_id": 64942,
+    "title": "NextRev: Kihonjouhou Gijutsusha Shiken",
+    "source": "https://github.com/Vita3K/compatibility/issues/4185",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4185",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00097": {
+    "igdb_id": 178757,
+    "title": "Nikoli no Puzzle V: Numberlink",
+    "source": "https://github.com/Vita3K/compatibility/issues/1932",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1932",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00121": {
+    "igdb_id": 179499,
+    "title": "NextRev: Kaigo Fukushishi Shiken",
+    "source": "https://github.com/Vita3K/compatibility/issues/4119",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4119",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00137": {
+    "igdb_id": 80471,
+    "title": "Tenshitsuki no Shoujo",
+    "source": "https://github.com/Vita3K/compatibility/issues/1832",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1832",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00139": {
+    "igdb_id": 42702,
+    "title": "Photo Kano Kiss",
+    "source": "https://github.com/Vita3K/compatibility/issues/222",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/222",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00180": {
+    "igdb_id": 5643,
+    "title": "BlazBlue: Chrono Phantasma",
+    "source": "https://github.com/Vita3K/compatibility/issues/1804",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1804",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00182": {
+    "igdb_id": 44073,
+    "title": "Kaku-San-Sei Million Arthur",
+    "source": "https://github.com/Vita3K/compatibility/issues/4036",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4036",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00200": {
+    "igdb_id": 63302,
+    "title": "Hotch Kiss",
+    "source": "https://github.com/Vita3K/compatibility/issues/221",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/221",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00217": {
+    "igdb_id": 220885,
+    "title": "Hakuouki Kyoukaroku",
+    "source": "https://github.com/Vita3K/compatibility/issues/1777",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1777",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00226": {
+    "igdb_id": 8902,
+    "title": "Hyperdimension Neptunia Re;Birth1",
+    "source": "https://github.com/Vita3K/compatibility/issues/982",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/982",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00239": {
+    "igdb_id": 8616,
+    "title": "&: Sora no Mukou de Saki Masuyou ni",
+    "source": "https://github.com/Vita3K/compatibility/issues/888",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/888",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00289": {
+    "igdb_id": 143803,
+    "title": "Ore ni Hatarakette Iwarete mo Otsu HD",
+    "source": "https://github.com/Vita3K/compatibility/issues/2218",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2218",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00340": {
+    "igdb_id": 98606,
+    "title": "Manga Kakeru",
+    "source": "https://github.com/Vita3K/compatibility/issues/1787",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1787",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00342": {
+    "igdb_id": 8640,
+    "title": "Ano Ko wa Ore kara Hanarenai",
+    "source": "https://github.com/Vita3K/compatibility/issues/564",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/564",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00382": {
+    "igdb_id": 61945,
+    "title": "Re:Viced",
+    "source": "https://github.com/Vita3K/compatibility/issues/813",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/813",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00413": {
+    "igdb_id": 61688,
+    "title": "Kiss Bell",
+    "source": "https://github.com/Vita3K/compatibility/issues/569",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/569",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00426": {
+    "igdb_id": 216243,
+    "title": "Renai 0 Kilometer V",
+    "source": "https://github.com/Vita3K/compatibility/issues/1035",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1035",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00449": {
+    "igdb_id": 60959,
+    "title": "Kami-sama to Koigokoro",
+    "source": "https://github.com/Vita3K/compatibility/issues/4127",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4127",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00462": {
+    "igdb_id": 61144,
+    "title": "Irotoridori no Sekai: World's End Rebirth",
+    "source": "https://github.com/Vita3K/compatibility/issues/4131",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4131",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00470": {
+    "igdb_id": 136796,
+    "title": "Hanayaka Nari, Waga Ichizoku Modern Nostalgie",
+    "source": "https://github.com/Vita3K/compatibility/issues/1529",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1529",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00506": {
+    "igdb_id": 217545,
+    "title": "Hitotsu Tobashi Renai V",
+    "source": "https://github.com/Vita3K/compatibility/issues/1547",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1547",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00520": {
+    "igdb_id": 61263,
+    "title": "Kaleidoeve",
+    "source": "https://github.com/Vita3K/compatibility/issues/4234",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/4234",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00529": {
+    "igdb_id": 60778,
+    "title": "Justy x Nasty: Maou Hajimemashita",
+    "source": "https://github.com/Vita3K/compatibility/issues/634",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/634",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00547": {
+    "igdb_id": 136433,
+    "title": "Teikoku Kaigun Koibojou: Meiji Yokosuka Koushinkyoku",
+    "source": "https://github.com/Vita3K/compatibility/issues/823",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/823",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00576": {
+    "igdb_id": 60347,
+    "title": "Hanayaka Nari, Waga Ichizoku Gentou Nostalgie",
+    "source": "https://github.com/Vita3K/compatibility/issues/1528",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1528",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00580": {
+    "igdb_id": 214803,
+    "title": "Shinsouban Mahoutsukai to Goshujin-sama",
+    "source": "https://github.com/Vita3K/compatibility/issues/1378",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1378",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00631": {
+    "igdb_id": 144684,
+    "title": "Tokyo Onmyouji: Tengenjibashi Rei no Baai - V Edition",
+    "source": "https://github.com/Vita3K/compatibility/issues/2097",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2097",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00637": {
+    "igdb_id": 147317,
+    "title": "Taiheiyou no Arashi: Shijou Saidai no Gekisen Normandy Koubousen",
+    "source": "https://github.com/Vita3K/compatibility/issues/723",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/723",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00638": {
+    "igdb_id": 62263,
+    "title": "Amatsu Misora ni! Kumo no Hatate ni",
+    "source": "https://github.com/Vita3K/compatibility/issues/558",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/558",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00733": {
+    "igdb_id": 153052,
+    "title": "MeltyMoment",
+    "source": "https://github.com/Vita3K/compatibility/issues/1884",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1884",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00774": {
+    "igdb_id": 57702,
+    "title": "Kiniro no Corda 4",
+    "source": "https://github.com/Vita3K/compatibility/issues/705",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/705",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00781": {
+    "igdb_id": 136761,
+    "title": "Reco Love: Blue Ocean",
+    "source": "https://github.com/Vita3K/compatibility/issues/820",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/820",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00815": {
+    "igdb_id": 144634,
+    "title": "Psychic Emotion 6",
+    "source": "https://github.com/Vita3K/compatibility/issues/1540",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1540",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00906": {
+    "igdb_id": 140114,
+    "title": "Sakaagari Hurricane Portable",
+    "source": "https://github.com/Vita3K/compatibility/issues/2019",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2019",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00951": {
+    "igdb_id": 36606,
+    "title": "NepNep Connect: Chaos Chanpuru",
+    "source": "https://github.com/Vita3K/compatibility/issues/1800",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1800",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00965": {
+    "igdb_id": 142564,
+    "title": "Id: Rebirth Session",
+    "source": "https://github.com/Vita3K/compatibility/issues/2138",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2138",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00988": {
+    "igdb_id": 60325,
+    "title": "Hatsuru Koto Naki Mirai Yori",
+    "source": "https://github.com/Vita3K/compatibility/issues/1778",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1778",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG00995": {
+    "igdb_id": 65530,
+    "title": "Chaos;Child Love Chu Chu!!",
+    "source": "https://github.com/Vita3K/compatibility/issues/395",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/395",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01004": {
+    "igdb_id": 172713,
+    "title": "Love of Renai Koutei of Love!",
+    "source": "https://github.com/Vita3K/compatibility/issues/1875",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1875",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01017": {
+    "igdb_id": 283758,
+    "title": "Dare Demo Shodan ni Nareru Igo Kyoushitsu",
+    "source": "https://github.com/Vita3K/compatibility/issues/653",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/653",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01024": {
+    "igdb_id": 111649,
+    "title": "Hana Saki Work Spring!",
+    "source": "https://github.com/Vita3K/compatibility/issues/1023",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1023",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01034": {
+    "igdb_id": 111154,
+    "title": "Sengoku Hime 7: Senun Tsuranuku Guren no Ishi",
+    "source": "https://github.com/Vita3K/compatibility/issues/2036",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2036",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01115": {
+    "igdb_id": 98664,
+    "title": "Vitamin X Destination",
+    "source": "https://github.com/Vita3K/compatibility/issues/829",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/829",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01124": {
+    "igdb_id": 136531,
+    "title": "Kiniro no Corda 2 ff",
+    "source": "https://github.com/Vita3K/compatibility/issues/704",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/704",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01158": {
+    "igdb_id": 136472,
+    "title": "Kurenai no Homura Sanada Ninpouchou",
+    "source": "https://github.com/Vita3K/compatibility/issues/1593",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1593",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01167": {
+    "igdb_id": 135858,
+    "title": "Enkan no Memo-ria: Kakera Tomoshi",
+    "source": "https://github.com/Vita3K/compatibility/issues/669",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/669",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01203": {
+    "igdb_id": 153694,
+    "title": "Tayutama 2: You're the only one",
+    "source": "https://github.com/Vita3K/compatibility/issues/1020",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1020",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01207": {
+    "igdb_id": 151652,
+    "title": "Super Zangyura",
+    "source": "https://github.com/Vita3K/compatibility/issues/2066",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2066",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01211": {
+    "igdb_id": 136533,
+    "title": "Kiniro no Corda 3: Full Voice Special",
+    "source": "https://github.com/Vita3K/compatibility/issues/701",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/701",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01212": {
+    "igdb_id": 136534,
+    "title": "Kiniro no Corda 3 Another Sky feat. Jinnan, Shiseikan, Amane Gakuen",
+    "source": "https://github.com/Vita3K/compatibility/issues/703",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/703",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01245": {
+    "igdb_id": 109570,
+    "title": "Kiniro no Corda Octave",
+    "source": "https://github.com/Vita3K/compatibility/issues/1827",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1827",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01253": {
+    "igdb_id": 97347,
+    "title": "Kari Gurashi Ren'ai",
+    "source": "https://github.com/Vita3K/compatibility/issues/2214",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2214",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01285": {
+    "igdb_id": 97471,
+    "title": "Mell Kiss",
+    "source": "https://github.com/Vita3K/compatibility/issues/372",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/372",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01297": {
+    "igdb_id": 150327,
+    "title": "I x She Tell",
+    "source": "https://github.com/Vita3K/compatibility/issues/1797",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1797",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01299": {
+    "igdb_id": 145101,
+    "title": "Koi Suru Otome to Shugo no Tate: Bara no Seibo",
+    "source": "https://github.com/Vita3K/compatibility/issues/2160",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2160",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01312": {
+    "igdb_id": 131965,
+    "title": "Duck Souls+",
+    "source": "https://github.com/Vita3K/compatibility/issues/3453",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3453",
+      "data/catalog.json"
+    ]
+  },
+  "PCSG01325": {
+    "igdb_id": 136641,
+    "title": "Aikiss",
+    "source": "https://github.com/Vita3K/compatibility/issues/2143",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2143",
+      "data/catalog.json"
+    ]
+  },
+  "PCSH00136": {
+    "igdb_id": 19958,
+    "title": "J-Stars Victory Vs+",
+    "source": "https://github.com/Vita3K/compatibility/issues/636",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/636",
+      "data/catalog.json"
+    ]
+  },
+  "PCSH00275": {
+    "igdb_id": 57702,
+    "title": "Kiniro no Corda 4",
+    "source": "https://github.com/Vita3K/compatibility/issues/2298",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/2298",
+      "data/catalog.json"
+    ]
+  },
+  "PCSH10146": {
+    "igdb_id": 28916,
+    "title": "Hoggy 2",
+    "source": "https://github.com/Vita3K/compatibility/issues/3836",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3836",
+      "data/catalog.json"
+    ]
+  },
+  "PCSH10251": {
+    "igdb_id": 131965,
+    "title": "Duck Souls+",
+    "source": "https://github.com/Vita3K/compatibility/issues/3452",
+    "note": "Reviewed complete title character equality after spacing/punctuation normalization. Plus-sign count explicitly preserved to distinguish base/Plus editions. Unique full-string candidate; no partial, similarity or fuzzy matching.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3452",
+      "data/catalog.json"
+    ]
+  },
+  "PCSE00378": {
+    "igdb_id": 8665,
+    "title": "Best of Board Games",
+    "source": "https://github.com/Vita3K/compatibility/issues/3979",
+    "note": "Upstream identifies this same title ID as Best of Board Games Demo; PARAM.SFO TITLE is Best of Board Games. Same-game generic artwork only. This mapping does not assert full-game entitlement or resolve the demo/full release classification.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/3979",
+      "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+      "data/catalog.json"
+    ],
+    "release_variant_conflict": {
+      "upstream": "Demo",
+      "sfo_title": "Best of Board Games",
+      "resolution": "Same-game generic artwork identity only; full entitlement and edition packaging unverified",
+      "source": "https://github.com/Vita3K/compatibility/issues/3979"
+    }
+  },
+  "PCSE00443": {
+    "igdb_id": 8902,
+    "title": "Hyperdimension Neptunia Re;Birth1",
+    "source": "https://github.com/Vita3K/compatibility/issues/1110",
+    "note": "Full title character equality: Re;Birth 1 versus Re;Birth1 spacing only; not Re;Birth2 or other Neptunia release.",
+    "identity_evidence": [
+      "https://github.com/Vita3K/compatibility/issues/1110",
+      "data/catalog.json"
+    ]
+  }
+}

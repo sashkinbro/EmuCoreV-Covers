@@ -1,0 +1,94 @@
+{
+  "schema_version": 1,
+  "artwork": {
+    "provider": "IGDB",
+    "site": "https://www.igdb.com/",
+    "documentation": "https://api-docs.igdb.com/#images",
+    "identity": "Every image is traced to its catalog IGDB game ID and source_image_id in manifest.json. Original t_original bytes are retained under originals/.",
+    "rights": "Game artwork and PlayStation/PS Vita names remain the property of their respective owners. No ownership or open artwork license is asserted.",
+    "regional_scope": "Generic game-level artwork. No image has been verified as region-specific packaging."
+  },
+  "title_identity": {
+    "provider": "Vita3K commercial compatibility reports and supplemental public software identity assertions",
+    "endpoint": "https://api.vita3k.org/list/commercial",
+    "reports": "https://github.com/Vita3K/compatibility/issues",
+    "supplemental_evidence": "Public TITLE_ID/TITLE software identity assertions from PARAM.SFO. No ownership list, archive paths, game payloads, license keys or package URLs are distributed."
+  },
+  "renderer": {
+    "origin": "EmuCoreA tools/render_psp_covers_3d.py, psp-case-v13-clean-spine; template(), warp(), render() continuous print-sheet split",
+    "upstream_source": "https://github.com/sashkinbro/EmuCoreA/blob/main/tools/render_psp_covers_3d.py",
+    "upstream_file_sha256": "242c36ff757d499b7b759e04620bca8322ebe55bd8aa24383e619ec0fd3212ef",
+    "modifications": "Same canonical vertical A-derived case for all sources, shared source/composed UV wrapping spine/bevel/front. Normal artwork directly wraps the full print; outliers preserve complete original art in H-like designed sourced-title/platform panels. Real retail Vita plastic/compact PS+VITA/PSN header; no fabricated game features or ratings.",
+    "outlier_composition_visual_reference": {
+      "url": "https://github.com/sashkinbro/EmuCoreH-Covers/blob/main/arcade/3d/brickppl.webp",
+      "git_blob_sha": "63753027e31b32902cf373487e2e4caf88f496b0",
+      "scope": "Finished H marquee/art/footer visual composition reference. Styled production source code unavailable; no copied arcade feature/edition/credit claims or generated source art."
+    },
+    "reviewed_portrait_framing": {
+      "resource": "scripts/assets/portrait-layout-overrides.json",
+      "reviewed_A_style_crops": 40,
+      "complete_art_poster_exceptions": 5,
+      "scope": "Crop anchors bound to original SHA/dimensions and reviewed preview SHA. Title/subtitle/main-face visibility reviewed; hair/limb/background/credit margins can trim. Raw originals and flat style remain complete."
+    }
+  },
+  "font": {
+    "name": "DejaVu Sans 2.37",
+    "source": "https://github.com/dejavu-fonts/dejavu-fonts/releases/tag/version_2_37",
+    "license_file": "scripts/assets/FONT-LICENSE.txt"
+  },
+  "marks": {
+    "vita": {
+      "source": "https://commons.wikimedia.org/wiki/File:PlayStation_Vita_logo.svg",
+      "raster_source": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/PlayStation_Vita_logo.svg/1920px-PlayStation_Vita_logo.svg.png",
+      "credit": "Sony Computer Entertainment; vector by Tokyoship/Cbabb7",
+      "rights": "Public-domain textlogo classification on source page; trademark rights remain with Sony.",
+      "path": "scripts/assets/vita-logo.png",
+      "sha256": "972df3e33a38ece0bcd69d1d3f56eecce5afc81ad14a0bf43dec71f9a8c70017",
+      "wordmark_crop_xyxy": [
+        116,
+        32,
+        1838,
+        310
+      ],
+      "crop_policy": "Authentic PS VITA letters retained; separate small PlayStation Vita marketing caption excluded to match retail header."
+    },
+    "playstation": {
+      "source": "https://github.com/sashkinbro/EmuCoreA/blob/main/tools/assets/playstation-logo.png",
+      "credit": "Sony PlayStation mark; reused from existing EmuCoreA renderer asset",
+      "rights": "Trademark remains property of Sony; no ownership or open artwork license asserted.",
+      "path": "scripts/assets/playstation-logo.png",
+      "sha256": "4c0662984d64748d389bbb6ae50b57194188ffa3f43279b8b3be9de01a3c94f9"
+    },
+    "psn": {
+      "source_page": "https://blog.playstation.com/archive/2013/04/09/tearaway-release-date-and-reversible-ps-vita-box-art-revealed-2/",
+      "source_image": "https://farm9.staticflickr.com/8240/8621785072_ff684049e7_b.jpg",
+      "source_image_sha256": "6493f53e9dc0cbbc629b05ad9f42729429b31a9c94a06d07398aaaa8c4deeb72",
+      "source_dimensions": [
+        1024,
+        966
+      ],
+      "crop_xyxy": [
+        580,
+        140,
+        805,
+        180
+      ],
+      "asset_path": "scripts/assets/psn-retail.png",
+      "asset_dimensions": [
+        208,
+        35
+      ],
+      "asset_sha256": "13eada61a90548f33ad048b84e09b0713afd16052c52c3920cc760211abbcfbb",
+      "derivation": "Authentic Sony retail globe and wordmark pixels from primary packshot; blue background removed with white-letter red-channel matte and circular globe alpha. Globe colors retained; authentic lettering whitened, no typed replacement, no invented globe.",
+      "rights": "Sony PlayStation Network trademark; no ownership or open artwork license asserted.",
+      "resolution_note": "Retains observed source logo detail; proportional resampling does not create new detail."
+    }
+  },
+  "plastic_reference": {
+    "source_page": "https://blog.playstation.com/archive/2013/04/09/tearaway-release-date-and-reversible-ps-vita-box-art-revealed-2/",
+    "source_image": "https://farm9.staticflickr.com/8240/8621785072_ff684049e7.jpg",
+    "source_image_sha256": "7c32749d7c295010e4887af06a416051550961d12e431da0c5a05954f568b36c",
+    "palette_evidence": "scripts/assets/vita-plastic-palette.json",
+    "rights": "Official Sony/Media Molecule retail packshot used as a color reference only; no ownership or universal physical RGB claim."
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "documentation": "https://api-docs.igdb.com/#images",
+  "note": "1080p is documented; t_original availability and actual dimensions verified empirically. Source dimensions are never inferred from transformation labels.",
+  "samples": [
+    {
+      "igdb_id": "119",
+      "image_id": "co20mc",
+      "original": {
+        "bytes": 634943,
+        "format": "JPEG",
+        "height": 1333,
+        "sha256": "f6bf136b795dbbc7333b35c174b733b3c05ea419258650cfed4d6f2d07c1521f",
+        "width": 1000
+      },
+      "selection": "retain_original_bytes; transformed dimension increases may be interpolation",
+      "transformed_1080p": {
+        "bytes": 189045,
+        "height": 1080,
+        "sha256": "4eb137b9957cc001d22d08c05f666c39434f6f69f2faca6c10eae83412e82193",
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/co20mc.jpg",
+        "width": 810
+      }
+    },
+    {
+      "igdb_id": "236",
+      "image_id": "co1y96",
+      "original": {
+        "bytes": 169825,
+        "format": "JPEG",
+        "height": 987,
+        "sha256": "3a475eb9fdd22403ade770a756696a4c557e117169680f11611a60b1aaaa87b6",
+        "width": 740
+      },
+      "selection": "retain_original_bytes; transformed dimension increases may be interpolation",
+      "transformed_1080p": {
+        "bytes": 74870,
+        "height": 1080,
+        "sha256": "dc1cea1a0f37433288fb89e497b5eab4dd1e45a977c6a6969c2528ec360b2ca8",
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/co1y96.jpg",
+        "width": 810
+      }
+    },
+    {
+      "igdb_id": "1545",
+      "image_id": "cobpvf",
+      "original": {
+        "bytes": 775250,
+        "format": "PNG",
+        "height": 976,
+        "sha256": "45a478a8d3e7c1d63d3f5520b25c633de1c0d1453a1ffc25c57241f6b057d0a8",
+        "width": 732
+      },
+      "selection": "retain_original_bytes; transformed dimension increases may be interpolation",
+      "transformed_1080p": {
+        "bytes": 110054,
+        "height": 1080,
+        "sha256": "3f02df7d6afc6f26e1ec1866067da8b00ca0d5d4e14855326516342972d0a32b",
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/cobpvf.jpg",
+        "width": 810
+      }
+    },
+    {
+      "igdb_id": "6363",
+      "image_id": "co2h0d",
+      "original": {
+        "bytes": 689305,
+        "format": "PNG",
+        "height": 800,
+        "sha256": "f42dee21d0df1158089453333dafa5d159b1668e4ebfda09bc4c62eadd774584",
+        "width": 600
+      },
+      "selection": "retain_original_bytes; transformed dimension increases may be interpolation",
+      "transformed_1080p": {
+        "bytes": 103963,
+        "height": 1080,
+        "sha256": "83e9155584eb269d4f4ac1698021b6df7fa16175a198348682e682bfec037e15",
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2h0d.jpg",
+        "width": 810
+      }
+    },
+    {
+      "igdb_id": "21000",
+      "image_id": "co2h0j",
+      "original": {
+        "bytes": 492207,
+        "format": "PNG",
+        "height": 800,
+        "sha256": "1004f08dab1a8ad1c5e9e6c243918479a3773dbf56de27c2fbfdd6978fbe2886",
+        "width": 600
+      },
+      "selection": "retain_original_bytes; transformed dimension increases may be interpolation",
+      "transformed_1080p": {
+        "bytes": 77255,
+        "height": 1080,
+        "sha256": "b5abb0c65d369769b3084650b016115f86de7bade416045024827ab1c0e35999",
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/co2h0j.jpg",
+        "width": 810
+      }
+    },
+    {
+      "igdb_id": "147222",
+      "image_id": "co3kq1",
+      "original": {
+        "bytes": 1031997,
+        "format": "PNG",
+        "height": 800,
+        "sha256": "5c577bda8c84337a1c8404b37a59199de311513fc644c6c93a57fd32c8a9083b",
+        "width": 600
+      },
+      "selection": "retain_original_bytes; transformed dimension increases may be interpolation",
+      "transformed_1080p": {
+        "bytes": 166081,
+        "height": 1080,
+        "sha256": "7d862589b66f559f36bcafc692417748cdab801d946737609fb083052cf863a9",
+        "url": "https://images.igdb.com/igdb/image/upload/t_1080p/co3kq1.jpg",
+        "width": 810
+      }
+    }
+  ]
+}

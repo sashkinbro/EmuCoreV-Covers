@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "exclusions": [
+    {
+      "igdb_id": "21722",
+      "name": "Table Football",
+      "reason": "IGDB Other alias contradicts distinct Sony products: FIFA Soccer/Football is the EA sports game; Table Football/Soccer is a separate AR Play application.",
+      "evidence": ["https://blog.playstation.com/archive/2012/02/21/playstation-store-update-ps-vita-launch-edition"]
+    }
+  ]
+}

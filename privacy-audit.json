@@ -1,0 +1,15 @@
+{
+  "checks": [
+    "no ownership ID lists or inventory hashes",
+    "no absolute filesystem or archive paths",
+    "no game package URLs or license-key fields"
+  ],
+  "json_files_checked": 59,
+  "memory_only_actual_secret_comparison": {
+    "actual_credential_values_detected": 0,
+    "configuration_or_values_persisted": false,
+    "text_files_checked": 80
+  },
+  "private_inventory_policy": "Optional ownership data and detailed local coverage must stay outside the cover repository.",
+  "status": "passed"
+}

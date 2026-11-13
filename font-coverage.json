@@ -1,0 +1,1098 @@
+{
+  "actual_title_marquees": 72,
+  "designed_source_title_strings_checked": 98,
+  "font_path": "scripts/assets/DejaVuSans.ttf",
+  "font_sha256": "7da195a74c55bef988d0d48f9508bd5d849425c1770dba5d7bfc6ce9ed848954",
+  "layout_counts": {
+    "designed_title_and_platform_footer": 93,
+    "designed_whole_poster": 5,
+    "full_source_wrap": 2188,
+    "reviewed_portrait_crop_wrap": 40
+  },
+  "license_path": "scripts/assets/FONT-LICENSE.txt",
+  "records": [
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 41,
+      "glyphs_supported": true,
+      "igdb_id": "141475",
+      "invented_romanization": false,
+      "source_title": "@Simple V Series Vol.1 - The Docodemo Gal Mahjong",
+      "text_bbox": [
+        0,
+        8,
+        1094,
+        48
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 55,
+      "glyphs_supported": true,
+      "igdb_id": "141990",
+      "invented_romanization": false,
+      "source_title": "Suugaku Rikiou: Chukyuu Naka-2-Level",
+      "text_bbox": [
+        0,
+        10,
+        1086,
+        63
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 30,
+      "glyphs_supported": true,
+      "igdb_id": "143515",
+      "invented_romanization": false,
+      "source_title": "World Election",
+      "text_bbox": [
+        0,
+        5,
+        216,
+        28
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 24,
+      "glyphs_supported": true,
+      "igdb_id": "143832",
+      "invented_romanization": false,
+      "source_title": "@Simple V Series Vol. 2: The Tousou Highway Full Boost - Nagoya-Tokyo Gekisou 4-Jikan",
+      "text_bbox": [
+        0,
+        5,
+        1081,
+        28
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "143833",
+      "invented_romanization": false,
+      "source_title": "Dairansou Dash or Dasshu!!",
+      "text_bbox": [
+        0,
+        13,
+        972,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 25,
+      "glyphs_supported": true,
+      "igdb_id": "144179",
+      "invented_romanization": false,
+      "source_title": "Cyber Troopers: Virtual On x Toaru Majutsu no Index - Toaru Majutsu no Dennou Senki",
+      "text_bbox": [
+        0,
+        5,
+        1080,
+        29
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "148202",
+      "invented_romanization": false,
+      "source_title": "Monster Radar Plus",
+      "text_bbox": [
+        0,
+        13,
+        668,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 49,
+      "glyphs_supported": true,
+      "igdb_id": "163672",
+      "invented_romanization": false,
+      "source_title": "Pinball Arcade: Doctor Who - Master of Time",
+      "text_bbox": [
+        0,
+        9,
+        1092,
+        47
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "178713",
+      "invented_romanization": false,
+      "source_title": "Nikoli no Puzzle V: Museum",
+      "text_bbox": [
+        0,
+        13,
+        947,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 65,
+      "glyphs_supported": true,
+      "igdb_id": "178756",
+      "invented_romanization": false,
+      "source_title": "Nikoli no Puzzle V: Shikaku ni Kire",
+      "text_bbox": [
+        0,
+        12,
+        1104,
+        62
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "178757",
+      "invented_romanization": false,
+      "source_title": "Nikoli no Puzzle V: Numberlink",
+      "text_bbox": [
+        0,
+        13,
+        1053,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "178758",
+      "invented_romanization": false,
+      "source_title": "Nikoli no Puzzle V: Yajilin",
+      "text_bbox": [
+        0,
+        13,
+        858,
+        79
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 128,
+      "glyphs_supported": true,
+      "igdb_id": "22112",
+      "invented_romanization": false,
+      "source_title": "Rock Boshers DX",
+      "text_bbox": [
+        0,
+        22,
+        1093,
+        121
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 152,
+      "glyphs_supported": true,
+      "igdb_id": "28466",
+      "invented_romanization": false,
+      "source_title": "Othello",
+      "text_bbox": [
+        0,
+        27,
+        547,
+        144
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 32,
+      "glyphs_supported": true,
+      "igdb_id": "297245",
+      "invented_romanization": false,
+      "source_title": "Yomawari: Night Alone / htol#NiQ: The Firefly Diary - Limited Edition",
+      "text_bbox": [
+        -1,
+        6,
+        1104,
+        37
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 31,
+      "glyphs_supported": true,
+      "igdb_id": "301522",
+      "invented_romanization": false,
+      "source_title": "Minecraft: Minecon 2015 Skin Pack",
+      "text_bbox": [
+        0,
+        5,
+        548,
+        29
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 49,
+      "glyphs_supported": true,
+      "igdb_id": "312972",
+      "invented_romanization": false,
+      "source_title": "PlayStation All-Stars Battle Royale: Fearless",
+      "text_bbox": [
+        0,
+        9,
+        1081,
+        56
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 48,
+      "glyphs_supported": true,
+      "igdb_id": "313018",
+      "invented_romanization": false,
+      "source_title": "PlayStation All-Stars Battle Royale: Graveyard",
+      "text_bbox": [
+        0,
+        9,
+        1099,
+        55
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 54,
+      "glyphs_supported": true,
+      "igdb_id": "313040",
+      "invented_romanization": false,
+      "source_title": "PlayStation All-Stars Battle Royale: Zeus",
+      "text_bbox": [
+        0,
+        10,
+        1090,
+        62
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 41,
+      "glyphs_supported": true,
+      "igdb_id": "315076",
+      "invented_romanization": false,
+      "source_title": "PlayStation All-Stars Battle Royale: Big Daddy Plushy",
+      "text_bbox": [
+        0,
+        8,
+        1082,
+        48
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 62,
+      "glyphs_supported": true,
+      "igdb_id": "317101",
+      "invented_romanization": false,
+      "source_title": "Ryuu ga Gotoku Ishin! Muryou App",
+      "text_bbox": [
+        0,
+        11,
+        1080,
+        71
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 96,
+      "glyphs_supported": true,
+      "igdb_id": "319095",
+      "invented_romanization": false,
+      "source_title": "Top Classic Plaigarized",
+      "text_bbox": [
+        -1,
+        17,
+        1101,
+        110
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 36,
+      "glyphs_supported": true,
+      "igdb_id": "319167",
+      "invented_romanization": false,
+      "source_title": "Persona 4 Dancing All Night: Heaven featuring Hatsune Miku",
+      "text_bbox": [
+        0,
+        7,
+        1096,
+        41
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 118,
+      "glyphs_supported": true,
+      "igdb_id": "325797",
+      "invented_romanization": false,
+      "source_title": "Ancient Villa",
+      "text_bbox": [
+        0,
+        20,
+        738,
+        112
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 67,
+      "glyphs_supported": true,
+      "igdb_id": "329142",
+      "invented_romanization": false,
+      "source_title": "Tales of Hearts R: Infinite Evolve",
+      "text_bbox": [
+        -1,
+        12,
+        1094,
+        64
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 65,
+      "glyphs_supported": true,
+      "igdb_id": "336109",
+      "invented_romanization": false,
+      "source_title": "Durarara!! 3way Standoff: Alley V",
+      "text_bbox": [
+        0,
+        12,
+        1098,
+        75
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 60,
+      "glyphs_supported": true,
+      "igdb_id": "336111",
+      "invented_romanization": false,
+      "source_title": "Mobile Suit Gundam: Battle Fortress",
+      "text_bbox": [
+        0,
+        10,
+        1092,
+        57
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "336113",
+      "invented_romanization": false,
+      "source_title": "Kurogane Kaikijong",
+      "text_bbox": [
+        0,
+        13,
+        667,
+        79
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 35,
+      "glyphs_supported": true,
+      "igdb_id": "362110",
+      "invented_romanization": false,
+      "source_title": "Persona 3: Dancing in Moonlight - Goro Akechi in \"Will Power\"",
+      "text_bbox": [
+        0,
+        6,
+        1079,
+        40
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 67,
+      "glyphs_supported": true,
+      "igdb_id": "387258",
+      "invented_romanization": false,
+      "source_title": "Gravity Rush: Spy Costume Pack",
+      "text_bbox": [
+        0,
+        12,
+        1099,
+        77
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 65,
+      "glyphs_supported": true,
+      "igdb_id": "387259",
+      "invented_romanization": false,
+      "source_title": "Gravity Rush: Maid Costume Pack",
+      "text_bbox": [
+        0,
+        12,
+        1099,
+        75
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "387262",
+      "invented_romanization": false,
+      "source_title": "Gravity Rush: Military Pack",
+      "text_bbox": [
+        0,
+        13,
+        929,
+        79
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 118,
+      "glyphs_supported": true,
+      "igdb_id": "390722",
+      "invented_romanization": false,
+      "source_title": "Fuck AI",
+      "text_bbox": [
+        0,
+        20,
+        430,
+        112
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "396303",
+      "invented_romanization": false,
+      "source_title": "Blue Reflection: Special Event",
+      "text_bbox": [
+        0,
+        13,
+        1032,
+        79
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "396318",
+      "invented_romanization": false,
+      "source_title": "Blue Reflection: Seasons Pass",
+      "text_bbox": [
+        0,
+        13,
+        1028,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 45,
+      "glyphs_supported": true,
+      "igdb_id": "396320",
+      "invented_romanization": false,
+      "source_title": "Blue Reflection: Bonus Costume Nightless Saber",
+      "text_bbox": [
+        0,
+        8,
+        1099,
+        51
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 66,
+      "glyphs_supported": true,
+      "igdb_id": "52170",
+      "invented_romanization": false,
+      "source_title": "Ecolibrium",
+      "text_bbox": [
+        0,
+        12,
+        347,
+        63
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 118,
+      "glyphs_supported": true,
+      "igdb_id": "52171",
+      "invented_romanization": false,
+      "source_title": "Dust 514: Neocom",
+      "text_bbox": [
+        0,
+        24,
+        1099,
+        112
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 151,
+      "glyphs_supported": true,
+      "igdb_id": "52245",
+      "invented_romanization": false,
+      "source_title": "Inner City Kids",
+      "text_bbox": [
+        0,
+        26,
+        1099,
+        172
+      ]
+    },
+    {
+      "available_width": 3481,
+      "composition": "designed_whole_poster",
+      "font_size_pixels": 139,
+      "glyphs_supported": true,
+      "igdb_id": "52534",
+      "invented_romanization": false,
+      "source_title": "Jungle Rumble: Freedom, Happiness and Bananas",
+      "text_bbox": [
+        -8,
+        24,
+        3473,
+        159
+      ]
+    },
+    {
+      "available_width": 1998,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 214,
+      "glyphs_supported": true,
+      "igdb_id": "52643",
+      "invented_romanization": false,
+      "source_title": "OMG HD Zombies!",
+      "text_bbox": [
+        0,
+        36,
+        1992,
+        202
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 97,
+      "glyphs_supported": true,
+      "igdb_id": "52920",
+      "invented_romanization": false,
+      "source_title": "The Chainsaw Incident",
+      "text_bbox": [
+        -1,
+        17,
+        1098,
+        92
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 118,
+      "glyphs_supported": true,
+      "igdb_id": "54406",
+      "invented_romanization": false,
+      "source_title": "Strike Solitaire",
+      "text_bbox": [
+        0,
+        20,
+        868,
+        112
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "56000",
+      "invented_romanization": false,
+      "source_title": "Dragons Online",
+      "text_bbox": [
+        0,
+        13,
+        533,
+        79
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "58844",
+      "invented_romanization": false,
+      "source_title": "Pirate Solitaire",
+      "text_bbox": [
+        0,
+        13,
+        504,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "59408",
+      "invented_romanization": false,
+      "source_title": "Oukaranman",
+      "text_bbox": [
+        0,
+        13,
+        447,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 65,
+      "glyphs_supported": true,
+      "igdb_id": "59409",
+      "invented_romanization": false,
+      "source_title": "Project Discovery: Daidai Daisuki!",
+      "text_bbox": [
+        0,
+        12,
+        1103,
+        75
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "60236",
+      "invented_romanization": false,
+      "source_title": "Strike Solitaire 2",
+      "text_bbox": [
+        0,
+        13,
+        570,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 121,
+      "glyphs_supported": true,
+      "igdb_id": "60570",
+      "invented_romanization": false,
+      "source_title": "Bizerta: Silent Evil",
+      "text_bbox": [
+        0,
+        21,
+        1102,
+        115
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_whole_poster",
+      "font_size_pixels": 86,
+      "glyphs_supported": true,
+      "igdb_id": "60766",
+      "invented_romanization": false,
+      "source_title": "Boss!",
+      "text_bbox": [
+        0,
+        17,
+        236,
+        81
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "61682",
+      "invented_romanization": false,
+      "source_title": "Infinita Strada",
+      "text_bbox": [
+        0,
+        13,
+        488,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_whole_poster",
+      "font_size_pixels": 71,
+      "glyphs_supported": true,
+      "igdb_id": "62078",
+      "invented_romanization": false,
+      "source_title": "Seiken Densetsu: Rise of Mana",
+      "text_bbox": [
+        0,
+        12,
+        1102,
+        67
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 68,
+      "glyphs_supported": true,
+      "igdb_id": "62640",
+      "invented_romanization": false,
+      "source_title": "Sqrxz III",
+      "text_bbox": [
+        0,
+        13,
+        272,
+        78
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 152,
+      "glyphs_supported": true,
+      "igdb_id": "63418",
+      "invented_romanization": false,
+      "source_title": "UniUni Union",
+      "text_bbox": [
+        0,
+        27,
+        984,
+        144
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 152,
+      "glyphs_supported": true,
+      "igdb_id": "63419",
+      "invented_romanization": false,
+      "source_title": "Eledive",
+      "text_bbox": [
+        0,
+        27,
+        554,
+        144
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 125,
+      "glyphs_supported": true,
+      "igdb_id": "63854",
+      "invented_romanization": false,
+      "source_title": "Super Brain Eat 3",
+      "text_bbox": [
+        0,
+        22,
+        1098,
+        143
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 95,
+      "glyphs_supported": true,
+      "igdb_id": "63924",
+      "invented_romanization": false,
+      "source_title": "Super Skull Smash GO!",
+      "text_bbox": [
+        0,
+        17,
+        1102,
+        109
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "64004",
+      "invented_romanization": false,
+      "source_title": "Radiant Flux",
+      "text_bbox": [
+        0,
+        13,
+        432,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 59,
+      "glyphs_supported": true,
+      "igdb_id": "64935",
+      "invented_romanization": false,
+      "source_title": "Nikoli no Puzzle V: Hitori ni Shitekure",
+      "text_bbox": [
+        0,
+        10,
+        1088,
+        56
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "64936",
+      "invented_romanization": false,
+      "source_title": "Puzzle by Nikoli V: Sudoku",
+      "text_bbox": [
+        0,
+        13,
+        911,
+        79
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "64937",
+      "invented_romanization": false,
+      "source_title": "Nikoli no Puzzle V: Heyawake",
+      "text_bbox": [
+        0,
+        13,
+        1011,
+        79
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "65101",
+      "invented_romanization": false,
+      "source_title": "Nikoli no Puzzle V: Nurikabe",
+      "text_bbox": [
+        0,
+        13,
+        965,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "65122",
+      "invented_romanization": false,
+      "source_title": "Table Top Tanks",
+      "text_bbox": [
+        -1,
+        13,
+        564,
+        79
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "65164",
+      "invented_romanization": false,
+      "source_title": "Puzzle by Nikoli V: Slitherlink",
+      "text_bbox": [
+        0,
+        13,
+        998,
+        79
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 152,
+      "glyphs_supported": true,
+      "igdb_id": "74160",
+      "invented_romanization": false,
+      "source_title": "Beats Trellis",
+      "text_bbox": [
+        0,
+        27,
+        933,
+        144
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 44,
+      "glyphs_supported": true,
+      "igdb_id": "77782",
+      "invented_romanization": false,
+      "source_title": "Winning Post 8 2018",
+      "text_bbox": [
+        0,
+        8,
+        456,
+        50
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_whole_poster",
+      "font_size_pixels": 71,
+      "glyphs_supported": true,
+      "igdb_id": "80952",
+      "invented_romanization": false,
+      "source_title": "Slayaway Camp: Butcher's Cut",
+      "text_bbox": [
+        0,
+        12,
+        1099,
+        81
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "83880",
+      "invented_romanization": false,
+      "source_title": "Nikoli no Puzzle V: Kakuro",
+      "text_bbox": [
+        0,
+        13,
+        895,
+        66
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 66,
+      "glyphs_supported": true,
+      "igdb_id": "93563",
+      "invented_romanization": false,
+      "source_title": "Deflector",
+      "text_bbox": [
+        0,
+        12,
+        304,
+        63
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_whole_poster",
+      "font_size_pixels": 86,
+      "glyphs_supported": true,
+      "igdb_id": "98664",
+      "invented_romanization": false,
+      "source_title": "Vitamin X Destination",
+      "text_bbox": [
+        0,
+        15,
+        942,
+        81
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 69,
+      "glyphs_supported": true,
+      "igdb_id": "99810",
+      "invented_romanization": false,
+      "source_title": "3-in-1 Mega Bundle",
+      "text_bbox": [
+        0,
+        13,
+        673,
+        79
+      ]
+    },
+    {
+      "available_width": 1104,
+      "composition": "designed_title_and_platform_footer",
+      "font_size_pixels": 61,
+      "glyphs_supported": true,
+      "igdb_id": "99814",
+      "invented_romanization": false,
+      "source_title": "Jacob Jones and the Bigfoot Mystery",
+      "text_bbox": [
+        -4,
+        11,
+        1101,
+        70
+      ]
+    }
+  ],
+  "renderer_policy": "vita-canonical-retail-v6-reviewed-framing",
+  "renderer_sha256": "db968ac423f5687ea0bcca5ae599fbe6928e161cedc31a6f7bd690451f32ed80",
+  "unsupported_glyphs": 0
+}

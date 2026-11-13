@@ -1,0 +1,252 @@
+{
+  "catalog_games": 2326,
+  "coverage_sha256": "ddeb1d9dcb7627d67d50084dcd7c6f183128d4b58b1a0eaaf954bae1804fee03",
+  "derivatives_sha256": "448e0e8c08ffc84ee0f4f7457df3938fdce3f610c5be3ef7a95bbcf01c4bca7f",
+  "deterministic_regeneration_samples": [
+    {
+      "flat_sha256": "c6b407569aa5ef63999d046dee45d7fbaa94127fdd454c46bb6180f29e871a7d",
+      "igdb_id": "119",
+      "three_dimensional_sha256": "f91bc80678abf6b1d11770bf58521eff411cdfe1383f2e5b3209fb2f5503f726"
+    },
+    {
+      "flat_sha256": "ad199bbddbd903d1d1cdd5e58c173046aecf2fffc50846145edd27dd47706e9a",
+      "igdb_id": "236",
+      "three_dimensional_sha256": "561097e1f39d54dd1a06e611548e964806c7b9d4ab0852d64bbfc2997ead311a"
+    },
+    {
+      "flat_sha256": "580733ee37e00e80787e4f5bce63e3422238c0bae8169b6c369c7ad51cf3ef7a",
+      "igdb_id": "107044",
+      "three_dimensional_sha256": "ee385990d852c8b06b5ef86d709fa5014f59164468521626f4d0b501b5f19795"
+    },
+    {
+      "flat_sha256": "5db4f66a9a14038100127b05fbec4d05340a98d0b30352ddcd900d4b6ba08b49",
+      "igdb_id": "8616",
+      "three_dimensional_sha256": "79967562c1a3683cf09f7433f198d103d22a576a3ce45624fc83b778a91d7434"
+    },
+    {
+      "flat_sha256": "3939f9892c3274bc3cbd79d0c1a33ed344af0408f5a7affda5b790332688236e",
+      "igdb_id": "59408",
+      "three_dimensional_sha256": "f6863b1059f051b9dd1ea1557c7a312772f7279e645faf42eade78a0c982888e"
+    },
+    {
+      "flat_sha256": "34c457ef660e339ae3f4807c7ee4c5749bd204adb07b5b410827121a38807482",
+      "igdb_id": "63419",
+      "three_dimensional_sha256": "1cc485a364693988bcc86c92d6efa1d0f94cccfe8cd3d707f9517b6880e769c3"
+    },
+    {
+      "flat_sha256": "172f8a783c2caf9e72a7027e4bde819eff7acf3e552976e57d89a0c772ce394e",
+      "igdb_id": "98664",
+      "three_dimensional_sha256": "a7accf06a4096878455ef65e73ed98ed969fbd5758595da03fc0af8ecff67b0d"
+    },
+    {
+      "flat_sha256": "24f36a3cf32cb89dbc2f6a6634fcdd3836fa2163dcd8be0c71ece4b919328365",
+      "igdb_id": "52534",
+      "three_dimensional_sha256": "745a393bcf527500ebea136f4a7fcafe996421fba47d194345d136ca30bb588b"
+    },
+    {
+      "flat_sha256": "17ee82c23eb16739e83e59094aadd79ff7b48d0b1c90518e3d765ed5556e43ca",
+      "igdb_id": "91029",
+      "three_dimensional_sha256": "b7e66fb5b940fc1e64fdeda7c7076da8cbb122432855a7be2b8a695d67720ccd"
+    },
+    {
+      "flat_sha256": "cbe1ebbae477c2bdb9edc907dd7dc49a8612c0f80bfe2024acf2b4c23753b5dd",
+      "igdb_id": "390722",
+      "three_dimensional_sha256": "fd950cd6b52d47aac3d41c2250a8169142d602029e081923c5f5294668b943c3"
+    }
+  ],
+  "exact_title_ids": 3425,
+  "external_inventory_count": 249,
+  "identity_sha256": "09b65a14d0135c10e6fcde4aea5da0856202fb51c0b932cfaaf92db0168e329d",
+  "index_sha256": "b16c714b4bf27f75b128de18d0b535be0365258eedd43e326e1feac20a92725e",
+  "manifest_sha256": "3a44e123a7e7fc0dc4709e48e51cfa0e983e4fdc1e3d48f60ff942fd362b132d",
+  "runtime_image_maxima": {
+    "bytes": 7403774,
+    "height": 5850,
+    "pixels": 22815000,
+    "width": 3900
+  },
+  "software_sample_decode": "Full Pillow decode then RGBA resize to 720x1080; not an on-device Android decoder assertion",
+  "software_sample_decodes": [
+    {
+      "igdb_id": "119",
+      "rgba_sha256": "90c3a63e6e04c965f1d0182e6e2457cba0f2c8051b859a488a8022d9a36c230e",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "flat"
+    },
+    {
+      "igdb_id": "119",
+      "rgba_sha256": "7f2bc3a1723749fa716f59f0c88abc3b912102b826312d05ab5ae4791cdeb9af",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "3d"
+    },
+    {
+      "igdb_id": "236",
+      "rgba_sha256": "4d348c05e2d21e061f59ad18810a5efee786cdbfcd2a7c1f15fe6737d826678d",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "flat"
+    },
+    {
+      "igdb_id": "236",
+      "rgba_sha256": "9d3ea804b922884600f0200ca836ada9ba4840da973719794e38f3c27203e1cf",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "3d"
+    },
+    {
+      "igdb_id": "107044",
+      "rgba_sha256": "9f057c2629e737a81995f673c8d5832f29c752613053a32050b7d269a669f0c1",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "flat"
+    },
+    {
+      "igdb_id": "107044",
+      "rgba_sha256": "9c769050daad00804c68eccc77a61c419d5e9614c6143626a07bede4dbbcf8be",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "3d"
+    },
+    {
+      "igdb_id": "8616",
+      "rgba_sha256": "99ecae50c5df1c602c88e0d64b28aeb1657b227b1dd0a8d55658635204ff154c",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "flat"
+    },
+    {
+      "igdb_id": "8616",
+      "rgba_sha256": "87fe89cd17fc42fe87b1183b058dda1cf0a2143df5b768301e451d832a48e456",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "3d"
+    },
+    {
+      "igdb_id": "59408",
+      "rgba_sha256": "71560db00eabddeb6d9b9ccfbf0757d454de8716955447f57b105330c23de8a2",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "flat"
+    },
+    {
+      "igdb_id": "59408",
+      "rgba_sha256": "aa627a7e19c216735642ccd6f8bde15358f34da03abf2a8d2543072e358634c2",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "3d"
+    },
+    {
+      "igdb_id": "63419",
+      "rgba_sha256": "8376c3070125a0a186ef6b950a2601259e71b394232c018a89827449ba2331db",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "flat"
+    },
+    {
+      "igdb_id": "63419",
+      "rgba_sha256": "7c0dce052d7e62d3566421123ffa826c7997c60f0ff1c5a2faa01e18507875f6",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "3d"
+    },
+    {
+      "igdb_id": "98664",
+      "rgba_sha256": "3628b6d07e0a56e10b610b3465d132371690241f856d7b04fd21c611e5483a44",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "flat"
+    },
+    {
+      "igdb_id": "98664",
+      "rgba_sha256": "8fb09f029c921c37038618ba57686496bf9824366d3d3c3f51f947bb1fe38419",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "3d"
+    },
+    {
+      "igdb_id": "52534",
+      "rgba_sha256": "5b38d1f10a2ae7b2d7f53a1c88f652883ca73fc27d2c986443ab0573066a86b3",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "flat"
+    },
+    {
+      "igdb_id": "52534",
+      "rgba_sha256": "488bf7bd3b091193431935711072035e447c6c32fad2fce37f664e8dd096548a",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "3d"
+    },
+    {
+      "igdb_id": "91029",
+      "rgba_sha256": "9c983ae73705de6c79c667ed6bf34afab27122061cd07117c6ce68ffff93fb72",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "flat"
+    },
+    {
+      "igdb_id": "91029",
+      "rgba_sha256": "3316b09b65ffeffd43429293af7df3a374eca5958a36e442286f13b63faa0a00",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "3d"
+    },
+    {
+      "igdb_id": "390722",
+      "rgba_sha256": "262c0db36c66e577b5cc5b6df370981262726dd2e0d9d1b69e9569c7feb619c5",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "flat"
+    },
+    {
+      "igdb_id": "390722",
+      "rgba_sha256": "b36a9610a7226dffda4bf31e331a7b6adc1e6f6d110fde97530b05b294ea9d44",
+      "software_sample_dimensions": [
+        720,
+        1080
+      ],
+      "style": "3d"
+    }
+  ],
+  "structural_validation": "passed"
+}

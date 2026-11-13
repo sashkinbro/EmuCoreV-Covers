@@ -1,0 +1,144 @@
+{
+  "schema_version": 1,
+  "source_page": "https://blog.playstation.com/archive/2013/04/09/tearaway-release-date-and-reversible-ps-vita-box-art-revealed-2/",
+  "source_image_url": "https://farm9.staticflickr.com/8240/8621785072_ff684049e7.jpg",
+  "source_image_sha256": "7c32749d7c295010e4887af06a416051550961d12e431da0c5a05954f568b36c",
+  "source_dimensions": [
+    499,
+    471
+  ],
+  "source_identity": "Sony PlayStation Blog / Media Molecule official Tearaway retail Vita packshot, April9 2013, first reversible variant. Visible plastic rim sampled, not PSP material.",
+  "method": "Channel-wise median of explicitly recorded source rectangles; sRGB image samples. Lighting/JPEG/source color management vary, so no universal physical-plastic RGB equality is claimed.",
+  "samples": {
+    "body": {
+      "rectangle_xyxy_exclusive": [
+        397,
+        130,
+        401,
+        380
+      ],
+      "median_rgb": [
+        38,
+        88,
+        160
+      ]
+    },
+    "top_bevel": {
+      "rectangle_xyxy_exclusive": [
+        160,
+        55,
+        350,
+        59
+      ],
+      "median_rgb": [
+        42,
+        90,
+        164
+      ]
+    },
+    "side": {
+      "rectangle_xyxy_exclusive": [
+        115,
+        65,
+        118,
+        115
+      ],
+      "median_rgb": [
+        23,
+        86,
+        160
+      ]
+    },
+    "highlight": {
+      "rectangle_xyxy_exclusive": [
+        127,
+        58,
+        130,
+        110
+      ],
+      "median_rgb": [
+        172,
+        197,
+        224
+      ]
+    },
+    "bottom_rim": {
+      "rectangle_xyxy_exclusive": [
+        180,
+        425,
+        260,
+        428
+      ],
+      "median_rgb": [
+        40,
+        88,
+        160
+      ]
+    },
+    "header_dark": {
+      "rectangle_xyxy_exclusive": [
+        160,
+        68,
+        265,
+        72
+      ],
+      "median_rgb": [
+        0,
+        91,
+        173
+      ]
+    },
+    "header_light": {
+      "rectangle_xyxy_exclusive": [
+        325,
+        68,
+        390,
+        72
+      ],
+      "median_rgb": [
+        0,
+        143,
+        213
+      ]
+    }
+  },
+  "materials": [
+    [
+      38,
+      88,
+      160
+    ],
+    [
+      42,
+      90,
+      164
+    ],
+    [
+      23,
+      86,
+      160
+    ],
+    [
+      172,
+      197,
+      224
+    ],
+    [
+      38,
+      88,
+      160
+    ]
+  ],
+  "header_gradient_rgb": [
+    [
+      0,
+      91,
+      173
+    ],
+    [
+      0,
+      143,
+      213
+    ]
+  ]
+}

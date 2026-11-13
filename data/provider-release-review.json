@@ -1,0 +1,2855 @@
+{
+  "by_provider_release_evidence_shape": {
+    "dated_vita_row": 50,
+    "no_vita_release_row": 47,
+    "vita_row_date_tbd": 40
+  },
+  "by_provider_vita_release_region": {
+    "asia": 1,
+    "china": 1,
+    "europe": 2,
+    "japan": 25,
+    "north_america": 11,
+    "worldwide": 52
+  },
+  "records": [
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 236,
+      "name": "Myst",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 1185,
+      "name": "Crash Bandicoot",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 1531,
+      "name": "Jak and Daxter: The Lost Frontier",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 1721,
+      "name": "Mega Man 8",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 1753,
+      "name": "The Misadventures of Tron Bonne",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 4100,
+      "name": "Tomba! 2: The Evil Swine Return",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 4115,
+      "name": "Syphon Filter",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 8339,
+      "name": "Minecraft: Story Mode",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 8911,
+      "name": "Alpha Mission",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 9500,
+      "name": "King's Field II",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 9676,
+      "name": "Vib-Ribbon",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 11819,
+      "name": "Girl Friend Beta: Summer Vacation Spent With You",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1447891200,
+          "human": "Nov 19, 2015",
+          "id": 33041,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 14674,
+      "name": "Valkyria Chronicles 2",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 15282,
+      "name": "Auditorium",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 16473,
+      "name": "Iron Maiden: Legacy of the Beast",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 19287,
+      "name": "Clock Tower",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 19288,
+      "name": "Clock Tower II: The Struggle Within",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 19801,
+      "name": "Stranger of Sword City 2",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 20063,
+      "name": "Dead Nation: Apocalypse Edition",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 20633,
+      "name": "OMG-Z",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1329868800,
+          "human": "Feb 22, 2012",
+          "id": 939694,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 20900,
+      "name": "Pac-Man Championship Edition",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1329868800,
+          "human": "Feb 22, 2012",
+          "id": 930300,
+          "platform": 46,
+          "release_region": {
+            "id": 1,
+            "region": "europe"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 21020,
+      "name": "Ys I & II Chronicles",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1337040000,
+          "human": "May 15, 2012",
+          "id": 942258,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          },
+          "status": {
+            "id": 35,
+            "name": "Digital Compatibility Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 21837,
+      "name": "1000 Tiny Claws",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 22018,
+      "name": "Driver 76",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 26831,
+      "name": "Audio Hero",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1546214400,
+          "human": "2018",
+          "id": 132569,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 42118,
+      "name": "Victory Run",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 42667,
+      "name": "Phineas & Ferb: Day of Doofensmirtz",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 881509,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 42675,
+      "name": "Danganronpa Another Episode: Ultra Despair Girls - Limited Edition",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1441065600,
+          "human": "Sep 01, 2015",
+          "id": 918841,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "edition_candidate_pending_primary_release_proof",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 42783,
+      "name": "Alien Havoc",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1329868800,
+          "human": "Feb 22, 2012",
+          "id": 939712,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 42826,
+      "name": "Dynogems",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 43796,
+      "name": "Expert",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 44780,
+      "name": "Puyo Puyo Box",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 44781,
+      "name": "Puyo Puyo Sun Ketteiban",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 44937,
+      "name": "Gubble",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 44998,
+      "name": "Lunar 2: Eternal Blue Complete",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 45013,
+      "name": "Rapid Reload",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1346112000,
+          "human": "Aug 28, 2012",
+          "id": 912898,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 35,
+            "name": "Digital Compatibility Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 45525,
+      "name": "Dark Legend",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1413936000,
+          "human": "Oct 22, 2014",
+          "id": 915196,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 35,
+            "name": "Digital Compatibility Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 52045,
+      "name": "Arcade Darts",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1329868800,
+          "human": "Feb 22, 2012",
+          "id": 939698,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 52160,
+      "name": "Circles, Circles, Circles",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 52171,
+      "name": "Dust 514: Neocom",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 881573,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "announced_companion_app_release_unverified",
+      "review_evidence_urls": [
+        "https://blog.playstation.com/?p=72533"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 53249,
+      "name": "Jigsaw World",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1356912000,
+          "human": "2012",
+          "id": 911720,
+          "platform": 46,
+          "release_region": {
+            "id": 6,
+            "region": "china"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 59408,
+      "name": "Oukaranman",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1383177600,
+          "human": "Oct 31, 2013",
+          "id": 988290,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "asset_already_added",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 59409,
+      "name": "Project Discovery: Daidai Daisuki!",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 881863,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "asset_already_added",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 60033,
+      "name": "Myriad",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 961560,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 62075,
+      "name": "Aiyoku no Eustia: Angel's Blessing",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1403913600,
+          "human": "Jun 28, 2014",
+          "id": 229435,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 63418,
+      "name": "UniUni Union",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1340236800,
+          "human": "Jun 21, 2012",
+          "id": 990542,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "native_source_corroborated_art_gap",
+      "review_evidence_urls": [
+        "https://github.com/Vita3K/compatibility/issues/3877"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 63419,
+      "name": "Eledive",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1340236800,
+          "human": "Jun 21, 2012",
+          "id": 990541,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "asset_already_added",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 64384,
+      "name": "Passing Time",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1369180800,
+          "human": "May 22, 2013",
+          "id": 930949,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "playstation_mobile_separate_scope",
+      "review_evidence_urls": [
+        "https://blog.playstation.com/archive/2013/05/22/playstation-mobile-spotlight-passing-time/"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 64445,
+      "name": "Guardian Hearts Online",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1356912000,
+          "human": "2012",
+          "id": 988220,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "asset_already_added",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 73389,
+      "name": "Hyper Crazy Climber",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 89870,
+      "name": "Tales of Innocence R: Limited Edition",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1327536000,
+          "human": "Jan 26, 2012",
+          "id": 747172,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 91126,
+      "name": "Tag",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1356912000,
+          "human": "2012",
+          "id": 988300,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "asset_already_added",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 91925,
+      "name": "Tokyo Majin Gakuen: Kenpuu-chou",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 93563,
+      "name": "Deflector",
+      "provider_global_game_status": {
+        "id": 4,
+        "status": "Early Access"
+      },
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1329868800,
+          "human": "Feb 22, 2012",
+          "id": 342580,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 93601,
+      "name": "Luc Bernard's Reaper",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 882480,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "renamed_project_duplicate_candidate",
+      "review_evidence_urls": [
+        "https://blog.playstation.com/?p=145153"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 94126,
+      "name": "Vibes",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 94130,
+      "name": "Table Soccer",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 989731,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "asset_already_added",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 96349,
+      "name": "Chameleon Legacy",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 343928,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 96359,
+      "name": "One Piece: Pirate Warriors 3 Launch Bundle",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 515876,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 99542,
+      "name": "Drinkbox Vita Collection",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 882483,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 99557,
+      "name": "Grip Games Anthology",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1418774400,
+          "human": "Dec 17, 2014",
+          "id": 501536,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 99559,
+      "name": "Arcade Apocalypse Bundle",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1431388800,
+          "human": "May 12, 2015",
+          "id": 516355,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 99810,
+      "name": "3-in-1 Mega Bundle",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1413849600,
+          "human": "Oct 21, 2014",
+          "id": 515906,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "bundle_candidate_pending_component_proof",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 99814,
+      "name": "Jacob Jones and the Bigfoot Mystery",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 883207,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "umbrella_or_episode_ambiguity",
+      "review_evidence_urls": [
+        "https://blog.playstation.com/archive/2013/05/14/jacob-jones-and-the-bigfoot-mystery-launches-on-ps-vita-this-week"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 100261,
+      "name": "Tokyo Majin Gakuen: Oboro-Kitan",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 112301,
+      "name": "Kono Subarashii Sekai ni Shukufuku wo!: Kono Yokubukai Game ni Shinpan wo!",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 503718,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "confirmed_vita_product_art_gap",
+      "review_evidence_urls": [
+        "https://game.mages.co.jp/konosuba/shinpan/product/"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 136713,
+      "name": "Kono Subarashii Sekai ni Shukufuku wo! Kibou no Meikyuu to Tsudoishi Boukensha-tachi Plus",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": true,
+      "review_class": "provider_platform_conflict",
+      "review_evidence_urls": [
+        "https://www.entergram.co.jp/konosuba_plus/product/"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 136855,
+      "name": "Blast Off",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 145090,
+      "name": "Kimi wo Aogi Otome wa Hime Ni",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1475107200,
+          "human": "Sep 29, 2016",
+          "id": 387488,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 165900,
+      "name": "Kono Subarashii Sekai ni Shukufuku wo! Kono Yokubukai Game ni Shinpan Wo!: Limited Edition",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1504742400,
+          "human": "Sep 07, 2017",
+          "id": 964535,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "confirmed_vita_product_art_gap",
+      "review_evidence_urls": [
+        "https://game.mages.co.jp/konosuba/shinpan/product/"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 178158,
+      "name": "Clock Tower: The First Fear",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 178243,
+      "name": "Kuro no Ken",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 186918,
+      "name": "Natural Doctrine: Omochidashi Pack",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 882720,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 194739,
+      "name": "Kurogane Kaikitan: Ichigoichie",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1435190400,
+          "human": "Jun 25, 2015",
+          "id": 349944,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "asset_already_added",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 194817,
+      "name": "Sound Novel Evolution 1: Otogirisou Sosei-Hen",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 206524,
+      "name": "Ys III: Wanderers from Ys",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 206831,
+      "name": "Card Shark",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 214520,
+      "name": "Bard's Gold: Complete Edition",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1633046400,
+          "human": "Oct 2021",
+          "id": 383094,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 228933,
+      "name": "Lucilla in the Dark",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 431318,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 243451,
+      "name": "Street Fighter Alpha 2",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 256368,
+      "name": "Mickey's Wild Adventure",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": true,
+      "igdb_id": 282725,
+      "name": "Final Fantasy IV",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "historical_bundle_not_current_platform_tag",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 311449,
+      "name": "Zombie Go Remastered",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1792627200,
+          "human": "Oct 22, 2026",
+          "id": 981781,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "vita_release_unverified",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 336177,
+      "name": "Dogimegi Inryoku-chan: Love & Peace",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1449705600,
+          "human": "Dec 10, 2015",
+          "id": 716890,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "asset_already_added",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 344442,
+      "name": "LittleBigPlanet PS Vita: DC Comics Premium Level Pack",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1397606400,
+          "human": "Apr 16, 2014",
+          "id": 743361,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 346150,
+      "name": "Ikasama Mahjong",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 347157,
+      "name": "Sekai Saikyou Ginsei Igo 3",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 349347,
+      "name": "Pinball Arcade: Hurricane",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767099,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 349350,
+      "name": "Pinball Arcade: F-14 Tomcat",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767057,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 349351,
+      "name": "Pinball Arcade: The Getaway - High Speed II",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767048,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 349357,
+      "name": "Pinball Arcade: High Speed",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 766923,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 350298,
+      "name": "Romance of the Three Kingdoms IV: Wall of Fire",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1356912000,
+          "human": "2012",
+          "id": 916358,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          },
+          "status": {
+            "id": 35,
+            "name": "Digital Compatibility Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 350585,
+      "name": "Sangokushi 12: Power Up Kit",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 759036,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 350710,
+      "name": "The Pinkman Files",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1747699200,
+          "human": "May 20, 2025",
+          "id": 760099,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353147,
+      "name": "Pinball Arcade: Phantom of the Opera",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 766977,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353152,
+      "name": "Pinball Arcade: Ripley’s Believe It or Not!",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 766611,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353213,
+      "name": "Pinball Arcade: Harley-Davidson / 3rd Edition",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 766686,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353219,
+      "name": "Pinball Arcade: Red & Ted's Road Show",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767030,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353220,
+      "name": "Pinball Arcade: Gladiators",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767211,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353226,
+      "name": "Pinball Arcade: High Roller Casino",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 766946,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353234,
+      "name": "Pinball Arcade: Rescue 911",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767131,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353253,
+      "name": "Pinball Arcade: Flight 2000",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 766799,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353259,
+      "name": "Pinball Arcade: Fish Tales",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 766892,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353261,
+      "name": "Pinball Arcade: Goin' Nuts",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 766810,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353684,
+      "name": "Pinball Arcade: FunHouse",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 768221,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353686,
+      "name": "Pinball Arcade: Elvira and the Party Monsters",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 768241,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "non_base_content_provider_type",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353692,
+      "name": "Pinball Arcade: Firepower",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767889,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353695,
+      "name": "Pinball Arcade: Pin-Bot",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767912,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353700,
+      "name": "Pinball Arcade: Haunted House",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767922,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353705,
+      "name": "Pinball Arcade: Lights Camera Action!",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767954,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353706,
+      "name": "Pinball Arcade: The Party Zone",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767965,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353709,
+      "name": "Pinball Arcade: Jack-Bot",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767984,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353711,
+      "name": "Pinball Arcade: Fireball",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 767996,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 353716,
+      "name": "Pinball Arcade: Frank Thomas' Big Hurt",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 768004,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 362110,
+      "name": "Persona 3: Dancing in Moonlight - Goro Akechi in \"Will Power\"",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1545091200,
+          "human": "Dec 18, 2018",
+          "id": 914840,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "non_base_content_provider_type",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 365125,
+      "name": "Miku Miku Hockey 2.0",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1392249600,
+          "human": "Feb 13, 2014",
+          "id": 795951,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 372821,
+      "name": "The Hungry Horde: Holiday Hijinx",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1418774400,
+          "human": "Dec 17, 2014",
+          "id": 818919,
+          "platform": 46,
+          "release_region": {
+            "id": 1,
+            "region": "europe"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 379957,
+      "name": "Valkyrie Drive: Bhikkhuni - Bikini Party Edition",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1484179200,
+          "human": "Jan 12, 2017",
+          "id": 841110,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        },
+        {
+          "date": 1507248000,
+          "human": "Oct 06, 2017",
+          "id": 841111,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "confirmed_vita_edition_art_gap",
+      "review_evidence_urls": [
+        "https://marv.jp/titles/cs/716/",
+        "https://valkyriedrive.marv.jp/bhikkhuni/shopping/bikini_party_edition.html"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 387262,
+      "name": "Gravity Rush: Military Pack",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1339459200,
+          "human": "Jun 12, 2012",
+          "id": 864314,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "non_base_content_provider_type",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 390722,
+      "name": "Fuck AI",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 876447,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "developer_confirmed_vita_homebrew",
+      "review_evidence_urls": [
+        "https://pikario.itch.io/fuck-ai"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 395246,
+      "name": "Infinita Strada Hana",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1470268800,
+          "human": "Aug 04, 2016",
+          "id": 919478,
+          "platform": 46,
+          "release_region": {
+            "id": 7,
+            "region": "asia"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        },
+        {
+          "date": 1526947200,
+          "human": "May 22, 2018",
+          "id": 919479,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "asset_already_added",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 396303,
+      "name": "Blue Reflection: Special Event",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1511222400,
+          "human": "Nov 21, 2017",
+          "id": 894210,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "non_base_content_provider_type",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 396318,
+      "name": "Blue Reflection: Seasons Pass",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1506384000,
+          "human": "Sep 26, 2017",
+          "id": 894231,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "season_pass_bundle_not_base",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 396320,
+      "name": "Blue Reflection: Bonus Costume Nightless Saber",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1508803200,
+          "human": "Oct 24, 2017",
+          "id": 894238,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "non_base_content_provider_type",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 396396,
+      "name": "Blue Reflection: Final Fantasy XV Costumes",
+      "provider_global_game_status": {
+        "id": 8,
+        "status": "Delisted"
+      },
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1499644800,
+          "human": "Jul 10, 2017",
+          "id": 894520,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 402433,
+      "name": "Bytes and Knights Adventure",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1792454400,
+          "human": "Oct 20, 2026",
+          "id": 915409,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "announced_or_future_release_pending",
+      "review_evidence_urls": [
+        "https://store.steampowered.com/app/4742690/Bytes_and_Knights__Adventure/"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 405771,
+      "name": "Julius",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "vita_row_date_tbd",
+      "provider_vita_release_rows": [
+        {
+          "human": "TBD",
+          "id": 926560,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "developer_confirmed_vita_homebrew_engine",
+      "review_evidence_urls": [
+        "https://github.com/bvschaik/julius/wiki/Running-Julius-on-Vita"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 410166,
+      "name": "Ys I Chronicals",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1337040000,
+          "human": "May 15, 2012",
+          "id": 942250,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          },
+          "status": {
+            "id": 35,
+            "name": "Digital Compatibility Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 410167,
+      "name": "Ys II Chronicals",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1337040000,
+          "human": "May 15, 2012",
+          "id": 942255,
+          "platform": 46,
+          "release_region": {
+            "id": 2,
+            "region": "north_america"
+          },
+          "status": {
+            "id": 35,
+            "name": "Digital Compatibility Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "legacy_platform_candidate",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 410883,
+      "name": "Super Toboggan 3D",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": true,
+      "review_class": "provider_platform_conflict",
+      "review_evidence_urls": [
+        "https://pikario.itch.io/super-toboggan-3d"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 411646,
+      "name": "Wild Gunman Remake",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1577750400,
+          "human": "2019",
+          "id": 947044,
+          "platform": 46,
+          "release_region": {
+            "id": 8,
+            "region": "worldwide"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "vita_release_unverified",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 419683,
+      "name": "Lara Croft GO: The Cave of Fire",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "non_base_content_provider_type",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 423220,
+      "name": "LEGO Marvel's Avengers",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "no_vita_release_row",
+      "provider_vita_release_rows": [],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "asset_already_added",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 425189,
+      "name": "Code: Realize Twin Pack",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1479945600,
+          "human": "Nov 24, 2016",
+          "id": 981281,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          },
+          "status": {
+            "id": 6,
+            "name": "Full Release"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "confirmed_vita_bundle_art_gap",
+      "review_evidence_urls": [
+        "https://www.otomate.jp/code-realize/fd/",
+        "https://www.otomate.jp/code-realize/fd/bonus/"
+      ]
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 428781,
+      "name": "Octalide",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1340236800,
+          "human": "Jun 21, 2012",
+          "id": 990540,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 428782,
+      "name": "Volt",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1340236800,
+          "human": "Jun 21, 2012",
+          "id": 990538,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    },
+    {
+      "automatic_native_promotion_or_serial_join": false,
+      "historical_retained": false,
+      "igdb_id": 428783,
+      "name": "Mou, Sou Suru Shika Nai!!",
+      "provider_global_game_status": null,
+      "provider_release_evidence_shape": "dated_vita_row",
+      "provider_vita_release_rows": [
+        {
+          "date": 1340236800,
+          "human": "Jun 21, 2012",
+          "id": 990537,
+          "platform": 46,
+          "release_region": {
+            "id": 5,
+            "region": "japan"
+          }
+        }
+      ],
+      "publisher_or_developer_platform_conflict": false,
+      "review_class": "provider_cover_not_available",
+      "review_evidence_urls": []
+    }
+  ],
+  "schema_version": 1,
+  "scope": "104 current provider additions plus 33 historical IDs; dates/status remain provider assertions. Dated rows do not override publisher conflicts or infer native application IDs.",
+  "source": "data/igdb-release-facts.json",
+  "source_snapshot_sha256": "64fe4d12e117ba66d194ea553b9876030ff9ab002ff8bf3c4576019733538a05"
+}

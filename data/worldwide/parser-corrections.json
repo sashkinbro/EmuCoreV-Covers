@@ -1,0 +1,165 @@
+{
+  "changes": [
+    {
+      "corrected_type": "trial_and_unlock",
+      "previous_type": "demo",
+      "source": "nps_games",
+      "source_record_id": "80",
+      "title": "Tearaway (Digital) (Trial & Unlock)",
+      "title_id": "PCSA00144"
+    },
+    {
+      "corrected_type": "base_application",
+      "previous_type": "demo",
+      "source": "nps_games",
+      "source_record_id": "136",
+      "title": "Urban Trial Freestyle",
+      "title_id": "PCSE00051"
+    },
+    {
+      "corrected_type": "trial_and_unlock",
+      "previous_type": "demo",
+      "source": "nps_games",
+      "source_record_id": "949",
+      "title": "Tearaway (Trial & Unlock)",
+      "title_id": "PCSC00064"
+    },
+    {
+      "corrected_type": "base_application",
+      "previous_type": "demo",
+      "source": "nps_games",
+      "source_record_id": "1173",
+      "title": "Urban Trial Freestyle",
+      "title_id": "PCSG00231"
+    },
+    {
+      "corrected_type": "base_application",
+      "previous_type": "demo",
+      "source": "nps_games",
+      "source_record_id": "1863",
+      "title": "Urban Trial Freestyle",
+      "title_id": "PCSB00038"
+    },
+    {
+      "corrected_type": "trial_and_unlock",
+      "previous_type": "demo",
+      "source": "nps_games",
+      "source_record_id": "2666",
+      "title": "Tearaway (Trial & Unlock)",
+      "title_id": "PCSF00476"
+    },
+    {
+      "corrected_type": "trial_and_unlock",
+      "previous_type": "demo",
+      "source": "nps_games",
+      "source_record_id": "2734",
+      "title": "Tearaway (Trial & Unlock)",
+      "title_id": "PCSD00077"
+    },
+    {
+      "corrected_type": "base_application",
+      "previous_type": "demo",
+      "source": "nps_games",
+      "source_record_id": "2843",
+      "title": "Urban Trial FREESTYLE (CHI)",
+      "title_id": "PCSH00159"
+    },
+    {
+      "corrected_type": "demo",
+      "previous_type": "base_application",
+      "source": "nps_games",
+      "source_record_id": "3796",
+      "title": "討鬼伝　アクション体験版 (PS Vita版)",
+      "title_id": "PCSG90075"
+    },
+    {
+      "corrected_type": "demo",
+      "previous_type": "base_application",
+      "source": "nps_games",
+      "source_record_id": "3804",
+      "title": "不思議の幻想郷TOD -RELOADED-本編丸ごと特別体験版",
+      "title_id": "PCSG90283"
+    },
+    {
+      "corrected_type": "reported_application",
+      "previous_type": "demo",
+      "source": "vita3k",
+      "source_record_id": "63",
+      "title": "Urban Trial Freestyle",
+      "title_id": "PCSB00038"
+    },
+    {
+      "corrected_type": "reported_application",
+      "previous_type": "demo",
+      "source": "vita3k",
+      "source_record_id": "122",
+      "title": "Urban Trial Freestyle",
+      "title_id": "PCSE00051"
+    },
+    {
+      "corrected_type": "reported_application",
+      "previous_type": "demo",
+      "source": "vita3k",
+      "source_record_id": "2861",
+      "title": "Urban Trial Freestyle",
+      "title_id": "PCSG00231"
+    },
+    {
+      "corrected_type": "reported_application",
+      "previous_type": "demo",
+      "source": "vita3k",
+      "source_record_id": "2862",
+      "title": "Urban Trial Freestyle",
+      "title_id": "PCSH00159"
+    },
+    {
+      "corrected_type": "game",
+      "previous_type": "demo",
+      "source": "vitasmith_vitadb",
+      "source_record_id": "9968",
+      "title": "Urban Trial Freestyle full game",
+      "title_id": "PCSE00051"
+    },
+    {
+      "corrected_type": "game",
+      "previous_type": "demo",
+      "source": "vitasmith_vitadb",
+      "source_record_id": "9969",
+      "title": "Urban Trial Freestyle",
+      "title_id": "PCSE00051"
+    },
+    {
+      "corrected_type": "trial_and_unlock",
+      "previous_type": "demo",
+      "source": "vitasmith_vitadb",
+      "source_record_id": "16563",
+      "title": "Bentley's Hackpack™ – Trial & Unlock",
+      "title_id": "PCSF00251"
+    },
+    {
+      "corrected_type": "game",
+      "previous_type": "demo",
+      "source": "vitasmith_vitadb",
+      "source_record_id": "21315",
+      "title": "Urban Trial Freestyle",
+      "title_id": "PCSG00231"
+    },
+    {
+      "corrected_type": "game",
+      "previous_type": "demo",
+      "source": "vitasmith_vitadb",
+      "source_record_id": "21316",
+      "title": "Urban Trial Freestyle",
+      "title_id": "PCSG00231"
+    },
+    {
+      "corrected_type": "game",
+      "previous_type": "demo",
+      "source": "vitasmith_vitadb",
+      "source_record_id": "32770",
+      "title": "Urban Trial FREESTYLE (CHI)",
+      "title_id": "PCSH00159"
+    }
+  ],
+  "policy": "Explicit demo/trial-version markers only; Trial within Urban Trial Freestyle is a game title. Trial & Unlock remains its own type. Source type/content IDs retained. Japanese trial markers do not require Latin word boundaries."
+}

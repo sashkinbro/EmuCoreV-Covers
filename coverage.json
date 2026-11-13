@@ -1,0 +1,4335 @@
+{
+  "audit": "all retained originals and flat/3D image bytes decoded and SHA-256 verified; mapping is exact IDs only",
+  "catalog_games": 2326,
+  "complete_worldwide": false,
+  "download_failures": [],
+  "external_inventory_aggregate": {
+    "base_applications": 249,
+    "classification": "CATEGORY=gd base application metadata; does not assert full-game entitlement",
+    "mapped_base_applications": 248,
+    "reported_release_variant_conflicts": 1
+  },
+  "flat_covers": 2326,
+  "mapped_title_ids": 3425,
+  "originals": 2326,
+  "retained_catalog_art_without_runtime_serials": 664,
+  "small_originals": [
+    {
+      "height": 300,
+      "igdb_id": "106530",
+      "width": 200
+    },
+    {
+      "height": 456,
+      "igdb_id": "11857",
+      "width": 342
+    },
+    {
+      "height": 482,
+      "igdb_id": "124849",
+      "width": 342
+    },
+    {
+      "height": 494,
+      "igdb_id": "136762",
+      "width": 371
+    },
+    {
+      "height": 399,
+      "igdb_id": "138347",
+      "width": 300
+    },
+    {
+      "height": 176,
+      "igdb_id": "141475",
+      "width": 320
+    },
+    {
+      "height": 498,
+      "igdb_id": "141990",
+      "width": 498
+    },
+    {
+      "height": 240,
+      "igdb_id": "143832",
+      "width": 240
+    },
+    {
+      "height": 240,
+      "igdb_id": "143833",
+      "width": 240
+    },
+    {
+      "height": 321,
+      "igdb_id": "144630",
+      "width": 241
+    },
+    {
+      "height": 457,
+      "igdb_id": "145390",
+      "width": 343
+    },
+    {
+      "height": 457,
+      "igdb_id": "145391",
+      "width": 343
+    },
+    {
+      "height": 240,
+      "igdb_id": "148202",
+      "width": 240
+    },
+    {
+      "height": 448,
+      "igdb_id": "148265",
+      "width": 336
+    },
+    {
+      "height": 456,
+      "igdb_id": "153052",
+      "width": 390
+    },
+    {
+      "height": 471,
+      "igdb_id": "153694",
+      "width": 353
+    },
+    {
+      "height": 444,
+      "igdb_id": "163672",
+      "width": 444
+    },
+    {
+      "height": 495,
+      "igdb_id": "165957",
+      "width": 371
+    },
+    {
+      "height": 240,
+      "igdb_id": "178713",
+      "width": 240
+    },
+    {
+      "height": 240,
+      "igdb_id": "178756",
+      "width": 240
+    },
+    {
+      "height": 240,
+      "igdb_id": "178757",
+      "width": 240
+    },
+    {
+      "height": 240,
+      "igdb_id": "178758",
+      "width": 240
+    },
+    {
+      "height": 482,
+      "igdb_id": "186545",
+      "width": 342
+    },
+    {
+      "height": 488,
+      "igdb_id": "20113",
+      "width": 366
+    },
+    {
+      "height": 341,
+      "igdb_id": "214813",
+      "width": 270
+    },
+    {
+      "height": 240,
+      "igdb_id": "22112",
+      "width": 320
+    },
+    {
+      "height": 400,
+      "igdb_id": "22153",
+      "width": 300
+    },
+    {
+      "height": 416,
+      "igdb_id": "26124",
+      "width": 318
+    },
+    {
+      "height": 445,
+      "igdb_id": "26937",
+      "width": 334
+    },
+    {
+      "height": 445,
+      "igdb_id": "27128",
+      "width": 334
+    },
+    {
+      "height": 487,
+      "igdb_id": "282046",
+      "width": 365
+    },
+    {
+      "height": 338,
+      "igdb_id": "28466",
+      "width": 600
+    },
+    {
+      "height": 400,
+      "igdb_id": "296100",
+      "width": 300
+    },
+    {
+      "height": 213,
+      "igdb_id": "313040",
+      "width": 235
+    },
+    {
+      "height": 444,
+      "igdb_id": "315076",
+      "width": 480
+    },
+    {
+      "height": 250,
+      "igdb_id": "319095",
+      "width": 315
+    },
+    {
+      "height": 386,
+      "igdb_id": "329142",
+      "width": 686
+    },
+    {
+      "height": 400,
+      "igdb_id": "343202",
+      "width": 300
+    },
+    {
+      "height": 360,
+      "igdb_id": "353264",
+      "width": 276
+    },
+    {
+      "height": 359,
+      "igdb_id": "353682",
+      "width": 278
+    },
+    {
+      "height": 360,
+      "igdb_id": "353689",
+      "width": 277
+    },
+    {
+      "height": 482,
+      "igdb_id": "35517",
+      "width": 342
+    },
+    {
+      "height": 427,
+      "igdb_id": "36931",
+      "width": 320
+    },
+    {
+      "height": 460,
+      "igdb_id": "378099",
+      "width": 345
+    },
+    {
+      "height": 240,
+      "igdb_id": "387258",
+      "width": 240
+    },
+    {
+      "height": 240,
+      "igdb_id": "387259",
+      "width": 240
+    },
+    {
+      "height": 380,
+      "igdb_id": "50871",
+      "width": 285
+    },
+    {
+      "height": 400,
+      "igdb_id": "52148",
+      "width": 300
+    },
+    {
+      "height": 444,
+      "igdb_id": "52170",
+      "width": 439
+    },
+    {
+      "height": 482,
+      "igdb_id": "52178",
+      "width": 342
+    },
+    {
+      "height": 320,
+      "igdb_id": "52705",
+      "width": 238
+    },
+    {
+      "height": 460,
+      "igdb_id": "52920",
+      "width": 650
+    },
+    {
+      "height": 200,
+      "igdb_id": "54406",
+      "width": 252
+    },
+    {
+      "height": 225,
+      "igdb_id": "56000",
+      "width": 225
+    },
+    {
+      "height": 100,
+      "igdb_id": "59408",
+      "width": 100
+    },
+    {
+      "height": 163,
+      "igdb_id": "59409",
+      "width": 512
+    },
+    {
+      "height": 281,
+      "igdb_id": "60236",
+      "width": 281
+    },
+    {
+      "height": 483,
+      "igdb_id": "60422",
+      "width": 362
+    },
+    {
+      "height": 378,
+      "igdb_id": "60570",
+      "width": 630
+    },
+    {
+      "height": 331,
+      "igdb_id": "60766",
+      "width": 185
+    },
+    {
+      "height": 482,
+      "igdb_id": "60969",
+      "width": 361
+    },
+    {
+      "height": 480,
+      "igdb_id": "63364",
+      "width": 360
+    },
+    {
+      "height": 363,
+      "igdb_id": "63418",
+      "width": 640
+    },
+    {
+      "height": 360,
+      "igdb_id": "63419",
+      "width": 640
+    },
+    {
+      "height": 284,
+      "igdb_id": "63924",
+      "width": 320
+    },
+    {
+      "height": 220,
+      "igdb_id": "64004",
+      "width": 220
+    },
+    {
+      "height": 240,
+      "igdb_id": "64935",
+      "width": 240
+    },
+    {
+      "height": 240,
+      "igdb_id": "64936",
+      "width": 240
+    },
+    {
+      "height": 240,
+      "igdb_id": "64937",
+      "width": 240
+    },
+    {
+      "height": 240,
+      "igdb_id": "65101",
+      "width": 240
+    },
+    {
+      "height": 320,
+      "igdb_id": "65122",
+      "width": 320
+    },
+    {
+      "height": 240,
+      "igdb_id": "65164",
+      "width": 240
+    },
+    {
+      "height": 264,
+      "igdb_id": "74160",
+      "width": 470
+    },
+    {
+      "height": 280,
+      "igdb_id": "77782",
+      "width": 254
+    },
+    {
+      "height": 300,
+      "igdb_id": "80952",
+      "width": 200
+    },
+    {
+      "height": 240,
+      "igdb_id": "83880",
+      "width": 240
+    },
+    {
+      "height": 358,
+      "igdb_id": "8616",
+      "width": 256
+    },
+    {
+      "height": 465,
+      "igdb_id": "8660",
+      "width": 332
+    },
+    {
+      "height": 450,
+      "igdb_id": "90630",
+      "width": 300
+    },
+    {
+      "height": 400,
+      "igdb_id": "93498",
+      "width": 300
+    },
+    {
+      "height": 275,
+      "igdb_id": "93563",
+      "width": 272
+    },
+    {
+      "height": 300,
+      "igdb_id": "95608",
+      "width": 200
+    },
+    {
+      "height": 265,
+      "igdb_id": "99814",
+      "width": 396
+    }
+  ],
+  "three_dimensional_covers": 2326,
+  "unresolved_title_ids": [
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00042",
+      "titles": [
+        "Facebook",
+        "Facebook for the PlayStation®Vita system"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00044",
+      "titles": [
+        "Skype"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00045",
+      "titles": [
+        "LiveTweet for PlayStation Vita",
+        "LiveTweet for PlayStation®Vita"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00046",
+      "titles": [
+        "Flickr"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00047",
+      "titles": [
+        "foursquare"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00052",
+      "titles": [
+        "Resistance AR Monument",
+        "Resistance: Burning Skies Augmented Reality Monument Viewer"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00062",
+      "titles": [
+        "YouTube"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00067",
+      "titles": [
+        "Wake-up Club"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00084",
+      "titles": [
+        "PlayStation All-Stars Battle Royale (BETA)",
+        "PlayStation® All-Stars Battle Royale™ (BETA)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00085",
+      "titles": [
+        "PlayStation All-Stars Battle Royale (PUBLIC BETA)",
+        "PlayStation® All-Stars Battle Royale™ PS Vita Beta"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00100",
+      "titles": [
+        "LittleBigPlanet™2 Cross-Controller"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00120",
+      "titles": [
+        "Killzone™ Mercenary:BetaTrial"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00121",
+      "titles": [
+        "Killzone Mercenary:BetaTrial"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00136",
+      "titles": [
+        "NBA Game Time"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00141",
+      "titles": [
+        "Tearaway Soundtrack",
+        "Tearaway™ Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00142",
+      "titles": [
+        "Tearaway Soundtrack (with bonus tracks)",
+        "Tearaway™ Soundtrack (with bonus tracks)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00161",
+      "titles": [
+        "PS Vita Accidental Damage 36 Months"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSA00531",
+      "titles": [
+        "Live from PlayStation"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00053",
+      "titles": [
+        "FIFA Football (DEU)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00054",
+      "titles": [
+        "FIFA Football (ITA and other languages)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00055",
+      "titles": [
+        "EA SPORTS FIFA Football (Spain)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00060",
+      "titles": [
+        "The Treasures of Montezuma Blitz"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00071",
+      "titles": [
+        "Michael Jackson The Experience HD"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00134",
+      "titles": [
+        "LEGO Batman 2: DC Super Heroes FR",
+        "LEGO® Batman™ 2: DC Super Heroes - Français",
+        "LEGO® Batman™ 2: DC Super Heroes FR"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00135",
+      "titles": [
+        "LEGO® Batman™ 2: DC Super Heroes - Deutsch",
+        "LEGO® Batman™ 2: DC Super Heroes GR",
+        "Lego Batman 2: DC Super Heroes (DEU)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00172",
+      "titles": [
+        "FIFA 13 (ITA)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00175",
+      "titles": [
+        "FIFA 13 (NLD)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00263",
+      "titles": [
+        "Tuenti"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00344",
+      "titles": [
+        "WebMAF Development Environment"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00407",
+      "titles": [
+        "TuneIn"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00431",
+      "titles": [
+        "BreakQuest: Extra Evolution PRO EDITION",
+        "BreakQuest: Extra Evolution Pro Edition"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00470",
+      "titles": [
+        "MXGP - COMPACT to Full Game UPGRADE",
+        "MXGP - The Official Motocross Videogame"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "11530"
+      ],
+      "reason": "excluded_unresolved_source_content_or_edition_conflict",
+      "title_id": "PCSB00602",
+      "titles": [
+        "SENRAN KAGURA Bon Appetit! (Hanzo x Crimson Squad)",
+        "SENRAN KAGURA Bon Appétit!",
+        "Senran Kagura: Bon Appetit! (Hanzo x Crimson Squad)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00625",
+      "titles": [
+        "SENRAN KAGURA: Bon Appétit! Stacked Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00627",
+      "titles": [
+        "GAME ONE"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00629",
+      "titles": [
+        "Velocity 2X Soundtrack",
+        "Velocity®2X"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00685",
+      "titles": [
+        "Multiplayer.it"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00698",
+      "titles": [
+        "Disney Infinity 2.0 Play Without Limits"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00699",
+      "titles": [
+        "Disney Infinity 2.0 Play Without Limits"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00714",
+      "titles": [
+        "ROCK BOSHERS DX: Director's Cut SOUNDTRACK",
+        "Rock Boshers DX Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00715",
+      "titles": [
+        "AQUA KITTY - Milk Mine Defender DX (Soundtrack)",
+        "AQUA KITTY DX Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00736",
+      "titles": [
+        "Poltergeist: A Pixelated Horror"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00737",
+      "titles": [
+        "Disney Infinity 2.0 Play Without Limits"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00809",
+      "titles": [
+        "Crunchyroll"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00837",
+      "titles": [
+        "Mediaset Infinity"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00845",
+      "titles": [
+        "LEVEL 22",
+        "Level 22"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00846",
+      "titles": [
+        "Du View"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00856",
+      "titles": [
+        "#KILLALLZOMBIES game Companon App",
+        "KILLALLZOMBIES Companion App"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB00878",
+      "titles": [
+        "Twitch"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01038",
+      "titles": [
+        "YOMAWARI: NIGHT ALONE/HTOLNIQ: THE FIREFLY DIARY",
+        "Yomawari: Night Alone / htol#NiQ: The Firefly Diary (3.61+!) [3.61]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01050",
+      "titles": [
+        "Sword Art Online: Hollow Realization - Original Soundtrack",
+        "Sword Art Online: Hollow Realization - Original Soundtrack (3.61+!) [3.61]",
+        "Sword Art Online: Hollow Realization OST"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01126",
+      "titles": [
+        "Slain: Back From Hell - Signature Edition"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01220",
+      "titles": [
+        "99 Vidas"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01314",
+      "titles": [
+        "EXTELLA LINK Digital Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01321",
+      "titles": [
+        "Necrosphere"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01361",
+      "titles": [
+        "Cybarian: The Time Traveling Warrior"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01372",
+      "titles": [
+        "Grass Cutter"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01385",
+      "titles": [
+        "Pantsu Hunter"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01395",
+      "titles": [
+        "Breeder Homegrown"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSB01476",
+      "titles": [
+        "SturmFront - The Mutant War"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00003",
+      "titles": [
+        "Record of Hero / Yuusha no Kiroku",
+        "Yuusha no Kiroku",
+        "勇者のきろく"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00013",
+      "titles": [
+        "LittleBigPlanet PlayStation Vita",
+        "LittleBigPlanet PlayStationVita",
+        "リトルビッグプラネット™ PlayStation®Vita　製品版"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "88895",
+        "94130"
+      ],
+      "reason": "duplicate_igdb_ar_football_identity_unresolved",
+      "title_id": "PCSC00020",
+      "titles": [
+        "Table Football",
+        "Table Play Soccer",
+        "テーブル・プレイ・サッカー"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00025",
+      "titles": [
+        "torne PlayStation Vita",
+        "torne™ PlayStation®Vita"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00029",
+      "titles": [
+        "AR Play Free Download Set",
+        "ARプレイ 無料配信 セット"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00036",
+      "titles": [
+        "Open Me! (Hako! Open Me) - Digest Version",
+        "箱！-OPEN ME-　ダイジェスト版"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "119585",
+        "65249"
+      ],
+      "reason": "excluded_unresolved_source_content_or_edition_conflict",
+      "title_id": "PCSC00038",
+      "titles": [
+        "Paint Park",
+        "えちゃんねる～NEW ペイントパーク～"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00043",
+      "titles": [
+        "Muryou-ban E-Channel NEW Paint Park",
+        "Muryou-ban E-Channel ~NEW Paint Park~"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00046",
+      "titles": [
+        "torne PlayStation Vita TV",
+        "torne™ PlayStation®Vita TV"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00047",
+      "titles": [
+        "What Did I Do to Deserve This, My Lord?",
+        "勇者のくせにこなまいきだ。G",
+        "勇者のくせにこなまいきだ。Ｇ"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "365125"
+      ],
+      "reason": "igdb_cover_not_available",
+      "title_id": "PCSC00075",
+      "titles": [
+        "Miku Miku Hockey 2.0"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00080",
+      "titles": [
+        "U-NEXT"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "365125"
+      ],
+      "reason": "igdb_cover_not_available",
+      "title_id": "PCSC00081",
+      "titles": [
+        "Miku Miku Hockey 2.0",
+        "Miku Miku Hockey 2.0 full game",
+        "Miku Miku Hockey 2.0 通常版"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00082",
+      "titles": [
+        "勇者のくせにこなまいきだ。Ｇ"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC00086",
+      "titles": [
+        "Live from PlayStation"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80001",
+      "titles": [
+        "Flickr"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80002",
+      "titles": [
+        "LiveTweet for PlayStation Vita",
+        "LiveTweet for PlayStation®Vita"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80003",
+      "titles": [
+        "uke-torne"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80004",
+      "titles": [
+        "Wake-up Club"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80005",
+      "titles": [
+        "Foursquare",
+        "foursquare"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80008",
+      "titles": [
+        "Facebook"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80009",
+      "titles": [
+        "Skype"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80010",
+      "titles": [
+        "YouTube"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80012",
+      "titles": [
+        "E-book Reader for PlayStationVita",
+        "Reader™"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80016",
+      "titles": [
+        "radiko.jp"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80017",
+      "titles": [
+        "Network Media Player",
+        "naspocket"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80018",
+      "titles": [
+        "PocketStation for PlayStation Vita"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80019",
+      "titles": [
+        "TBS World Heritage Selection"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80020",
+      "titles": [
+        "TSUTAYA TV"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80021",
+      "titles": [
+        "DMM.com"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80022",
+      "titles": [
+        "NHK On Demand"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80023",
+      "titles": [
+        "TV Dogatch"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80024",
+      "titles": [
+        "SKY PerfecTV! On demand"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80027",
+      "titles": [
+        "SOUL SACRIFICE DELTA OFFICIAL SOUNDTRACK",
+        "SOUL SACRIFICE DELTA™ OFFICIAL SOUNDTRACK"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80028",
+      "titles": [
+        "iKnow!"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC80029",
+      "titles": [
+        "AMNESIA World AR"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC90022",
+      "titles": [
+        "AKB1/149 Renai Sousenkyo Chou Gouka Daretoku BOX powered by HAKO ! -Open Me-",
+        "AKB1/149 Renai Sousenkyo Chou Gouka Daretoku BOX powered by HAKO ! Open Me"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSC90032",
+      "titles": [
+        "HATSUNE MIKU AR STAGE",
+        "Hatsune Miku: AR Stage"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00006",
+      "titles": [
+        "LittleBigPlanet PlayStation Vita",
+        "LittleBigPlanet PlayStationVita",
+        "LittleBigPlanet™ PlayStation®Vita full game"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00012",
+      "titles": [
+        "STAR STRIKE™ Delta full game",
+        "STAR STRIKE™ Delta full game + Advanced Star Fighter Pack",
+        "Star Strike Delta"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00013",
+      "titles": [
+        "LiveTweet for PlayStation Vita",
+        "LiveTweet for PlayStation®Vita"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00014",
+      "titles": [
+        "Flickr",
+        "Flickr (AS)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00015",
+      "titles": [
+        "Wake-up Club"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00023",
+      "titles": [
+        "foursquare"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00025",
+      "titles": [
+        "Skype"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00026",
+      "titles": [
+        "Facebook"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00031",
+      "titles": [
+        "YouTube"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00033",
+      "titles": [
+        "Resistance: Burning Skies (ENG-CHI-KOR)",
+        "Resistance: Burning Skies™ full game"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00037",
+      "titles": [
+        "TORO's Friendly Network"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00052",
+      "titles": [
+        "OPEN ME!　digest ver.",
+        "Open Me! Digest Version"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00054",
+      "titles": [
+        "Open Me! Digest vestion",
+        "상자！ digest ver."
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00069",
+      "titles": [
+        "Sly 3: Honor Among Thieves (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00070",
+      "titles": [
+        "Sly Cooper and the Thievius Raccoonus + Sly 2: Band of Thieves  (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00075",
+      "titles": [
+        "Tearaway™ Official Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00076",
+      "titles": [
+        "NBA Game Time",
+        "NBA Game Time (also has ENG)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00077",
+      "titles": [
+        "Tearaway™ Pre-order Store Day1 DLC",
+        "Tearaway™ full game"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00078",
+      "titles": [
+        "HiNet hichannel"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00081",
+      "titles": [
+        "SOUL SACRIFICE DELTA OFFICIAL SOUNDTRACK",
+        "SOUL SACRIFICE DELTA™ OFFICIAL SOUNDTRACK"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00084",
+      "titles": [
+        "Ore No Shikabane O Koete Yuke 2",
+        "Oreshika: Tainted Bloodlines / Ore no Shikabane o Koete Yuke 2",
+        "Oreshika: Tainted Bloodlines full game"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00086",
+      "titles": [
+        "HELLDIVERS™ Democracy Strikes Back Edition",
+        "HELLDIVERS™ full game",
+        "Helldivers (ENG/KOR/CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00089",
+      "titles": [
+        "Network Media Player"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00093",
+      "titles": [
+        "Live from PlayStation",
+        "Live from PlayStation (ENG/CHI/KOR/JPN)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00094",
+      "titles": [
+        "Entwined (CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00095",
+      "titles": [
+        "Hohokum (CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSD00097",
+      "titles": [
+        "Helldivers (CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00010",
+      "titles": [
+        "Michael Jackson - The Experience HD",
+        "Michael Jackson The Experience HD",
+        "Michael Jackson The Experience PS Vita"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00070",
+      "titles": [
+        "Netflix"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00074",
+      "titles": [
+        "NicoNico",
+        "niconico"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00087",
+      "titles": [
+        "LEGO® Batman™ 2: DC Super Heroes - French",
+        "LEGO® Batman™ 2: DC Super Heroes FR",
+        "Lego Batman 2: DC Super Heroes (FRA)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00094",
+      "titles": [
+        "FIFA 13 (FRA)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00123",
+      "titles": [
+        "Colors!"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00222",
+      "titles": [
+        "CRACKLE"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00246",
+      "titles": [
+        "Ninja Gaiden Sigma 2 Plus & Ninja Gaiden Sigma Plus"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00253",
+      "titles": [
+        "Dead or Alive 5 Plus & Dead or Alive Paradise"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00265",
+      "titles": [
+        "FIFA 14 Spanish"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00303",
+      "titles": [
+        "Crunchyroll"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00304",
+      "titles": [
+        "TuneIn"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00319",
+      "titles": [
+        "Pure Chess Complete Bundle"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00329",
+      "titles": [
+        "Gaiam TV: The Transformation Network",
+        "GaiamTV"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00338",
+      "titles": [
+        "QELLO HD CONCERTS",
+        "Qello"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00355",
+      "titles": [
+        "Starlight Inception Beta"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00364",
+      "titles": [
+        "WeatherNation",
+        "WeatherNation (3.61+!) [3.63]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00391",
+      "titles": [
+        "Redbox Instant"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00418",
+      "titles": [
+        "NHL GameCenter"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00426",
+      "titles": [
+        "Hulu Plus"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00488",
+      "titles": [
+        "SENRAN KAGURA: Bon Appétit! Stacked Soundtrack",
+        "Senran Kagura: Bon Appetit! Stacked Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00512",
+      "titles": [
+        "Velocity 2X Soundtrack",
+        "Velocity®2X"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00530",
+      "titles": [
+        "MXGP - The Official Motocross Videogame"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00554",
+      "titles": [
+        "MyNBA2K15"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00564",
+      "titles": [
+        "Poltergeist: A Pixelated Horror"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00598",
+      "titles": [
+        "AQUA KITTY - Milk Mine Defender DX (Soundtrack)",
+        "AQUA KITTY DX Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00611",
+      "titles": [
+        "SnagFilms",
+        "SnagFilms: Watch Free Movies & TV Shows"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "26848",
+        "7444"
+      ],
+      "reason": "version_required_to_distinguish_original_and_treasure_trove",
+      "title_id": "PCSE00640",
+      "titles": [
+        "Shovel Knight",
+        "Shovel Knight: Treasure Trove",
+        "ショベルナイト"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00649",
+      "titles": [
+        "Ertem Yazilim PS Vita Dynamic Themes"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00654",
+      "titles": [
+        "MLB.TV",
+        "MLB.TV Premium"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00696",
+      "titles": [
+        "Popcornflix"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00766",
+      "titles": [
+        "Level 22"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00788",
+      "titles": [
+        "Twitch"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00795",
+      "titles": [
+        "DramaFever"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00952",
+      "titles": [
+        "Dragon Fantasy - Black Tome of Ice",
+        "Dragon Fantasy: Black Tome of Ice"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE00989",
+      "titles": [
+        "Yomawari - Night Alone + htol-NiQ - The Firefly Diary",
+        "Yomawari: Night Alone / htoLNiQ: The Firefly Diary",
+        "Yomawari: Night Alone / htol#NiQ: The Firefly Diary"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE01086",
+      "titles": [
+        "Dragon Fantasy: Volumes of Westeria"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE01126",
+      "titles": [
+        "Velocity®2X: Critical Mass Edition"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE01244",
+      "titles": [
+        "Senran Kagura: Bon Appetit! Full Course",
+        "Senran Kagura: Bon Appetit! Full Course (3.61+!) [3.67]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE01305",
+      "titles": [
+        "The House in Fata Morgana"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE01359",
+      "titles": [
+        "Fate/EXTELLA LINK Digital Soundtrack",
+        "Fate/EXTELLA LINK Digital Soundtrack (3.61+!) [3.69]",
+        "Fate/EXTELLA LINK Original Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE01400",
+      "titles": [
+        "Cybarian: The Time Traveling Warrior"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE01408",
+      "titles": [
+        "Grass Cutter"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE01417",
+      "titles": [
+        "Pantsu Hunter"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE01429",
+      "titles": [
+        "Breeder Homegrown"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSE01514",
+      "titles": [
+        "SturmFront - The Mutant War"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00044",
+      "titles": [
+        "Facebook"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "63011"
+      ],
+      "reason": "excluded_unresolved_source_content_or_edition_conflict",
+      "title_id": "PCSF00088",
+      "titles": [
+        "PlayStation Vita Pets",
+        "PlayStation Vita Pets (ENG-FRE-GER-ITA)",
+        "PlayStation®Vita Pets",
+        "PlayStation®Vita Pets full game"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00090",
+      "titles": [
+        "foursquare"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00122",
+      "titles": [
+        "Flickr"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00123",
+      "titles": [
+        "LiveTweet for PlayStation Vita",
+        "LiveTweet for PlayStation®Vita"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00124",
+      "titles": [
+        "Skype"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00150",
+      "titles": [
+        "YouTube"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00181",
+      "titles": [
+        "Wake-up Club"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00192",
+      "titles": [
+        "PlayStation All-Stars Battle Royale (BETA)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00218",
+      "titles": [
+        "PlayStation All-Stars Battle Royale (PUBLIC BETA)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00235",
+      "titles": [
+        "Invizimals: Hidden Challenges (SPA)",
+        "Invizimals™ Desafíos Ocultos"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00271",
+      "titles": [
+        "Sly 3: Honour Among Thieves",
+        "Sly 3: Honour Among Thieves™"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00310",
+      "titles": [
+        "Disney Epic Mickey 2: The Power of Two",
+        "Disney Epic Mickey: Sammenhold gør stærk"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00386",
+      "titles": [
+        "Killzone Mercenary:BetaTrial"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00387",
+      "titles": [
+        "Killzone Mercenary:BetaTrial",
+        "Killzone™ Mercenary:BetaTrial"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00434",
+      "titles": [
+        "Killzone: Mercenary - Digital Art Book",
+        "The Art of Killzone™ Mercenary"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00448",
+      "titles": [
+        "Invizimals: The Alliance (GRE)",
+        "Invizimals™: Η Συμμαχία"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00463",
+      "titles": [
+        "Tearaway Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00485",
+      "titles": [
+        "Ratchet & Clank 2",
+        "Ratchet & Clank™ 2"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00517",
+      "titles": [
+        "PlayStation Vita Pets (ENG;FRE;GER;DUT)",
+        "PlayStation®Vita Pets"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00533",
+      "titles": [
+        "Invizimals New Alliance",
+        "Invizimals™ New Alliance"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00635",
+      "titles": [
+        "Network Media Player"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00658",
+      "titles": [
+        "Live from PlayStation"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSF00864",
+      "titles": [
+        "BigFest Beta"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00010",
+      "titles": [
+        "Shin Kamaitachi no Yoru 11 Hitome no Suspect",
+        "Shin Kamaitachi no Yoru full game",
+        "Shin Kamaitachi no Yoru: 11 Ninme no Suspect",
+        "真かまいたちの夜　１１人目の訪問者（サスペクト) PlayStation®Vita the Best",
+        "真かまいたちの夜　１１人目の訪問者（サスペクト） PlayStation®Vita the Best"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00016",
+      "titles": [
+        "MICHAEL JACKSON THE EXPERIENCE HD",
+        "Michael Jackson The Experience HD"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00026",
+      "titles": [
+        "DREAM C CLUB ZERO PORTABLE",
+        "DREAM C CLUB ZERO PORTABLE full game",
+        "Dream C Club Zero Portable",
+        "ドリームクラブ ZERO ポータブル PlayStation®Vita the Best"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00030",
+      "titles": [
+        "NAX Music Player",
+        "NAX Music Player full game"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00035",
+      "titles": [
+        "METAL GEAR SOLID HD EDITION PlayStation®Vita the Best",
+        "METAL GEAR SOLID HD EDITION full game",
+        "Metal Gear Solid HD Edition"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00036",
+      "titles": [
+        "Assault Armies",
+        "Assault Armies full game",
+        "アサルトアーミーズ"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00077",
+      "titles": [
+        "DANBALL-SENKI W full game",
+        "Danball Senki W Release",
+        "ダンボール戦機Ｗ"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "428781"
+      ],
+      "reason": "igdb_cover_not_available",
+      "title_id": "PCSG00089",
+      "titles": [
+        "OCTALIDE",
+        "Octalide"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00090",
+      "titles": [
+        "Uni Uni Union"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "428783"
+      ],
+      "reason": "igdb_cover_not_available",
+      "title_id": "PCSG00091",
+      "titles": [
+        "Mou Sou Suru Shika Nai",
+        "Mou, Sou Suru Shikanai!"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "428782"
+      ],
+      "reason": "igdb_cover_not_available",
+      "title_id": "PCSG00093",
+      "titles": [
+        "VOLT"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00153",
+      "titles": [
+        "Hatsune Miku: Project DIVA f (Sync Tool)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00160",
+      "titles": [
+        "Photo Kano Kiss AR"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00162",
+      "titles": [
+        "Haiyore! Nyaruko-San",
+        "Haiyore! Nyaruko-San: Meijoushigatai Game no You na Mono"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00185",
+      "titles": [
+        "Rocketbirds HBC",
+        "ロケットバード：ハードボイルドチキン"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00191",
+      "titles": [
+        "Kidou Senshi Gundam: Battle Operation Support Application",
+        "Mobile Suit Gundam Battle Operation Support Application"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00209",
+      "titles": [
+        "WARRIORS OROCHI 3 Ultimate (Japanese Ver.)",
+        "WARRIORS OROCHI 3 Ultimate full game",
+        "Warriors Orochi 2 Ultimate",
+        "無双OROCHI２ Ultimate",
+        "無双OROCHI２ Ultimate PlayStation®Vita the Best"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00210",
+      "titles": [
+        "Romance of the Three Kingdoms XII with Power Up Kit full game",
+        "San Goku Shi 12 with Power-Up Kit",
+        "コーエーテクモ The Best　三國志12 with パワーアップキット"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00211",
+      "titles": [
+        "Romance of the Three Kingdoms XII: Competition Edition full game",
+        "San Goku Shi 12 Taisenban",
+        "三國志12 対戦版",
+        "三國志12対戦版"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00222",
+      "titles": [
+        "Nihon Pro Mahjong Renmei Kounin: Motto 20-Bai! Mahjong ga Tsuyoku Naru Houhou - Shochuukyuusha Hen",
+        "Nihon Pro Mahjong Renmei Kounin: Motto 20-Bai! Mahjong ga Tsuyoku Naru Houhou ~Shochuukyuusha Hen~",
+        "日本プロ麻雀連盟公認　もっと２０倍！　麻雀が強くなる方法　～初中級者編～"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00223",
+      "titles": [
+        "Nihon Pro Mahjong Renmei Suisen: Tokoton Mahjong! Joryu Pro ni Chousen! Tetsuman Megami Special",
+        "Nihon Pro Mahjong Renmei Suisen: Tokoton Mahjong! Joryuu Pro ni Chousen! Tetsuman Megami Special"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "313995",
+        "62133"
+      ],
+      "reason": "ambiguous_or_conflicting_exact_igdb_identities",
+      "title_id": "PCSG00232",
+      "titles": [
+        "Sengoku Hime 4: Souha Hyakkei Hana Mamoru Chikai",
+        "Sengoku Hime 4: Souha Hyakkei, Hana Mamoru Chikai",
+        "戦極姫４～争覇百計、花守る誓い～"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00243",
+      "titles": [
+        "JOYSOUND.TV Plus"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00248",
+      "titles": [
+        "Injustice: Gods Among Us"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00255",
+      "titles": [
+        "ShinobiAshi",
+        "忍足-シノビアシ-"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00256",
+      "titles": [
+        "GENIMUS"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00257",
+      "titles": [
+        "RisingStar"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00258",
+      "titles": [
+        "MeiQ",
+        "迷球 MeiQ"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00259",
+      "titles": [
+        "BOOLINK"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00275",
+      "titles": [
+        "Ryu ga Gotoku: Ishin! Free app / YAKUZA ISHIN! Companion app",
+        "Ryu ga Gotoku: Ishin! Free app for PlayStation®Vita",
+        "Ryū ga Gotoku: Ishin! Free app for PlayStation®Vita",
+        "龍が如く 維新！ 無料アプリ for PlayStation®Vita"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00284",
+      "titles": [
+        "DEMON GAZE Global Editon full game",
+        "Demon Gaze Global Edition (ENG/JPN)",
+        "デモンゲイズ Global Edition"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00301",
+      "titles": [
+        "J-Stars Victory Versus Anime Song Sound Edition",
+        "J-Stars Victory Vs (Anison Sound Edition)",
+        "Jスターズ ビクトリーバーサス アニソンサウンドエディション"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00311",
+      "titles": [
+        "Dekamori Senran Kagura (Hontai Pack B)",
+        "『デカ盛り 閃乱カグラ』本体パックＢ (月閃・蛇女)",
+        "『デカ盛り 閃乱カグラ』本体パックＢ＋Ａセット 全曲入り大盛りデジタルサウンドトラック付き"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00312",
+      "titles": [
+        "J-STARS Victory VS AR Appli"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00330",
+      "titles": [
+        "To LOVEる-とらぶる- ダークネス　バトルエクスタシー",
+        "To Love-Ru Trouble Darkness: Battle Ecstasy"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "62075",
+        "8631"
+      ],
+      "reason": "duplicate_or_localized_igdb_identity_unresolved",
+      "title_id": "PCSG00338",
+      "titles": [
+        "Aiyoku no Eustia: Angel's Blessing",
+        "Aiyoku no Eustia: Angel’s Blessing",
+        "穢翼のユースティア Angel's blessing"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00343",
+      "titles": [
+        "Sakai ☆ Safuku ~ COSTUME FES. ~",
+        "Sekai Seifuku ~ COSTUME FES. ~ (F2P)",
+        "Sekai Seifuku: Costume Fes."
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00374",
+      "titles": [
+        "Nobunaga no Yabou: Souzou",
+        "コーエーテクモ the Best 信長の野望･創造"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00390",
+      "titles": [
+        "JUDAS CODE",
+        "Judas Code"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00396",
+      "titles": [
+        "Soushuu Senshinkan Gakuen: Hachimyoujin Ten no Toki",
+        "相州戦神館學園 八命陣 天之刻"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00422",
+      "titles": [
+        "Love Live! School idol paradise Vol.1 Printemps",
+        "ラブライブ！ School idol paradise Vol.1 Printemps"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00424",
+      "titles": [
+        "Love Live! School idol paradise Vol.3 lily white",
+        "ラブライブ！ School idol paradise Vol.3 lily white"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00437",
+      "titles": [
+        "Stealth Inc - A Clone in the Dark　Ultimate Edition",
+        "Stealth Inc: A Clone in the Dark - Ultimate Edition",
+        "Stealth Inc: Ultimate Edition"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00440",
+      "titles": [
+        "Super Hero Generation (Special Sound Edition)",
+        "スーパーヒーロージェネレーション スペシャルサウンドエディション"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00445",
+      "titles": [
+        "Stranger of Sword City / Tsurugi no Machi no Ihoujin: Kuro no Kyuuden",
+        "剣の街の異邦人　黒の宮殿"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00447",
+      "titles": [
+        "Dekamori Senran Kagura"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00459",
+      "titles": [
+        "FLOWERS",
+        "Flowers"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00466",
+      "titles": [
+        "Sengoku Hime 5: Senkatatsu Haoh no Keifu",
+        "戦極姫５～戦禍断つ覇王の系譜～"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00479",
+      "titles": [
+        "Shiren The Wanderer: The Tower of Fortune and Dice",
+        "不思議のダンジョン　風来のシレン5 plus　フォーチュンタワーと運命のダイス（製品版）"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00485",
+      "titles": [
+        "Hakuouki's Memoirs Omokagegehana",
+        "薄桜鬼 随想録 面影げ花"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00504",
+      "titles": [
+        "Daisenryaku: Dai Toua Kouboushi - Dainijisekaitaisen Boppatsu - Suujiku Sentai Rengougun Zensekaisen",
+        "Daisenryaku: Dai Toua Kouboushi 3",
+        "大戦略　大東亜興亡史３　第二次世界大戦勃発！～枢軸軍対連合軍　全世界戦～"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00511",
+      "titles": [
+        "Wizardry トータルパック",
+        "Wizardry 囚われし亡霊の街 シナリオ２",
+        "Wizardry 囚われし亡霊の街 フルパック",
+        "Wizardry: Torawareshi Bourei no Machi"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00512",
+      "titles": [
+        "Wizardry The Labyrinth of Lost Souls Full Pack",
+        "Wizardry 囚われし魂の迷宮 フルパック",
+        "Wizardry: Torawareshi Tomashii no Meikyuu",
+        "レベル制限解除",
+        "試練の迷宮全開放",
+        "追加シナリオ 『修道女の赤き影』"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00519",
+      "titles": [
+        "Friend to Lover",
+        "Friend to Lover ～フレラバ～"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00556",
+      "titles": [
+        "LOVELY×CATION 1&2",
+        "LOVELY×CATION1&2"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00567",
+      "titles": [
+        "YU-NO: Konoyo no Hate de Koi o Utau Shoujo",
+        "YU-NO: Konoyo no Hate de Koi o Utau Shoujo (3.61+!) [3.63]",
+        "この世の果てで恋を唄う少女YU-NO"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00571",
+      "titles": [
+        "Vamwolf Cross (Regular Edition)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00575",
+      "titles": [
+        "To Heart 2 - Dungeon Travelers",
+        "To Heart 2: Dungeon Travelers",
+        "ToHeart 2: Dungeon Travelers",
+        "ToHeart2 ダンジョントラベラーズ AQUAPRICE2800"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00604",
+      "titles": [
+        "Beast Tamer and Prince ～Flower ＆ Snow～",
+        "Moujuutsukai to Oujisama: Flower & Snow",
+        "猛獣使いと王子様 ～Flower ＆ Snow～"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00607",
+      "titles": [
+        "Nobunaga no Yabou: Souzou with Power-Up Kit",
+        "信長の野望･創造 with パワーアップキット"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00653",
+      "titles": [
+        "Yunohana SpRING!",
+        "ゆのはなSpRING！"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00662",
+      "titles": [
+        "Maru Goukaku! Takken Shiken - Heisei 27 Nendohan",
+        "マル合格! 宅建試験 平成27年度版",
+        "マル合格！宅建試験 平成27年度版"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "11819"
+      ],
+      "reason": "igdb_cover_not_available",
+      "title_id": "PCSG00670",
+      "titles": [
+        "Girlfriend (Kari) - Kimi to Sugosu Natsuyasumi",
+        "ガールフレンド（仮） きみと過ごす夏休み",
+        "ガールフレンド（仮）きみと過ごす夏休み"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00677",
+      "titles": [
+        "The Idol Master: Must Songs - Red Album",
+        "The IdolM@ster Must Songs - Aka-Ban",
+        "アイドルマスター マストソングス 赤盤"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00678",
+      "titles": [
+        "The Idol Master: Must Songs - Blue Album",
+        "The IdolM@ster Must Songs - Ao-Ban",
+        "アイドルマスター マストソングス 青盤"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00691",
+      "titles": [
+        "Jikkyou Powerful Pro Yakyuu Success Special",
+        "実況パワフルプロ野球 サクセススペシャル",
+        "実況パワフルプロ野球サクセススペシャル"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "11494",
+        "60222"
+      ],
+      "reason": "duplicate_or_localized_igdb_identity_unresolved",
+      "title_id": "PCSG00695",
+      "titles": [
+        "GENKAITOKKI MOERO CRYSTAL",
+        "Genkai Tokki: Moero Crystal",
+        "限界凸起 モエロクリスタル"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00701",
+      "titles": [
+        "Touhou Sky Arena: Gensoukyou Kuusen Hime Matsuri Climax",
+        "Touhou Sky Arena: Gensoukyou Kuusen Hime Matsuri Climax (3.61+!) [3.65]",
+        "東方スカイアリーナ・幻想郷空戦姫-MATSURI-CLIMAX"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00717",
+      "titles": [
+        "Animax PLUS",
+        "Animax Plus"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00720",
+      "titles": [
+        "GOD EATER OFF SHOT ＜Lindow Version＞",
+        "God Eater Off Shot Lindow Version - vol. 2"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00721",
+      "titles": [
+        "GOD EATER OFF SHOT ＜Alisa Version＞",
+        "God Eater Off Shot Alisa Version - vol. 3"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00722",
+      "titles": [
+        "GOD EATER OFF SHOT ＜Soma Version＞",
+        "God Eater Off Shot Soma Schicksal Version - vol. 4"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00723",
+      "titles": [
+        "GOD EATER OFF SHOT ＜Shio Version＞",
+        "God Eater Off Shot Shio Version - vol. 5"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00724",
+      "titles": [
+        "GOD EATER OFF SHOT ＜Kota Version＞",
+        "God Eater Off Shot Kota Fujiki Version - vol. 6"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00725",
+      "titles": [
+        "GOD EATER OFF SHOT ＜Sakuya Version＞",
+        "God Eater Off Shot Sakuya Tachibana Version - vol. 7"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00744",
+      "titles": [
+        "ONE PIECE BURNING BLOOD-アニソンサウンドエディション-（PS Vita版）",
+        "One Piece: Burning Blood - Gold Edition (DELISTED)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00752",
+      "titles": [
+        "Touhou Soujinengi V",
+        "東方蒼神縁起V"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00773",
+      "titles": [
+        "DEAD OR ALIVE Xtreme 3 Venus Free-to-Play Version",
+        "DEAD OR ALIVE Xtreme 3 Venus 基本無料版"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00803",
+      "titles": [
+        "Nobunaga no Yabou 201X",
+        "信長の野望 201X"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00816",
+      "titles": [
+        "DEEMO Original Soundtrack Vol.1 Digital Version"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00864",
+      "titles": [
+        "Farming Simulator 16: Pocket Nouen 3",
+        "ファーミングシミュレーター 16　ポケット農園3"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "145090"
+      ],
+      "reason": "igdb_cover_not_available",
+      "title_id": "PCSG00913",
+      "titles": [
+        "Kimi o Aogi Otome wa Hime ni",
+        "君を仰ぎ乙女は姫に"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00920",
+      "titles": [
+        "Super Robot Taisen V (3.61+!) [3.63]",
+        "スーパーロボット大戦Ｖ(PS Vita版)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00924",
+      "titles": [
+        "Shoujo to Dragon: Genjuu Keiyaku Cryptract",
+        "少女とドラゴン -幻獣契約クリプトラクト-",
+        "少女とドラゴン-幻獣契約クリプトラクト-"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00949",
+      "titles": [
+        "San Goku Shi 13 with Power-Up Kit",
+        "三國志13 with パワーアップキット"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00953",
+      "titles": [
+        "Macross Delta Scramble (RunPika Sound Edition)",
+        "マクロスΔスクランブル ルンピカ♪サウンドエディション"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00959",
+      "titles": [
+        "DESIRE remaster ver.",
+        "Desire: Remaster Ver. (3.61+!) [3.63]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00974",
+      "titles": [
+        "Super Robot Taisen V (Premium Anime Song & Sound Edition)",
+        "Super Robot Taisen V (Premium Anime Song & Sound Edition) (3.63+)",
+        "スーパーロボット大戦Ｖ プレミアムアニメソング＆サウンドエディション(PS Vita版)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00989",
+      "titles": [
+        "Moe Moe 2-Ji Daisenryaku 3",
+        "Moe Moe 2-Ji Daisenryaku 3 (3.61+!) [3.63]",
+        "萌え萌え２次大戦（略）３"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG00994",
+      "titles": [
+        "Daisenryaku WEB",
+        "Daisenryaku Web",
+        "大戦略WEB"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "148655",
+        "54773"
+      ],
+      "reason": "duplicate_or_localized_igdb_identity_unresolved",
+      "title_id": "PCSG01015",
+      "titles": [
+        "Tokeijikake no Ley Line: Kagerou ni Samayou Majo",
+        "Tokeijikake no Ley Line: Kagerou ni Samayou Majo (3.61+!) [3.63]",
+        "時計仕掛けのレイライン -陽炎に彷徨う魔女-"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01026",
+      "titles": [
+        "Eiyuu Densetsu: Akatsuki no Kiseki",
+        "英雄伝説 暁の軌跡"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "112301",
+        "34218"
+      ],
+      "reason": "ambiguous_or_conflicting_exact_igdb_identities",
+      "title_id": "PCSG01028",
+      "titles": [
+        "Kono Subarashii Sekai ni Shukufuku wo! Kono Yokubukai Game ni Shinpan wo! (3.61+!) [3.65]",
+        "KonoSuba: Judgment on this Greedy Game!",
+        "この素晴らしい世界に祝福を！-この欲深いゲームに審判を！-",
+        "この素晴らしい世界に祝福を！バスタオル着替え"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01029",
+      "titles": [
+        "Gal*Gun Double Peace Bilingual",
+        "Gal*Gun: Double Peace Bilingual (3.61+!) [3.63]",
+        "ぎゃる☆がん だぶるぴーす ばいりんぎゃる"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01050",
+      "titles": [
+        "Farming Simulator 18 (3.61+!) [3.63]",
+        "ファーミングシミュレーター 18　ポケット農園4"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01060",
+      "titles": [
+        "Hulu",
+        "Hulu (3.61+!) [3.63]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01064",
+      "titles": [
+        "Teikoku Kaleido: Kakumei no Rondo",
+        "帝國カレイド―革命の輪舞曲―"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01065",
+      "titles": [
+        "Gakuen Club Himitsu no Nightclub",
+        "Gakuen Club: Himitsu no Nightclub",
+        "学園CLUB～ヒミツのナイトクラブ～"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01074",
+      "titles": [
+        "Gintama Rumble (AV Edition - Anime Sound & Voice Edition)",
+        "銀魂乱舞　AV EDITION-アニメサウンド＆ボイスエディション-"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01076",
+      "titles": [
+        "Oretachi no Sekai wa Owatteiru",
+        "Oretachi no Sekai wa Owatteiru (3.61+!) [3.65]",
+        "俺達の世界わ終っている。"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "144179",
+        "55040"
+      ],
+      "reason": "ambiguous_or_conflicting_exact_igdb_identities",
+      "title_id": "PCSG01089",
+      "titles": [
+        "A Certain Magical Virtual-On",
+        "A Certain Magical Virtual-On (3.61+!) [3.65]",
+        "電脳戦機バーチャロン×とある魔術の禁書目録　とある魔術の電脳戦機"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01109",
+      "titles": [
+        "Onigiri",
+        "Onigiri (3.61+!) [3.65]",
+        "鬼斬"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01117",
+      "titles": [
+        "Goetia: Sen no Majin to Mugen no Tou",
+        "Goetia: The Infinite Tower (3.61+!) [3.65]",
+        "ゴエティア 千の魔神と無限の塔"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01123",
+      "titles": [
+        "Banbutsu Otome * Dungeons",
+        "Banbutsu otome danjonzu (3.61+!) [3.65]",
+        "万物乙女☆ダンジョンズ"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01126",
+      "titles": [
+        "Digimon Story: Cyber Sleuth - Hacker's Memory (TV Anime Sound Edition)",
+        "デジモンストーリー サイバースルゥース ハッカーズメモリー TVアニメサウンドエディション"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01129",
+      "titles": [
+        "Super Robot Taisen X (Premium Anime & Sound Edition) (3.67+)",
+        "Super Robot Taisen X (Premium Anime Song & Sound Edition)",
+        "Super Robot Wars X Premium Anime Song & Sound Edition",
+        "スーパーロボット大戦X プレミアムアニメソング＆サウンドエディション"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01136",
+      "titles": [
+        "Demon Gaze II Global Edition (ENG/JPN)",
+        "Demon Gaze II Global Edition (ENG/JPN) (3.61+!) [3.65]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01143",
+      "titles": [
+        "Browser San Goku Shi",
+        "Browser San Goku Shi (3.61+!) [3.67]",
+        "ブラウザ三国志"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01161",
+      "titles": [
+        "OCCULTIC;NINE Soundtrack (3.61+!) [3.65]",
+        "OCCULTIC;NINEサウンドトラック",
+        "Occultic;Nine Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "142563",
+        "221599"
+      ],
+      "reason": "duplicate_or_localized_igdb_identity_unresolved",
+      "title_id": "PCSG01171",
+      "titles": [
+        "Tokimeki Restaurant ☆☆☆ Project TriStars",
+        "Tokimeki Restaurant: Project Tristars",
+        "ときめきレストラン☆☆☆ Project TRISTARS"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01177",
+      "titles": [
+        "Shiki hime no niwa (3.61+!) [3.67]",
+        "Shikihime no Niwa",
+        "【式姫の庭】式姫の庭(PS Vita版)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01181",
+      "titles": [
+        "Darkest Dungeon Original Soundtrack",
+        "Darkest Dungeon Original Soundtrack (3.61+!) [3.68]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01186",
+      "titles": [
+        "IS IT WRONG TO TRY TO PICK UP GIRLS IN A DUNGEON? SHOOTING"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01188",
+      "titles": [
+        "THE KING OF FIGHTERS '97 GLOBAL MATCH (3.61+!) [3.67]",
+        "THE KING OF FIGHTERS '97 GLOBAL MATCH (PS Vita)",
+        "THE KING OF FIGHTERS '97 GLOBAL MATCH (PS Vita、PS4™)",
+        "THE KING OF FIGHTERS '97 GLOBAL MATCH（PS4®版、PS Vita版）"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01190",
+      "titles": [
+        "METAL MAX 25th Anniversary Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "240072",
+        "25709"
+      ],
+      "reason": "duplicate_or_localized_igdb_identity_unresolved",
+      "title_id": "PCSG01210",
+      "titles": [
+        "Seven Days: Anata to Sugosu Nanokakan",
+        "Seven Days: Anata to Sugosu Nanokakan (3.61+!) [3.68]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01215",
+      "titles": [
+        "P3D & P5D Full Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01217",
+      "titles": [
+        "Radio Hammer Station Original Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01219",
+      "titles": [
+        "Jikkyou Powerful Pro Yakyuu Championship 2018",
+        "Jikkyou Powerful Pro Yakyuu Championship 2018 (3.61+!) [3.68]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01220",
+      "titles": [
+        "METALMAX DIGITAL SOUNDTRACK BONUS TRACK",
+        "METALMAX DIGITAL SOUNDTRACK BONUS TRACK (3.61+!) [3.68]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01225",
+      "titles": [
+        "Fate/EXTELLA LINK Original Soundtrack",
+        "Fate/Extella LINK Original Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01228",
+      "titles": [
+        "ZANKI ZERO DIGITAL SOUNDTRACK BONUS TRACK",
+        "ZANKI ZERO DIGITAL SOUNDTRACK BONUS TRACK (3.61+!) [3.68]",
+        "ザンキゼロ  スペシャルサウンドトラック エクステンド Ver."
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01239",
+      "titles": [
+        "Hinemosu Shikihime",
+        "Hinemosu Shikihime (3.61+!) [3.68]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01240",
+      "titles": [
+        "Super Destronaut DX: Intruders Edition"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01255",
+      "titles": [
+        "Catherine Full Body Soundtrack Set",
+        "Catherine: Full Body Soundtrack",
+        "Catherine: Full Body Soundtrack (3.61+!) [3.69]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01265",
+      "titles": [
+        "Kono Damegami ni Kyouiku wo",
+        "KonoSuba: Give Education to this Useless Goddess!"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01290",
+      "titles": [
+        "Chevalier of Sapphire Blade Digital Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG01333",
+      "titles": [
+        "Pachi Pachi",
+        "Pachi Pachi On A Roll (3.61+) [3.69]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG80001",
+      "titles": [
+        "NicoNico",
+        "niconico"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG80005",
+      "titles": [
+        "MALICIOUS REBIRTH ORIGINAL SOUNDTRACK (JP)",
+        "MALICIOUS REBIRTH ORIGINAL SOUNDTRACK - 再誕編 -",
+        "Malicious Rebirth Original Soundtrack Saitan-hen"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG80006",
+      "titles": [
+        "MALICIOUS REBIRTH ORIGINAL SOUNDTRACK - 討伐編 -",
+        "Malicious Rebirth Original Soundtrack Toubatsu-hen"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG80007",
+      "titles": [
+        "Hulu"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG80008",
+      "titles": [
+        "Senran Kagura: Shinovi Versus Soundtrack",
+        "Senran Kagura: Shinovi Versus ~Shoujotachi no Shoumei~"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG80009",
+      "titles": [
+        "Dekamori Senran Kagura Digital Soundtrack",
+        "Dekamori Senran Kagura: Digital Soundtrack",
+        "『デカ盛り 閃乱カグラ』全曲入り大盛りデジタルサウンドトラック"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG80010",
+      "titles": [
+        "ROBOTICS;NOTES ELITE AR"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG90088",
+      "titles": [
+        "Saka-Ban"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG90186",
+      "titles": [
+        "Fushigi no Gensokyo-THE TOWER OF DESIRE- SpecialTrial"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG90202",
+      "titles": [
+        "Schwarzesmarken: Kouketsu no Monshou (Prologue)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG90203",
+      "titles": [
+        "Muv-Luv Alternative Total Eclipse: Teito Moyu"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG90206",
+      "titles": [
+        "The Idol Master: Music Clips"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSG90253",
+      "titles": [
+        "Sword Art Online: Hollow Realization Beater's Player Edition (3.61+!) [3.61]",
+        "βeater's Player Edition (PS Vita版)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00008",
+      "titles": [
+        "Puzzle by Nikoli V Kakuro",
+        "Puzzle by Nikoli V Kakuro full game",
+        "Puzzle by Nikoli V: Kakuro"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00010",
+      "titles": [
+        "Puzzle by Nikoli V Nurikabe",
+        "Puzzle by Nikoli V Nurikabe full game",
+        "Puzzle by Nikoli V: Nurikabe"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00020",
+      "titles": [
+        "Ragnarok Odyssey (Asian Localized Ver.)",
+        "Ragnarok Odyssey PlayStation®Vita the Best"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00035",
+      "titles": [
+        "Sengokuhime 3rd",
+        "Sengokuhime 3rd full game"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00043",
+      "titles": [
+        "FINAL FANTASY X-2 HD Remaster full game",
+        "Final Fantasy X-2 HD Remaster (CHI/KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00054",
+      "titles": [
+        "WARRIORS OROCHI 3 Ultimate full game",
+        "Warriors Orochi 2 Ultimate"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00059",
+      "titles": [
+        "NicoNico",
+        "niconico"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00061",
+      "titles": [
+        "Steins;Gate: Senkei Kousoku no Phenogram"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00064",
+      "titles": [
+        "NicoNico",
+        "niconico"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00065",
+      "titles": [
+        "DRAGONBALL Z BATTLE OF Z (Japanese Ver.)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00069",
+      "titles": [
+        "Hyperdimension Neptunia: Producing Perfection (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00072",
+      "titles": [
+        "Super Danganronpa2",
+        "Super Danganronpa2 full game"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00075",
+      "titles": [
+        "The Legend of Heroes SEN NO KISEKI II full game",
+        "The Legend of Heroes: Sen No Kiseki II (CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00078",
+      "titles": [
+        "Hyperdimension Neptunia: Re;Birth1 (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00082",
+      "titles": [
+        "Danganronpa Original Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00085",
+      "titles": [
+        "DEKAMORI SENRAN KAGURA SoundTrack",
+        "Dekamori Senran Kagura: Digital Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00089",
+      "titles": [
+        "TOKYO TWILIGHT GHOSTHUNTERS",
+        "TOKYO TWILIGHT GHOSTHUNTERS full game"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00092",
+      "titles": [
+        "Curve Studios Mega Bundle"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00093",
+      "titles": [
+        "ARCANA HEART3 LOVE MAX!!!!! full game",
+        "Arcana Heart 3: LOVEMAX!!!!!"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00094",
+      "titles": [
+        "MLB.TV"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00098",
+      "titles": [
+        "Hyperdevotion Noire Goddess Black Heart (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00100",
+      "titles": [
+        "Final Fantasy X HD Remaster (CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00107",
+      "titles": [
+        "Hyperdimension Neptunia U: Action Unleashed (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00108",
+      "titles": [
+        "Genkai Tokki: Moero Chronicle (KOR)",
+        "Moe Chronicle"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00111",
+      "titles": [
+        "Shin Sangoku Musou 7 with Moushouden Complete Edition"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00118",
+      "titles": [
+        "Rayman Legends (CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00122",
+      "titles": [
+        "Velocity 2X (CHI)",
+        "Velocity®2X (CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00128",
+      "titles": [
+        "Dekamori Senran Kagura",
+        "Dekamori Senran Kagura (CHI/KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00139",
+      "titles": [
+        "Operation Abyss: New Tokyo Legacy (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00140",
+      "titles": [
+        "Hyperdimension Neptunia: Re;Birth3 V Century (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00146",
+      "titles": [
+        "Zettai Zetsubo Shojo DANGANRONPA Another Episode",
+        "Zettai Zetsubou Shoujo: Danganronpa - Another Episode"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00148",
+      "titles": [
+        "Moe Chronicle",
+        "Moe Chronicle (ENG/CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00149",
+      "titles": [
+        "Ooedo Blacksmith (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00156",
+      "titles": [
+        "CastleStorm: Complete Edition",
+        "CastleStorm: Complete Edition (ENG/CHI/KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00169",
+      "titles": [
+        "CastleStorm (CHI)",
+        "CastleStorm (CHI) (3.61+!) [3.61]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00175",
+      "titles": [
+        "Quell Memento (CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00177",
+      "titles": [
+        "Krinkle Krusher (CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00183",
+      "titles": [
+        "Ys: Memories of Celceta (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00186",
+      "titles": [
+        "Aegis of Earth (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00197",
+      "titles": [
+        "Shin Sangoku Musou 7 Empires (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00198",
+      "titles": [
+        "Shin Sangoku Musou 7 Empires (Free Alliances Version)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00200",
+      "titles": [
+        "Twitch"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00203",
+      "titles": [
+        "Trillion God Of Destruction (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00207",
+      "titles": [
+        "Gundam Breaker 3 (CHI)",
+        "Gundam Breaker 3 (PS Vita)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00214",
+      "titles": [
+        "DEEMO The Last Recital (CHI)",
+        "DEEMO The Last Recital (CHI) (3.61+!) [3.63]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00215",
+      "titles": [
+        "DEEMO: Last Recital - Original Soundtrack Vol.1"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00226",
+      "titles": [
+        "Teslagrad Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00233",
+      "titles": [
+        "Space Hulk (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00240",
+      "titles": [
+        "DYING: Reborn (CHI) (3.61+!) [3.61]",
+        "DYING: Reborn (Chinese Ver.)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00256",
+      "titles": [
+        "Nights Of Azure (KOR)",
+        "Nights of Azure / Yoru no Nai Kuni"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00257",
+      "titles": [
+        "Attack On Titan (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00258",
+      "titles": [
+        "MeiQ Labyrinth of Death (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00260",
+      "titles": [
+        "Yuusha Sisu."
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00262",
+      "titles": [
+        "A.W. Pheonix Festa"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00264",
+      "titles": [
+        "SUPERBEAT XONiC (CHI)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00268",
+      "titles": [
+        "Rose to Tasogare no Kojo"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00273",
+      "titles": [
+        "MAKAISHIN TRILLION"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00281",
+      "titles": [
+        "DEAD OR ALIVE Xtreme 3 Venus Free-to-Play Version",
+        "Dead or Alive Xtreme 3: Venus (Free to Play) (ENG/CHI/KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00282",
+      "titles": [
+        "Blast 'Em Bunnies (CHI)",
+        "Blast 'Em Bunnies (CHI) (3.61+!) [3.61]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00288",
+      "titles": [
+        "Chaos;Child (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00291",
+      "titles": [
+        "NOBUNAGA'S AMBITION: Souzou Sengoku Risshiden",
+        "Nobunaga's Ambition: Souzou Sengoku Risshiden"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00294",
+      "titles": [
+        "MEIQ NO CHIKANISHISU"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00296",
+      "titles": [
+        "Ys VIII: Lacrimosa of DANA (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00299",
+      "titles": [
+        "Fate/EXTELLA",
+        "Fate/Extella (3.61+!) [3.61]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00306",
+      "titles": [
+        "Hakuoki Kyoto Winds (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH00308",
+      "titles": [
+        "ROMANCE OF THE THREE KINGDOMS XIII: Fame and Strategy (3.61+!) [3.63]",
+        "ROMANCE OF THE THREE KINGDOMS XIII: Fame and Strategy Expansion Pack Bundle",
+        "Romance of the Three Kingdoms XIII: Fame and Strategy"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10003",
+      "titles": [
+        "Super Robot Taisen V (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10005",
+      "titles": [
+        "Hakuouki Shinkai Kazeno-Sho",
+        "Hakuouki Shinkai Kazeno-Sho (3.61+!) [3.61]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10016",
+      "titles": [
+        "Operation Babel: New Tokyo Legacy (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10022",
+      "titles": [
+        "Toukiden 2 (CHI)",
+        "Toukiden 2 (CHI) (3.61+!) [3.65]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10030",
+      "titles": [
+        "Unholy Heights (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10031",
+      "titles": [
+        "Berserk and Band of The Hawk (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10036",
+      "titles": [
+        "AKIBA'S BEAT (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10043",
+      "titles": [
+        "Mary Skelter: Nightmares (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10046",
+      "titles": [
+        "Hakuoki: Edo Blossoms (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10050",
+      "titles": [
+        "Radio Hammer Station Original Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10057",
+      "titles": [
+        "Hakuouki Shinkai Hanano-Sho",
+        "Hakuouki Shinkai Hanano-Sho (3.61+!) [3.65]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10058",
+      "titles": [
+        "MUSYNC",
+        "MUSYNC (3.61+!) [3.65]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10059",
+      "titles": [
+        "Digimon Story Cyber Sleuth: Hacker's Memory (Chinese Ver.)",
+        "Digimon Story: Cyber Sleuth - Hacker's Memory (CHI) (3.61+!) [3.65]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10065",
+      "titles": [
+        "FORTUNE STREET DRAGON QUEST ＆ FINAL FANTASY 30th ANNIVERSARY",
+        "Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary",
+        "Fortune Street: Dragon Quest & Final Fantasy 30th Anniversary (3.61+!) [3.65]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10074",
+      "titles": [
+        "A Certain Magical Virtual-On (KOR)",
+        "A Certain Magical Virtual-On (Korean)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10076",
+      "titles": [
+        "The Lost Child (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10079",
+      "titles": [
+        "Digimon Story: Cyber Sleuth - Hacker's Memory (Digimon 20th Anniversary Edition)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10083",
+      "titles": [
+        "The Legend of Heroes: Sora no Kiseki the 3rd Evolution (KOR)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10092",
+      "titles": [
+        "A Certain Magical Virtual-On (Chinese)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10096",
+      "titles": [
+        "League of Evil (ENG/CHI/KOR)",
+        "League of Evil (ENG/CHI/KOR) (3.61+!) [3.68]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10116",
+      "titles": [
+        "InkSplosion (ENG/CHI/KOR/JPN) (3.61+!) [3.67]",
+        "InkSplosion (English/Chinese/Korean/Japanese Ver.)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10119",
+      "titles": [
+        "36 Fragments of Midnight (ENG/CHI/KOR) (3.61+!) [3.67]",
+        "36 Fragments of Midnight (English/Chinese/Korean Ver.)"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10123",
+      "titles": [
+        "FullBlast (ENG/CHI/KOR/JPN)",
+        "FullBlast (ENG/CHI/KOR/JPN) (3.61+!) [3.68]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10127",
+      "titles": [
+        "Jack N' Jill DX (ENG/CHI/JPN)",
+        "Jack N' Jill DX (ENG/CHI/JPN) (3.61+!) [3.68]"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10130",
+      "titles": [
+        "P3D ＆ P5D FULL SOUNDTRACK"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10131",
+      "titles": [
+        "P3D ＆ P5D FULL SOUNDTRACK"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10135",
+      "titles": [
+        "Fate/EXTELLA LINK Original Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10136",
+      "titles": [
+        "Fate/EXTELLA LINK Original Soundtrack"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10163",
+      "titles": [
+        "Cybarian: The Time Traveling Warrior"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10226",
+      "titles": [
+        "Kid Tripp + Miles & Kilo"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10227",
+      "titles": [
+        "FoxyLand Collection"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10247",
+      "titles": [
+        "Grass Cutter"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10291",
+      "titles": [
+        "My Big Sister & Just Ignore Them"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [],
+      "reason": "no_exact_igdb_identity",
+      "title_id": "PCSH10297",
+      "titles": [
+        "Breeder Homegrown"
+      ]
+    },
+    {
+      "candidate_igdb_ids": [
+        "214520"
+      ],
+      "reason": "igdb_cover_not_available",
+      "title_id": "PCSH10303",
+      "titles": [
+        "Bard's Gold Complete Edition"
+      ]
+    }
+  ],
+  "worldwide_coverage_path": "data/worldwide/coverage.json",
+  "worldwide_coverage_summary": {
+    "complete_worldwide": false,
+    "native_base_status": {
+      "base_artwork_available": 3425,
+      "base_identity_matched": 3433,
+      "base_identity_unresolved": 429,
+      "missing_reasons": {
+        "ambiguous_or_conflicting_exact_igdb_identities": 9,
+        "duplicate_igdb_ar_football_identity_unresolved": 3,
+        "duplicate_or_localized_igdb_identity_unresolved": 15,
+        "excluded_unresolved_source_content_or_edition_conflict": 8,
+        "igdb_cover_not_available": 21,
+        "mapped": 9808,
+        "no_exact_igdb_identity": 979,
+        "version_required_to_distinguish_original_and_treasure_trove": 3
+      },
+      "native_base_title_ids": 3862,
+      "records": 10846,
+      "title_ids": 3862
+    },
+    "native_base_title_ids": 3862,
+    "native_vita_title_ids": 4315,
+    "source_assertions": 82590
+  }
+}

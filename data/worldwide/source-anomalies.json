@@ -1,0 +1,162 @@
+{
+  "policy": "Source contradictions remain explicit; neither identifier is corrected or used to infer parent associations.",
+  "records": [
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "EP9000-PCSF00243_00-P000000000001388",
+      "content_id_title_id": "PCSF00243",
+      "content_type": "dlc",
+      "declared_title_id": "PCSF00403",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "14158"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "EP9000-PCSF00243_00-P000000000001957",
+      "content_id_title_id": "PCSF00243",
+      "content_type": "dlc",
+      "declared_title_id": "PCSF00403",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "14159"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "EP2475-PCSB01257_00-ADDCONTDLCD00057",
+      "content_id_title_id": "PCSB01257",
+      "content_type": "dlc",
+      "declared_title_id": "PCSB01256",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "19821"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "EP2475-PCSB01257_00-ADDCONTDLCD00054",
+      "content_id_title_id": "PCSB01257",
+      "content_type": "dlc",
+      "declared_title_id": "PCSB01256",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "19822"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "EP2475-PCSB01257_00-ADDCONTDLCD00052",
+      "content_id_title_id": "PCSB01257",
+      "content_type": "dlc",
+      "declared_title_id": "PCSB01256",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "19823"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "JP0117-PCSG00422_00-0004GIMMKADOSP01",
+      "content_id_title_id": "PCSG00422",
+      "content_type": "dlc",
+      "declared_title_id": "PCSG00424",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "7798"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "JP0117-PCSG00422_00-0021COSTAMIAOR02",
+      "content_id_title_id": "PCSG00422",
+      "content_type": "dlc",
+      "declared_title_id": "PCSG00424",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "7799"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "JP0117-PCSG00422_00-0027STAGKADOSP01",
+      "content_id_title_id": "PCSG00422",
+      "content_type": "dlc",
+      "declared_title_id": "PCSG00424",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "7800"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "JP0117-PCSG00422_00-0033COSTKADOSP03",
+      "content_id_title_id": "PCSG00422",
+      "content_type": "dlc",
+      "declared_title_id": "PCSG00424",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "7801"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "JP0117-PCSG00422_00-0043SET2KADOSP06",
+      "content_id_title_id": "PCSG00422",
+      "content_type": "dlc",
+      "declared_title_id": "PCSG00424",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "7802"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "JP0117-PCSG00422_00-0044SET3KADOSP07",
+      "content_id_title_id": "PCSG00422",
+      "content_type": "dlc",
+      "declared_title_id": "PCSG00424",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_dlcs",
+      "source_record_id": "7803"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "JP0106-PCSG00193_00-TOUKIDENDLC00100",
+      "content_id_title_id": "PCSG00193",
+      "content_type": "dlc",
+      "declared_title_id": "PCSG00379",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/pending/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_pending_dlcs",
+      "source_record_id": "2728"
+    },
+    {
+      "automatic_parent_or_runtime_join_allowed": false,
+      "content_id": "UP9000-PCSA00017_00-LBPDLCDSTRCO0001",
+      "content_id_title_id": "PCSA00017",
+      "content_type": "dlc",
+      "declared_title_id": "PCSG00205",
+      "disposition": "Both source claims retained unchanged; no inferred parent association or runtime join.",
+      "evidence_url": "https://nopaystation.com/tsv/pending/PSV_DLCS.tsv",
+      "kind": "declared_title_id_content_id_disagreement",
+      "source": "nps_pending_dlcs",
+      "source_record_id": "2742"
+    }
+  ],
+  "schema_version": 1
+}

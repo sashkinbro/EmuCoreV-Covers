@@ -1,0 +1,319 @@
+{
+  "records": [
+    {
+      "candidate_igdb_ids": [
+        "88895",
+        "94130"
+      ],
+      "previous_igdb_id": "88895",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSA00035"
+    },
+    {
+      "candidate_igdb_ids": [
+        "10922",
+        "20016"
+      ],
+      "previous_igdb_id": "20016",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSB00317"
+    },
+    {
+      "candidate_igdb_ids": [
+        "329774",
+        "4845"
+      ],
+      "previous_igdb_id": "4845",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSB00418"
+    },
+    {
+      "candidate_igdb_ids": [
+        "15395",
+        "7596"
+      ],
+      "previous_igdb_id": "15395",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSB00467"
+    },
+    {
+      "candidate_igdb_ids": [
+        "329774",
+        "4845"
+      ],
+      "previous_igdb_id": "4845",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSB00553"
+    },
+    {
+      "candidate_igdb_ids": [
+        "6066",
+        "99542"
+      ],
+      "previous_igdb_id": "6066",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSB00702"
+    },
+    {
+      "candidate_igdb_ids": [
+        "11069",
+        "423220"
+      ],
+      "previous_igdb_id": "11069",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSB00764"
+    },
+    {
+      "candidate_igdb_ids": [
+        "25651",
+        "8965"
+      ],
+      "previous_igdb_id": "8965",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSB01017"
+    },
+    {
+      "candidate_igdb_ids": [
+        "6147",
+        "84923"
+      ],
+      "previous_igdb_id": "6147",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSB01135"
+    },
+    {
+      "candidate_igdb_ids": [
+        "88895",
+        "94130"
+      ],
+      "previous_igdb_id": "88895",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSC00020"
+    },
+    {
+      "candidate_igdb_ids": [
+        "243259",
+        "4988"
+      ],
+      "previous_igdb_id": "243259",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSE00084"
+    },
+    {
+      "candidate_igdb_ids": [
+        "10922",
+        "20016"
+      ],
+      "previous_igdb_id": "20016",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSE00280"
+    },
+    {
+      "candidate_igdb_ids": [
+        "329774",
+        "4845"
+      ],
+      "previous_igdb_id": "4845",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSE00353"
+    },
+    {
+      "candidate_igdb_ids": [
+        "15395",
+        "7596"
+      ],
+      "previous_igdb_id": "15395",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSE00366"
+    },
+    {
+      "candidate_igdb_ids": [
+        "4756",
+        "99781"
+      ],
+      "previous_igdb_id": "4756",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSE00480"
+    },
+    {
+      "candidate_igdb_ids": [
+        "6066",
+        "99542"
+      ],
+      "previous_igdb_id": "6066",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSE00589"
+    },
+    {
+      "candidate_igdb_ids": [
+        "11069",
+        "423220"
+      ],
+      "previous_igdb_id": "11069",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSE00670"
+    },
+    {
+      "candidate_igdb_ids": [
+        "8965",
+        "91323"
+      ],
+      "previous_igdb_id": "8965",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSE00919"
+    },
+    {
+      "candidate_igdb_ids": [
+        "13111",
+        "19799"
+      ],
+      "previous_igdb_id": "19799",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSE00928"
+    },
+    {
+      "candidate_igdb_ids": [
+        "10922",
+        "20016"
+      ],
+      "previous_igdb_id": "20016",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSE00977"
+    },
+    {
+      "candidate_igdb_ids": [
+        "88895",
+        "94130"
+      ],
+      "previous_igdb_id": "88895",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSF00062"
+    },
+    {
+      "candidate_igdb_ids": [
+        "145407",
+        "20094"
+      ],
+      "previous_igdb_id": "20094",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG00148"
+    },
+    {
+      "candidate_igdb_ids": [
+        "147011",
+        "21880"
+      ],
+      "previous_igdb_id": "21880",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG00220"
+    },
+    {
+      "candidate_igdb_ids": [
+        "62075",
+        "8631"
+      ],
+      "previous_igdb_id": "8631",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG00338"
+    },
+    {
+      "candidate_igdb_ids": [
+        "148653",
+        "17906"
+      ],
+      "previous_igdb_id": "17906",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG00357"
+    },
+    {
+      "candidate_igdb_ids": [
+        "4756",
+        "99781"
+      ],
+      "previous_igdb_id": "4756",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG00408"
+    },
+    {
+      "candidate_igdb_ids": [
+        "16823",
+        "44650"
+      ],
+      "previous_igdb_id": "16823",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG00616"
+    },
+    {
+      "candidate_igdb_ids": [
+        "11527",
+        "379957"
+      ],
+      "previous_igdb_id": "11527",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG00632"
+    },
+    {
+      "candidate_igdb_ids": [
+        "11494",
+        "60222"
+      ],
+      "previous_igdb_id": "60222",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG00695"
+    },
+    {
+      "candidate_igdb_ids": [
+        "11069",
+        "423220"
+      ],
+      "previous_igdb_id": "11069",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG00836"
+    },
+    {
+      "candidate_igdb_ids": [
+        "148655",
+        "54773"
+      ],
+      "previous_igdb_id": "54773",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG01015"
+    },
+    {
+      "candidate_igdb_ids": [
+        "142563",
+        "221599"
+      ],
+      "previous_igdb_id": "221599",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG01171"
+    },
+    {
+      "candidate_igdb_ids": [
+        "395246",
+        "61682"
+      ],
+      "previous_igdb_id": "61682",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG01189"
+    },
+    {
+      "candidate_igdb_ids": [
+        "240072",
+        "25709"
+      ],
+      "previous_igdb_id": "240072",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSG01210"
+    },
+    {
+      "candidate_igdb_ids": [
+        "11455",
+        "6363"
+      ],
+      "previous_igdb_id": "11455",
+      "reason": "new_authoritative_alias_or_source_identity_conflict",
+      "title_id": "PCSH10010"
+    }
+  ]
+}

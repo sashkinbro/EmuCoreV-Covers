@@ -1,0 +1,82 @@
+{
+  "PCSB00051": {
+    "title": "EA SPORTS™ FIFA Football",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSF00440": {
+    "title": "flOw",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSF00247": {
+    "title": "The Jak and Daxter Trilogy™",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSB00679": {
+    "title": "Nidhogg",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSB00449": {
+    "title": "OlliOlli",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSB00548": {
+    "title": "PixelJunk™ Shooter Ultimate",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSB00650": {
+    "title": "Project Root",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSF00036": {
+    "title": "PulzAR™",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSB00682": {
+    "title": "Retro City Rampage™ DX",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSF00270": {
+    "title": "Sly 2: Band of Thieves™",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSA00095": {
+    "title": "Sly 1 & 2",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSF00207": {
+    "title": "Sly Cooper: Thieves in Time™ (PCSF00207)",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSB00724": {
+    "title": "STEINS;GATE",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSE00323": {
+    "title": "Table Top Racing",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSF00613": {
+    "title": "The Unfinished Swan",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  },
+  "PCSE00448": {
+    "title": "WARRIORS OROCHI 3 Ultimate",
+    "source": "PARAM.SFO public TITLE_ID/TITLE identity assertion",
+    "kind": "title_identity_assertion"
+  }
+}

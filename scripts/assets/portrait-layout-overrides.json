@@ -1,0 +1,837 @@
+{
+  "crop_policy": "A-style proportional crop only at recorded title/subject-safe anchors. Source hash/dimensions bound each choice. Complete raw originals and flat art retained.",
+  "crop_tradeoffs": "Recorded safe framing preserves reviewed title/subtitle/main face visibility, not every hair/limb/credit/background pixel. Original and flat remain complete.",
+  "default_for_unreviewed_tall_source": "Require review before publication; no automatic crop or blue side-strip filler.",
+  "games": {
+    "106530": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Tetra's Escape",
+      "review_note": "Top retains complete Tetra's Escape title and cube character; center/bottom clip capital T/title tops.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        200,
+        257.84615384615387
+      ],
+      "selected_preview_sha256": "b8a1530c19d35a710cd04fa596c86d2f571ffcbae1f58af953cf0f2529e1beb5",
+      "source_dimensions": [
+        200,
+        300
+      ],
+      "source_sha256": "fbc7639fc74ff20130f454c84a4d9500c2da0e5a255710700c4c4cff78823637",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/kmzxswtrbkyjiugpsass.jpg"
+    },
+    "107044": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Jack N' Jill DX",
+      "review_note": "Center retains complete Jack N' Jill DX logo and all character eyes. Lower rounded character bodies were already open-ended in source; no facial feature is newly removed.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        75.87692307692305,
+        720,
+        1004.123076923077
+      ],
+      "selected_preview_sha256": "2512ed186c1a573a1561ec5506f3a28e266af1526bd32d72f6bb960f6ddce9c8",
+      "source_dimensions": [
+        720,
+        1080
+      ],
+      "source_sha256": "5bc30b31864a3561b075611b4dfce01ecc613d2dfe22d88c8889e87fb7470e6a",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/xzlg4yuy7qxg3vil07no.jpg"
+    },
+    "10788": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Rugby 15",
+      "review_note": "Center retains complete Rugby15 logo and all three player faces; sky/grass are the removed margins.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        75.87692307692305,
+        720,
+        1004.123076923077
+      ],
+      "selected_preview_sha256": "5ebcddcd8b34559acee5b7892cde260c0561d0f6e89141c25d1d265566d1bc97",
+      "source_dimensions": [
+        720,
+        1080
+      ],
+      "source_sha256": "2b0648af1a455602bdfc6e7a9b9cb5916fa19b650d490986550372d6ad159137",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/bkuvxbnujcdwri9xvg8f.jpg"
+    },
+    "112590": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Energy Cycle Edge",
+      "review_note": "Center preserves stylized ECE title, heroine's face/head and primary scene. Removed lower leg/background edge is not a facial/title loss.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        151.7538461538461,
+        1440,
+        2008.246153846154
+      ],
+      "selected_preview_sha256": "a118f71dc5cd956aaa2ac1219dd461bd628918cd577be80241c7b2c81a9a96c5",
+      "source_dimensions": [
+        1440,
+        2160
+      ],
+      "source_sha256": "3e34e4c0f7591822e0c0478244e24216a2ae6ad82792c8a02d561d54e9b88889",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co4d1o.jpg"
+    },
+    "124849": {
+      "anchor_y": 1,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "SteamWorld Heist: Hatbox - Hatful Eight + 2",
+      "review_note": "Bottom preserves complete HATBOX: HATFUL EIGHT +2 subtitle and SteamWorld Heist logo; robot faces are intact. Top/center clip footer subtitle; upper tool-tip trim is secondary.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        41.08307692307693,
+        342,
+        482.0
+      ],
+      "selected_preview_sha256": "e09bfadaabf7f5eb32807e8176e63d54f0f7648cf8712400852c6688fc758c5b",
+      "source_dimensions": [
+        342,
+        482
+      ],
+      "source_sha256": "5df60fbee7f7e76bc16cca0696c7510096010aa4508f11ae9c5726e299e87a57",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co3ce7.jpg"
+    },
+    "186545": {
+      "anchor_y": 1,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Hakuoki: Edo Blossoms - Deluxe Edition",
+      "review_note": "Full-size bottom checked: Hakuoki / Edo Blossoms and Japanese subtitle complete, all five faces/eyes intact; upper crown/hair tip trims only. Center/top cut lower title/subtitle.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        41.08307692307693,
+        342,
+        482.0
+      ],
+      "selected_preview_sha256": "0ba958db1c70b586e9050798195a864f6f04b0d2cc9c924964d5643776e18975",
+      "source_dimensions": [
+        342,
+        482
+      ],
+      "source_sha256": "a6eb6299fcabd6471d8b94aa2dc0557085a61eaf31c4fe96f34a2cdded2448d4",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co4bqy.jpg"
+    },
+    "20401": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Mobile Suit Gundam: Extreme Vs Force",
+      "review_note": "Center retains full Gundam Extreme Vs Force logo and foreground mecha heads. Peripheral antenna/background/foot-edge trimming does not remove key identity.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        80.0492307692308,
+        1272,
+        1719.9507692307693
+      ],
+      "selected_preview_sha256": "3e903b672597a7dd9fdf9427e6f75b71fb38799c850435b4b1ada2807c2f36fb",
+      "source_dimensions": [
+        1272,
+        1800
+      ],
+      "source_sha256": "ab5edd9441363a724cfe560417555099a7847b5acecd6a0980a638a2a21c418c",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1i7m.jpg"
+    },
+    "21008": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Ragnarok Odyssey",
+      "review_note": "Center retains both Ragnarok Odyssey title lines, characters' faces and principal creature face; only outer horn/background/leg edges trim.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        20.07076923076923,
+        366,
+        491.9292307692308
+      ],
+      "selected_preview_sha256": "8d5ecdbe0b4d01d56e92e17ea04e2d5449dc45c0ca5e7bd79d8d39e7484732ad",
+      "source_dimensions": [
+        366,
+        512
+      ],
+      "source_sha256": "8db4d0e3cae749f1bf05c0311f487674f4d27edd2db2ce8c971448dc3074f272",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1qoq.jpg"
+    },
+    "21662": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Don't Starve: Giant Edition",
+      "review_note": "Top preserves complete Don't Starve Giant Edition title. Center/bottom clip the upper lettering; protagonist's face remains clear with top.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        720,
+        928.2461538461539
+      ],
+      "selected_preview_sha256": "fc1a456aba66c2b86521763c8520798fdf0b123a8e203b5ae50a8fa1e97b8681",
+      "source_dimensions": [
+        720,
+        1080
+      ],
+      "source_sha256": "145eb9eecf01f34a7caac8af8d791d52b7134a357c50b06e34f6a38a0557dabc",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1lho.jpg"
+    },
+    "313299": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Sword Art Online: Lost Song - Limited Edition",
+      "review_note": "Center retains main Japanese/English Sword Art Online Lost Song title and every cast face. Source platform/footer stamp edges trim; raw source remains intact. No regional/edition identity inference is made from this crop.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        23.153846153846132,
+        400,
+        538.8461538461538
+      ],
+      "selected_preview_sha256": "bf605216b276bb76513e6a59d6db0695433ce3f2f1b95c5d9a13e5fb8184b88f",
+      "source_dimensions": [
+        400,
+        562
+      ],
+      "source_sha256": "2b0270523a8463745bce0c2e091fd26424a6f6a7b41558855c53af75a851280c",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co8o3r.jpg"
+    },
+    "35252": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Cosmophony",
+      "review_note": "Center retains Cosmophony title and central white glyph; cropped margins are abstract rays/gradient.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        63.230769230769226,
+        600,
+        836.7692307692307
+      ],
+      "selected_preview_sha256": "b45c9e66c76a8e541d389ef93e22e9fc8b5dc274868a050a81417a2fa6852cc2",
+      "source_dimensions": [
+        600,
+        900
+      ],
+      "source_sha256": "e514a1d224a5c38298e7caf7d1eab56176869be1ce53be2848c6d2d8d4b396ca",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1wv4.jpg"
+    },
+    "35517": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Switch Galaxy Ultra",
+      "review_note": "Top retains complete SWITCH GALAXY ULTRA logo and faces/silhouettes. Center/bottom clip SWITCH at top.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        342,
+        440.91692307692307
+      ],
+      "selected_preview_sha256": "71f1867bce7983a26679c7b4e706123ff8f3ec5ae16294e99b77d4e3e4e100fe",
+      "source_dimensions": [
+        342,
+        482
+      ],
+      "source_sha256": "fce09243348f7310ec75dc769f01f3965d6571484910c6447fe87dbd25685f3e",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1spe.jpg"
+    },
+    "365702": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Hollow Knight",
+      "review_note": "Top retains complete Hollow Knight lettering/upper ornament and both eye openings/horns; center/bottom clip title tops.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        600,
+        773.5384615384615
+      ],
+      "selected_preview_sha256": "d5e24b7bc6708ecfba408b3bdb4a68e6300d50ce58957593ffebedded5c58f41",
+      "source_dimensions": [
+        600,
+        900
+      ],
+      "source_sha256": "188dcbd8b465711526646ce425570682ca54c04bd8298cff24514333a666ccbd",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/coaes9.jpg"
+    },
+    "42682": {
+      "anchor_y": 1,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Destiny of Spirits",
+      "review_note": "Bottom retains complete Destiny of Spirits lettering including the lower S flourish. Main goddess face and right character face remain intact; top/center clip lower title.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        66.46153846153845,
+        600,
+        840.0
+      ],
+      "selected_preview_sha256": "f1a1751dddd6bf40a19a27952bc157a55bbea0e15f018f5531b7ba1b36337f3b",
+      "source_dimensions": [
+        600,
+        840
+      ],
+      "source_sha256": "7060fdec224391a32959247e09b1e73adac5a321bedfbb57c9c19acef674889a",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1uoq.jpg"
+    },
+    "44650": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Deception IV: The Nightmare Princess",
+      "review_note": "Full-size center checked: blue-haired figure's eyes/face and red-haired protagonist are intact; only upper hair tips trim. Full Deception IV / Nightmare Princess title remains.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        80.69384615384615,
+        1271,
+        1719.3061538461538
+      ],
+      "selected_preview_sha256": "7f18b6ff63053c3ad9b9cdacf03d515434bc58407c19bd7b6fdd5e168f70bba3",
+      "source_dimensions": [
+        1271,
+        1800
+      ],
+      "source_sha256": "a5ecec1dbd9e73e358229860c69853df158d1f15a3945e0dea26d5ab0b27b593",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1hsw.jpg"
+    },
+    "4991": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Major League Baseball 2K10",
+      "review_note": "Top preserves complete 2K Sports / Major League Baseball 2K10 heading and player face. Center/bottom cut heading. Lower athlete credit/field edge is secondary to the intact title and subject.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        705,
+        908.9076923076923
+      ],
+      "selected_preview_sha256": "a71cf945c6966371661304262b420a980a91977431271840c57d1e3f3be9a805",
+      "source_dimensions": [
+        705,
+        1000
+      ],
+      "source_sha256": "8a06c60eb7a237afd73f4981812af26a8bdec0338b5f66f1f21a4b7c27e6b352",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co30u1.jpg"
+    },
+    "5026": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Rainbow Moon",
+      "review_note": "Top preserves full Rainbow Moon lettering and large initial R. Center/bottom clip title tops; lower monster faces remain recognizable with top.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        1984,
+        2557.833846153846
+      ],
+      "selected_preview_sha256": "507073f160fa6de3fac974526c41a349f60419ce7a9aed12448890dabf9154f7",
+      "source_dimensions": [
+        1984,
+        2807
+      ],
+      "source_sha256": "4b66102cb49057aabc2d2cb8f4514546402228754163e0a57dc42ec76175463a",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/xc2cyw3fulmuns2npcmx.jpg"
+    },
+    "52178": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Don't Die, Mr. Robot!",
+      "review_note": "Top preserves both DON'T DIE / MR. ROBOT lines and robot eyes/mouth. Center/bottom cut upper title.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        342,
+        440.91692307692307
+      ],
+      "selected_preview_sha256": "48f8065f43225d080b09025a7fd82bfadccd6af54a1d3a6d86382382e5deba0c",
+      "source_dimensions": [
+        342,
+        482
+      ],
+      "source_sha256": "afa36a68fda4deb409d950df47363d6deb77e74cd241025117f42d06a227d279",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1sjc.jpg"
+    },
+    "52534": {
+      "anchor_y": null,
+      "layout": "designed_whole_poster",
+      "name": "Jungle Rumble: Freedom, Happiness and Bananas",
+      "review_note": "Full-art designed poster required: source logo sits about 75–92% down. Center/top cut or lose it, while bottom removes upper monkey/forest subjects. Verified poster retains full source and lower logo.",
+      "selected_preview_sha256": "723a8baa11b061d6ff9d32ba21d1628754b72d691654893cfbed4c7c9c7a3860",
+      "source_dimensions": [
+        1800,
+        3200
+      ],
+      "source_sha256": "72eb3b8b4eade7d8fdb835dee50ef4b1dd38944d4d9c709b5834b9dac7eb0e8c",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/sg0e1gfxxcpa9es8afmk.jpg"
+    },
+    "55176": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Shantae: Half-Genie Hero - Pirate Queen's Quest",
+      "review_note": "Top retains complete Shantae logo and Pirate Queen's Quest subtitle with the character's face; center/bottom remove logo strokes.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        720,
+        928.2461538461539
+      ],
+      "selected_preview_sha256": "ce94ff96a4784870edb1d4e42390dd841fc5c2999042190fd1b3cad3e064dbfd",
+      "source_dimensions": [
+        720,
+        1080
+      ],
+      "source_sha256": "4f9ad2bbe9d6ab82bb0d4e1a029efbced6b9fb7723c416255fa74b590578ca09",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/wlv17kayenryn8ekcsuc.jpg"
+    },
+    "58722": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Genkai Tokki: Seven Pirates",
+      "review_note": "Center retains complete Japanese/English Seven Pirates title and both prominent faces. Only already-peripheral garment/background edges trim.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        33.230769230769226,
+        600,
+        806.7692307692307
+      ],
+      "selected_preview_sha256": "3f2782b96cd3284175e5287054c809c48091f3f22ef5af701d0ae9bb44b45025",
+      "source_dimensions": [
+        600,
+        840
+      ],
+      "source_sha256": "eeba23412f932d651f67bb93ef9aa6100d74e06c03aed5556e4ebdf986d03967",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1v05.jpg"
+    },
+    "60319": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Genso Rondo",
+      "review_note": "Center retains the vertical Japanese title and all principal faces. Upper wing/background and small publisher/footer edge trim, not the game title.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        40.51538461538462,
+        560,
+        762.4846153846154
+      ],
+      "selected_preview_sha256": "9e1f079fd00c0d0689b98677a7bf6de1fb575a9d13f1431552467d21dac7836b",
+      "source_dimensions": [
+        560,
+        803
+      ],
+      "source_sha256": "75b467e889d833abcd3b615143e3b21b804581318bb4d7a189c603f22d902c5f",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/oiirexmq8oxftbmcesly.jpg"
+    },
+    "60646": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Cross Ange: Rondo of Angels and Dragons tr.",
+      "review_note": "Center retains all cast faces; original source supplies no game logo to preserve. Removed margins are building background and lower uniform edges.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        28.518461538461565,
+        477,
+        643.4815384615384
+      ],
+      "selected_preview_sha256": "001f756db7cd11d1166872fc8f81a8b8fa6bd6332f49282673179af198054d63",
+      "source_dimensions": [
+        477,
+        672
+      ],
+      "source_sha256": "6adc7122179bbca7aabceee97600673fe1ec8d7b0cab0c34480d77b75fc85e47",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/h3f7cuk64occhtdgpv1i.jpg"
+    },
+    "60763": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Fureraba ~Friend to Lover~",
+      "review_note": "Center keeps Friend to Lover/Japanese central logo and four faces. Upper hair crowns trim, but eyes/mouths are not cut.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        33.895384615384614,
+        547,
+        739.1046153846154
+      ],
+      "selected_preview_sha256": "5db171e479588d33843ccdb3c455e19a86cde43f3ccbc63fd8a51395a5214aac",
+      "source_dimensions": [
+        547,
+        773
+      ],
+      "source_sha256": "974ddc523752253f3a5723b72fa0ae6c8f0f6817967d5477d639b285e58f898c",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1rw3.jpg"
+    },
+    "60766": {
+      "anchor_y": null,
+      "layout": "designed_whole_poster",
+      "name": "Boss!",
+      "review_note": "Full-art designed poster required: upper knight and lower princess/monster extremities span both ends. Center/top/bottom each cut important subject content. Verified poster preserves the complete low-resolution source without inventing detail.",
+      "selected_preview_sha256": "28638043cc4bd6f7c0807344d2149e3da35c8ccde0e14f4d155533d5d30e5a72",
+      "source_dimensions": [
+        185,
+        331
+      ],
+      "source_sha256": "360aed63ff5e7e5450aec7476abb3f626771a2668479782267c6f43316476031",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/uawqwj4fklrrodzx8xnv.jpg"
+    },
+    "60959": {
+      "anchor_y": 1,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Kami-sama to Koigokoro",
+      "review_note": "Full-size bottom checked: complete lower Japanese title and all faces/eyes retained; top field is mostly stars and some upper hair. Center/top clip title.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        44.90153846153845,
+        353,
+        500.0
+      ],
+      "selected_preview_sha256": "9a8885ce3705f4766ed43ac6fa95b96504c0ae6325a15a6edb501908b640b9ec",
+      "source_dimensions": [
+        353,
+        500
+      ],
+      "source_sha256": "154ce943ac847b109daf2317b8dd1c9cc5647b57d881dd8b2a3f6cabf54cdf45",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co2eje.jpg"
+    },
+    "62078": {
+      "anchor_y": null,
+      "layout": "designed_whole_poster",
+      "name": "Seiken Densetsu: Rise of Mana",
+      "review_note": "Full-art designed poster required: middle Japanese/English title plus two heroes around 75–95% down must coexist with the tree crown. Verified poster retains all three areas; blind crop is rejected.",
+      "selected_preview_sha256": "e6fe1d71d540908136690442938209d515dfee57234bb71b7901c434562c38a4",
+      "source_dimensions": [
+        629,
+        1000
+      ],
+      "source_sha256": "221cd023162da09bf2ef29d686c922c8c0f7aee6dc28712567e6c067923ba80c",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/kesxvx3eiyekvndpbqzx.jpg"
+    },
+    "62919": {
+      "anchor_y": 1,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Bitter Smile.",
+      "review_note": "Full-size bottom checked: complete Bitter Smile and Japanese subtitle retained; upper girls' eyes and mouths are complete despite hair/forehead margin trim. Center/top clip subtitle/title baseline.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        141.15076923076913,
+        1054,
+        1500.0
+      ],
+      "selected_preview_sha256": "d2614507e31bb2e2ada7c4981ed100b10de367f4083562a783c03b7f4e77de32",
+      "source_dimensions": [
+        1054,
+        1500
+      ],
+      "source_sha256": "c6475fdc1fca3ede4492b87ddad761d2cc1936884988de05cb8a656e0a5d2201",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/tzrevjddkkor0fordivy.jpg"
+    },
+    "63302": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Hotch Kiss",
+      "review_note": "Top keeps complete upper Japanese Hotch Kiss logo and both girls' faces. Center/bottom cut logo.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        355,
+        457.67692307692306
+      ],
+      "selected_preview_sha256": "2642389393ca729ba6b517bfbddfa51b10586528ab2b0991169570762fd457e5",
+      "source_dimensions": [
+        355,
+        500
+      ],
+      "source_sha256": "c801689b7207e29ceda4aa0b84d83f95a0e7d6e502d0a9cb1aa6cfaa0003d500",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co30an.jpg"
+    },
+    "63347": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Princess Strike!",
+      "review_note": "Top retains full Princess Strike Japanese logo and all three faces; center/bottom truncate title.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        354,
+        456.3876923076923
+      ],
+      "selected_preview_sha256": "184a43a901a72f0b1b13734e868fb52bbe9f15044f1eb6846972f7d68dae6589",
+      "source_dimensions": [
+        354,
+        500
+      ],
+      "source_sha256": "f4cf8120ade713079651583a7416cd0544448ebb702843cc359dae33f20d1315",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co525d.jpg"
+    },
+    "64445": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Guardian Hearts Online",
+      "review_note": "Center is the safe balance: all upper faces/eyes and lower Guardian Hearts Online logo retained. Top threatens lower title; bottom cuts the upper central face. Source hair crowns are close to edge but no facial feature is removed by center.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        45.29846153846154,
+        724,
+        978.7015384615385
+      ],
+      "selected_preview_sha256": "008d25dcdc2b473cb3704f38b51520165cc41df481326de9656a550764fca98d",
+      "source_dimensions": [
+        724,
+        1024
+      ],
+      "source_sha256": "c255b10d399178891eb760cf444ae7b829ec406848328e3285bdffc555aa5f2d",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/poetqu0uw09w7zxibaax.jpg"
+    },
+    "69053": {
+      "anchor_y": 1,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Sakura Sakura",
+      "review_note": "Bottom retains full Sakura Sakura lower title and all four faces/eyes. Center/top clip title; only upper hair/background trims with bottom.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        110.69230769230762,
+        900,
+        1271.0
+      ],
+      "selected_preview_sha256": "e16057dd7c81936ebce49993f55c301c4d1011aa929d1b9ba484c8ade279bfd0",
+      "source_dimensions": [
+        900,
+        1271
+      ],
+      "source_sha256": "921221abe289095d1697f196c80e23f2092b927ed1b8208c84cde3222673cb90",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1k4s.jpg"
+    },
+    "76872": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Manufactured Beauty",
+      "review_note": "Top retains complete Manufactured Beauty logo and central character face. Center/bottom clip upper word strokes.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        724,
+        933.4030769230769
+      ],
+      "selected_preview_sha256": "a8649ca92bca37a1a2e6e5e5eb35189114cde15be4c30594d471697aedf35e6e",
+      "source_dimensions": [
+        724,
+        1024
+      ],
+      "source_sha256": "7a5b5fe7ed2d6ea50a40b5e684c80ddf733ad2a7ca62891cef1b7883ee28a99d",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/rhxa7zyyr0pmxpvvwn8b.jpg"
+    },
+    "76874": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Witch Trials",
+      "review_note": "Center retains the witch/plague-mask face, red-eye umbrella identity and main figure. No source title is present; removed margins are corridor/boot-background edge.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        45.29846153846154,
+        724,
+        978.7015384615385
+      ],
+      "selected_preview_sha256": "8d06cd883c80bf5cf0963692b9f402ab23efb72e103e2cd26f18f449603f27a0",
+      "source_dimensions": [
+        724,
+        1024
+      ],
+      "source_sha256": "36e1c420fd965d36090f0a902ab84bff03112a42a33dfbceab92ebc0da24c5de",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/yl7ariie2ka2g9qqbios.jpg"
+    },
+    "77869": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Azayaka na Irodori no Naka de, Kimi Rashiku",
+      "review_note": "Center retains the girl's full face and distinctive costume/head ornaments; a few outer flower tips and lower garment edges trim. No title exists in supplied source.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        44.2569230769231,
+        707,
+        955.7430769230768
+      ],
+      "selected_preview_sha256": "e17c3b54515ec682022768fd11ced096b85beca115b69528c414eceedb4dc1ef",
+      "source_dimensions": [
+        707,
+        1000
+      ],
+      "source_sha256": "40dc0aed4470154ca07d17d6b98b17b7e9738639c0cd80b62041e641caad9641",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/hp8oikckg9hbmsq2zymb.jpg"
+    },
+    "78582": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Jikkyou Pawafuru Puroyakyu 2016",
+      "review_note": "Center retains Japanese baseball title +2016 and the protagonist's full eye/face; crop removes sky/ground margins.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        20.07076923076923,
+        366,
+        491.9292307692308
+      ],
+      "selected_preview_sha256": "b98bc430214de4fe1501fafe08637d50940ec5d776e79da453c134caaea69179",
+      "source_dimensions": [
+        366,
+        512
+      ],
+      "source_sha256": "a2adace8daf42747375fb27de47177dcfd2af5151721c8f35a8301dea5adcc40",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co4kvr.jpg"
+    },
+    "80952": {
+      "anchor_y": null,
+      "layout": "designed_whole_poster",
+      "name": "Slayaway Camp: Butcher's Cut",
+      "review_note": "Full-art designed poster required after full-size inspection: center clips screaming foreground mouth; top removes still more lower face, bottom clips an upper skull eye. Verified poster preserves both skull eyes and lower mouth plus both title lines.",
+      "selected_preview_sha256": "039975da065ffa2bf3e5146480872c141f0babdd6de2c4898aed16aeeedaf3d3",
+      "source_dimensions": [
+        200,
+        300
+      ],
+      "source_sha256": "2271a2f4e9714b5bef33899399dd4eed99279ea690d46303732eb2bd854302bc",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/tdo5o7orqv8wn77rqmi5.jpg"
+    },
+    "8616": {
+      "anchor_y": 0.7,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "&: Sora no Mukou de Saki Masuyou ni",
+      "review_note": "Actual .70 PNG preserves the Japanese subtitle beneath the central mark and all five girls' eyes/mouths. Only upper hair tips and decorative lower edge trim; center clips subtitle and bottom approaches upper faces.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        19.56984615384616,
+        256,
+        349.6129230769231
+      ],
+      "selected_preview_sha256": "47eb101f3f1b52530b888e3b0eb0f088e9c3fb0d5559cdfa109dcd57c9cbe2d5",
+      "source_dimensions": [
+        256,
+        358
+      ],
+      "source_sha256": "46ccb3523e23f9e9b61c437a6436ae93e1f7ee92157caf5a525ba79a1150b0f5",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/edo27nwzw8wmx36vho8y.jpg"
+    },
+    "8660": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Backgammon Blitz",
+      "review_note": "Center preserves Backgammon Blitz lettering, dice and central board. Only peripheral board/chip background trims.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        18.4876923076923,
+        332,
+        446.5123076923077
+      ],
+      "selected_preview_sha256": "faffa571ea8fd00ad56229a66d50d4c0a334b34b8bb5538fcdfec92ee6f47a83",
+      "source_dimensions": [
+        332,
+        465
+      ],
+      "source_sha256": "c7b86e7a636fdf8791e763944d5c0ea7d071c20c6fe629029935394b9ac58383",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co2cfg.jpg"
+    },
+    "86681": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "God Wars: The Complete Legend",
+      "review_note": "Center retains complete God Wars/Japanese subtitle and all three faces. Some lower clothing/foot/background edge trims, not title/faces.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        66.70769230769235,
+        1060,
+        1433.2923076923075
+      ],
+      "selected_preview_sha256": "542bfdaa39b7d59696064e143cd93a70f7e39f19faf566479313a73739223d98",
+      "source_dimensions": [
+        1060,
+        1500
+      ],
+      "source_sha256": "c45a57c0eca9151c9e120a0dcaded261c935a01243d6650b6dfa7373f47d5cc9",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1huv.jpg"
+    },
+    "89495": {
+      "anchor_y": 0,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Midnight Deluxe",
+      "review_note": "Top preserves full Midnight Deluxe lettering and cube face. Center/bottom clip the tall Midnight strokes.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        0.0,
+        720,
+        928.2461538461539
+      ],
+      "selected_preview_sha256": "77d2b16a213ae3246e2fdf60e9f107fded04c4bf97ca10e1457cbbe58c9a7de6",
+      "source_dimensions": [
+        720,
+        1080
+      ],
+      "source_sha256": "7842e0e72d3184d26029989cc95c14b067854810923521de99a28c55791944a8",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co1h50.jpg"
+    },
+    "90630": {
+      "anchor_y": 0.25,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Defender's Quest: Valley of the Forgotten DX",
+      "review_note": "Actual .25 PNG and original pair checked: top ghost woman's eyes/face, central heroine and complete Defender's Quest / Valley of the Forgotten subtitle retain clearance. Center clips upper ghost face; only decorative ghost hair/top and lower illustration edges trim at .25.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        15.807692307692307,
+        300,
+        402.5769230769231
+      ],
+      "selected_preview_sha256": "2b788a142279b66fed12c3261ad4c2aa4ff70c23de86f3484c504b90b33474e7",
+      "source_dimensions": [
+        300,
+        450
+      ],
+      "source_sha256": "3adebe7a1f833b672b995012b64d05a46815a68027fee6395f5f34030fdc8d83",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co5xs5.jpg"
+    },
+    "93601": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "Luc Bernard's Reaper",
+      "review_note": "Center retains main reaper silhouettes and foreground composition; no title in source. Only peripheral upper/lower shadow shapes trim.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        40.0246153846154,
+        636,
+        859.9753846153847
+      ],
+      "selected_preview_sha256": "0df5bc85496b963cbd214d0c62daa1879f1f60f218e52992790257e42af7a97a",
+      "source_dimensions": [
+        636,
+        900
+      ],
+      "source_sha256": "f282de61794415fbf3fd06a14446300cb52094a4915228044315f06851991c66",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/vjaawhh4bzopezv3b6qt.jpg"
+    },
+    "95608": {
+      "anchor_y": 0.5,
+      "layout": "reviewed_portrait_crop_wrap",
+      "name": "InkSplosion",
+      "review_note": "Center retains complete InkSplosion text and all skull features; only paint-field margins trim.",
+      "reviewed_source_crop_box_at_650x838": [
+        0,
+        21.076923076923066,
+        200,
+        278.9230769230769
+      ],
+      "selected_preview_sha256": "f667f1aff5e6314f6b8799b34eabbdff2f18b2139ffc8e0678bca9926c4b00e9",
+      "source_dimensions": [
+        200,
+        300
+      ],
+      "source_sha256": "4fca6e0aa81ec185a2b717452bbbaccf2f1e71cbbd88efae8cc5b9eb4c80111a",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/ge4afjhq8sa7mjxldtt8.jpg"
+    },
+    "98664": {
+      "anchor_y": null,
+      "layout": "designed_whole_poster",
+      "name": "Vitamin X Destination",
+      "review_note": "Full-art designed poster required: center clips Destination, while .56/.58/.60 trade its baseline against the upper blond man's eye/forehead. Individual .60 rejected. Verified full-art poster retains complete face/head, cast, dog and Destination subtitle.",
+      "selected_preview_sha256": "9e86753a35a67d0ddff77106e7fc3525bbce3c2dd7bbb896b11c302a24a52fc1",
+      "source_dimensions": [
+        359,
+        512
+      ],
+      "source_sha256": "240441a778f58e03d661ebd4747240547310e936c7b8dcbef68cf8dc423a1773",
+      "source_url": "https://images.igdb.com/igdb/image/upload/t_original/co22rk.jpg"
+    }
+  },
+  "independent_review_sha256": "920d017bf3e867876a124e16037f5c04ac185bd8bf14db1223f3d1b13eecdfc8",
+  "review_date": "2026-11-13",
+  "reviewed_source_complete_claim": false,
+  "schema_version": 1,
+  "scope": "45 normal/tall portrait framing dispositions; independent visual review of original/center and alternate source crops plus actual full-art exceptions. Not game identity, entitlement or regional packaging evidence."
+}

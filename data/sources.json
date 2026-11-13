@@ -1,0 +1,7 @@
+{
+  "catalog": {"source": "EmuCoreV/app/src/main/assets/catalog/psvita_games.db", "snapshot": "data/catalog.json", "identity": "Bundled IGDB catalog records; database SHA-256 is in catalog.json"},
+  "vita3k": {"url": "https://api.vita3k.org/list/commercial", "snapshot": "data/vita3k-commercial.json", "identity": "Each report is linked from serial_metadata; upstream snapshot has UNIX date"},
+  "region_convention": {"url": "https://github.com/Vita3K/Vita3K.github.io/blob/master/src/routes/compatibility/+page.svelte", "method": "getRegion maps PCSA/PCSE USA; PCSB/PCSF EUR; PCSC/PCSG JPN; PCSD/PCSH ASIA. Region inferred from title ID convention; no artwork region is inferred."},
+  "sfo": {"snapshot": "data/title-assertions.json", "identity": "Supplemental public TITLE_ID/TITLE software identity assertions where the Vita3K corpus lacks a title ID. No archive paths or ownership list. Optional private ownership inventories are kept outside this repository."},
+  "font": {"url": "https://github.com/dejavu-fonts/dejavu-fonts/releases/download/version_2_37/dejavu-fonts-ttf-2.37.zip", "path": "scripts/assets/DejaVuSans.ttf"}
+}

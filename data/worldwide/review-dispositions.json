@@ -1,0 +1,996 @@
+{
+  "additional_conflict_resolutions": {
+    "PCSE00413": {
+      "action": "add_reviewed_conflict_resolution",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/archive/2013/12/18/playstation-store-update-minecraft-broken-sword-5-the-walking-dead-more/feed/",
+        "data/review-catalog-facts.json"
+      ],
+      "rationale": "NPS explicitly identifies Broken Sword5 Episode1, whereas VitaDB uses the shortened combined-game title. Same exact episode decision as European PCSB00483.",
+      "reason": "public_full_edition_platform_identity",
+      "selected_igdb_id": "94068",
+      "title_id": "PCSE00413"
+    },
+    "PCSG00375": {
+      "action": "add_reviewed_conflict_resolution",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2013/06/10/new-the-walking-dead-dlc-series-coming-to-ps-vita-with-bundle/",
+        "data/review-catalog-facts.json"
+      ],
+      "rationale": "NPS explicitly identifies Complete First Season in the Japanese release; generic VitaDB title is shortened. Same portable complete-season identity, with region sourced independently.",
+      "reason": "public_full_edition_platform_identity",
+      "selected_igdb_id": "41623",
+      "title_id": "PCSG00375"
+    }
+  },
+  "additional_reviews": {
+    "PCSA00035": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "88895",
+        "94130"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json",
+        "https://blog.playstation.com/2011/12/22/playstation-vita-launch-lineup-and-details/"
+      ],
+      "prior_igdb_id": "88895",
+      "rationale": "US NPS primary product is Table Soccer; current Vita-only IGDB primary94130 is Table Soccer. Shortened compatibility name Table Football is the regional game name. FIFA Soccer Other alias Table Football is expressly excluded as erroneous. No region-specific packaging assertion.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "94130",
+      "title_id": "PCSA00035"
+    },
+    "PCSB00317": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "10922",
+        "20016"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "20016",
+      "rationale": "Current IGDB explicitly types Stealth Inc as the PS3/Vita port (game_type11, parent10922). Stealth Bastard Deluxe is the parent game. Retain the platform-specific port identity, not its parent.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "20016",
+      "title_id": "PCSB00317"
+    },
+    "PCSB00418": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "329774",
+        "4845"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "4845",
+      "rationale": "Current IGDB explicitly identifies329774 as the Vita/3DS/mobile port, parent4845, and describes different levels/gameplay from the main console game. Use the verified Vita port rather than generic4845.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "329774",
+      "title_id": "PCSB00418"
+    },
+    "PCSB00467": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "15395",
+        "7596"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json",
+        "https://blog.playstation.com/archive/2013/12/18/playstation-store-update-minecraft-broken-sword-5-the-walking-dead-more/feed/"
+      ],
+      "prior_igdb_id": "15395",
+      "rationale": "Exact application identity is Eufloria HD. Current IGDB identifies HD as a remaster of7596; generic Eufloria alias does not replace the HD edition on Vita.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "15395",
+      "title_id": "PCSB00467"
+    },
+    "PCSB00553": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "329774",
+        "4845"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "4845",
+      "rationale": "Current IGDB explicitly identifies329774 as the Vita/3DS/mobile port, parent4845, and describes different levels/gameplay from the main console game. Use the verified Vita port rather than generic4845.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "329774",
+      "title_id": "PCSB00553"
+    },
+    "PCSB00702": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "6066",
+        "99542"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "6066",
+      "rationale": "NPS and VitaDB base content ID ends SEVERED000000000 and is Severed. Drinkbox Vita Collection uses a different DBOXBUNDLE000000 content ID sharing the title ID. Runtime selects the base application, not the separately identified store bundle; all product variants remain in source_records.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "6066",
+      "title_id": "PCSB00702"
+    },
+    "PCSB00764": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "11069",
+        "423220"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "11069",
+      "rationale": "Current IGDB explicitly identifies423220 as a Vita/3DS port (game_type11), parent11069. Both share the full title; platform/port relation selects the native handheld game rather than the generic parent.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "423220",
+      "title_id": "PCSB00764"
+    },
+    "PCSB01017": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "25651",
+        "8965"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "8965",
+      "rationale": "NPS and VitaDB base content ID ends RHSDDPSV00000001 and is Darkest Dungeon. Crimson Court/Crimson Edition use different00000002/00000003 product content IDs. Base application identity is8965; add-on/bundle variants are preserved separately.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "8965",
+      "title_id": "PCSB01017"
+    },
+    "PCSB01135": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "6147",
+        "84923"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json",
+        "https://blog.playstation.com/2018/02/02/the-drop-new-playstation-games-for-2-6-2018/"
+      ],
+      "prior_igdb_id": "6147",
+      "rationale": "Same Vita Reloaded Edition platform decision as US PCSE00956: official Sony release announcement explicitly names Mercenary Kings Reloaded Edition. Shortened compatibility title does not select the earlier generic game.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "84923",
+      "title_id": "PCSB01135"
+    },
+    "PCSC00020": {
+      "action": "unresolved",
+      "candidate_igdb_ids": [
+        "88895",
+        "94130"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "88895",
+      "rationale": "Japanese Table Play Soccer has two same-game AR-football IGDB candidates88895/94130, with no verified provider region association or merge. Do not guess the canonical duplicate ID. No FIFA association is accepted.",
+      "reason": "duplicate_igdb_ar_football_identity_unresolved",
+      "selected_igdb_id": null,
+      "title_id": "PCSC00020"
+    },
+    "PCSE00084": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "243259",
+        "4988"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json",
+        "https://www.esrb.org/ratings/32326/madden-nfl-13/",
+        "data/worldwide/platform-disambiguation.json"
+      ],
+      "prior_igdb_id": "243259",
+      "rationale": "Immutable IGDB catalog summary explicitly identifies243259 as the PlayStation Vita port of Madden NFL13. Generic4988 is rejected; platform fact is preserved in platform-disambiguation.json.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "243259",
+      "title_id": "PCSE00084"
+    },
+    "PCSE00280": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "10922",
+        "20016"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "20016",
+      "rationale": "Current IGDB explicitly types Stealth Inc as the PS3/Vita port (game_type11, parent10922). Stealth Bastard Deluxe is the parent game. Retain the platform-specific port identity, not its parent.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "20016",
+      "title_id": "PCSE00280"
+    },
+    "PCSE00353": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "329774",
+        "4845"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "4845",
+      "rationale": "Current IGDB explicitly identifies329774 as the Vita/3DS/mobile port, parent4845, and describes different levels/gameplay from the main console game. Use the verified Vita port rather than generic4845.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "329774",
+      "title_id": "PCSE00353"
+    },
+    "PCSE00366": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "15395",
+        "7596"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json",
+        "https://blog.playstation.com/archive/2013/12/18/playstation-store-update-minecraft-broken-sword-5-the-walking-dead-more/feed/"
+      ],
+      "prior_igdb_id": "15395",
+      "rationale": "Exact application identity is Eufloria HD. Current IGDB identifies HD as a remaster of7596; generic Eufloria alias does not replace the HD edition on Vita.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "15395",
+      "title_id": "PCSE00366"
+    },
+    "PCSE00480": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "4756",
+        "99781"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "4756",
+      "rationale": "NPS primary base application content ID ends CHILDOFLIGHT0000. Ultimate/Deluxe/Special bundles have different content IDs, including B000000000001641 and CHILDOFLIGHTSPED. Runtime chooses the base application4756 without asserting bundle entitlement; full store-package variants remain recorded.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "4756",
+      "title_id": "PCSE00480"
+    },
+    "PCSE00589": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "6066",
+        "99542"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "6066",
+      "rationale": "NPS and VitaDB base content ID ends SEVERED000000000 and is Severed. Drinkbox Vita Collection uses a different DBOXBUNDLE000000 content ID sharing the title ID. Runtime selects the base application, not the separately identified store bundle; all product variants remain in source_records.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "6066",
+      "title_id": "PCSE00589"
+    },
+    "PCSE00670": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "11069",
+        "423220"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "11069",
+      "rationale": "Current IGDB explicitly identifies423220 as a Vita/3DS port (game_type11), parent11069. Both share the full title; platform/port relation selects the native handheld game rather than the generic parent.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "423220",
+      "title_id": "PCSE00670"
+    },
+    "PCSE00919": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "8965",
+        "91323"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "8965",
+      "rationale": "NPS and VitaDB base content ID ends RHSDDPSV00000001 and is Darkest Dungeon. Crimson Court/Crimson Edition use different00000002/00000003 product content IDs. Base application identity is8965; add-on/bundle variants are preserved separately.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "8965",
+      "title_id": "PCSE00919"
+    },
+    "PCSE00928": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "13111",
+        "19799"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json",
+        "https://github.com/Electry/VitaGrafixPatchlist/issues/28"
+      ],
+      "prior_igdb_id": "19799",
+      "rationale": "NPS base product and VitaDB/Vita3K all identify Fate/Extella; native VitaGrafix patch evidence independently names PCSE00928 as Fate/EXTELLA. Conflicting libretro Summon Night6 row is retained but rejected as serial-title contradiction.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "19799",
+      "title_id": "PCSE00928"
+    },
+    "PCSE00977": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "10922",
+        "20016"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "20016",
+      "rationale": "Current IGDB explicitly types Stealth Inc as the PS3/Vita port (game_type11, parent10922). Stealth Bastard Deluxe is the parent game. Retain the platform-specific port identity, not its parent.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "20016",
+      "title_id": "PCSE00977"
+    },
+    "PCSF00062": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "88895",
+        "94130"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "88895",
+      "rationale": "EU NPS primary title and exact base content ID TABLEFOOTBALLEU0 identify Table Football; retain the exact primary IGDB Table Football identity. Table Soccer duplicate/alias is retained as evidence, not used to overwrite the EU primary product identity.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "88895",
+      "title_id": "PCSF00062"
+    },
+    "PCSG00148": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "145407",
+        "20094"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "20094",
+      "rationale": "Japanese NPS content ID JP0031-PCSG00148_00-MONSTERMONPIECE1 and VitaDB original Japanese title identify Genkai Totsuki Monster Monpiece. IGDB145407 is the Vita-only Japanese full-name record; Western Monster Monpiece20094 is not substituted for the Japanese regional identity.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "145407",
+      "title_id": "PCSG00148"
+    },
+    "PCSG00220": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "147011",
+        "21880"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "21880",
+      "rationale": "NPS and VitaDB individual application content ID ends FFX2PKG0PSV0SCEJ and names Final Fantasy X-2 HD Remaster. Twin Pack has a different FFXX2PKGPSV0SCEJ product content ID; compilation packaging must not replace individual application identity.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "21880",
+      "title_id": "PCSG00220"
+    },
+    "PCSG00338": {
+      "action": "unresolved",
+      "candidate_igdb_ids": [
+        "62075",
+        "8631"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "8631",
+      "rationale": "Authoritative IGDB snapshot contains multiple same-named/same-platform identity candidates or localized duplicates without a verified merge or distinct edition association. Exact title ID alone cannot safely choose one canonical record; preserve all candidates and fail closed.",
+      "reason": "duplicate_or_localized_igdb_identity_unresolved",
+      "selected_igdb_id": null,
+      "title_id": "PCSG00338"
+    },
+    "PCSG00357": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "148653",
+        "17906"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "17906",
+      "rationale": "NPS and VitaDB explicitly include CRUISE SIGN in Japanese product name. IGDB148653 matches that named PS3/Vita release; generic If My Heart Had Wings17906 is rejected as insufficiently specific.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "148653",
+      "title_id": "PCSG00357"
+    },
+    "PCSG00408": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "4756",
+        "99781"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "4756",
+      "rationale": "NPS primary base application content ID ends CHILDOFLIGHT0000. Ultimate/Deluxe/Special bundles have different content IDs, including B000000000001641 and CHILDOFLIGHTSPED. Runtime chooses the base application4756 without asserting bundle entitlement; full store-package variants remain recorded.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "4756",
+      "title_id": "PCSG00408"
+    },
+    "PCSG00616": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "16823",
+        "44650"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "16823",
+      "rationale": "NPS primary title and Vita3K identify Rollers of the Realm; actual public content ID ends ROTR20150528VITA. NPS alternate Japanese title instead names Deception IV and is contradictory. Retain the primary title/content-ID identity and expose the alternate-title conflict, never map it to Deception IV.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "16823",
+      "title_id": "PCSG00616"
+    },
+    "PCSG00632": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "11527",
+        "379957"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "11527",
+      "rationale": "NPS and VitaDB base application content ID ends APP0000000000000; Bikini Party Edition has a different VDBBPEDITION0000 product content ID. Base application11527 is retained and cosmetic-DLC bundle379957 remains a separate product variant without entitlement claims.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "11527",
+      "title_id": "PCSG00632"
+    },
+    "PCSG00695": {
+      "action": "unresolved",
+      "candidate_igdb_ids": [
+        "11494",
+        "60222"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "60222",
+      "rationale": "Authoritative IGDB snapshot contains multiple same-named/same-platform identity candidates or localized duplicates without a verified merge or distinct edition association. Exact title ID alone cannot safely choose one canonical record; preserve all candidates and fail closed.",
+      "reason": "duplicate_or_localized_igdb_identity_unresolved",
+      "selected_igdb_id": null,
+      "title_id": "PCSG00695"
+    },
+    "PCSG00836": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "11069",
+        "423220"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "11069",
+      "rationale": "Current IGDB explicitly identifies423220 as a Vita/3DS port (game_type11), parent11069. Both share the full title; platform/port relation selects the native handheld game rather than the generic parent.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "423220",
+      "title_id": "PCSG00836"
+    },
+    "PCSG01015": {
+      "action": "unresolved",
+      "candidate_igdb_ids": [
+        "148655",
+        "54773"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "54773",
+      "rationale": "Authoritative IGDB snapshot contains multiple same-named/same-platform identity candidates or localized duplicates without a verified merge or distinct edition association. Exact title ID alone cannot safely choose one canonical record; preserve all candidates and fail closed.",
+      "reason": "duplicate_or_localized_igdb_identity_unresolved",
+      "selected_igdb_id": null,
+      "title_id": "PCSG01015"
+    },
+    "PCSG01171": {
+      "action": "unresolved",
+      "candidate_igdb_ids": [
+        "142563",
+        "221599"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "221599",
+      "rationale": "Authoritative IGDB snapshot contains multiple same-named/same-platform identity candidates or localized duplicates without a verified merge or distinct edition association. Exact title ID alone cannot safely choose one canonical record; preserve all candidates and fail closed.",
+      "reason": "duplicate_or_localized_igdb_identity_unresolved",
+      "selected_igdb_id": null,
+      "title_id": "PCSG01171"
+    },
+    "PCSG01189": {
+      "action": "correct",
+      "candidate_igdb_ids": [
+        "395246",
+        "61682"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "61682",
+      "rationale": "NPS Japanese title explicitly ends 華 and VitaDB alternate name is Infinita Strada Hana. IGDB395246 is explicitly an enhanced version of parent61682. Shortened compatibility name must not select the earlier original game.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "395246",
+      "title_id": "PCSG01189"
+    },
+    "PCSG01210": {
+      "action": "unresolved",
+      "candidate_igdb_ids": [
+        "240072",
+        "25709"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "240072",
+      "rationale": "Authoritative IGDB snapshot contains multiple same-named/same-platform identity candidates or localized duplicates without a verified merge or distinct edition association. Exact title ID alone cannot safely choose one canonical record; preserve all candidates and fail closed.",
+      "reason": "duplicate_or_localized_igdb_identity_unresolved",
+      "selected_igdb_id": null,
+      "title_id": "PCSG01210"
+    },
+    "PCSH10010": {
+      "action": "retain",
+      "candidate_igdb_ids": [
+        "11455",
+        "6363"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "data/igdb-metadata.json"
+      ],
+      "prior_igdb_id": "11455",
+      "rationale": "NPS Korean product name, Korean alternate name and VitaDB/Vita3K all identify Tokyo Xanadu. The documentary No-Intro missing list also assigns Tearaway to this same ID; that conflicting documentary assertion is retained but cannot override the concordant digital product identity.",
+      "reason": "explicit_application_content_id_platform_or_edition_evidence",
+      "selected_igdb_id": "11455",
+      "title_id": "PCSH10010"
+    }
+  },
+  "excluded_new": [
+    "PCSB00602",
+    "PCSC00038",
+    "PCSF00088"
+  ],
+  "existing": {
+    "PCSB00031": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/archive/2012/02/21/virtua-tennis-4-world-tour-edition-serving-up-tomorrow/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "5258",
+      "rationale": "Exact NPS/VitaDB/retail name is World Tour Edition. SEGA executive producer confirms this is the Vita edition; generic Virtua Tennis 4 artwork identity 5258 is superseded.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "42707",
+      "title_id": "PCSB00031"
+    },
+    "PCSB00038": {
+      "action": "retain",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://github.com/Vita3K/compatibility/issues/63",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "9435",
+      "rationale": "Urban Trial is the actual game title, not a demo marker. Publisher source base/game assertions and Vita3K exact title identify Urban Trial Freestyle. Unlock/demo/promotional source rows remain independently typed and do not establish entitlement.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "9435",
+      "title_id": "PCSB00038"
+    },
+    "PCSB00116": {
+      "action": "retain",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://github.com/Vita3K/compatibility/issues/3621",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "196847",
+      "rationale": "NPS base application and Vita3K identify Pinball Arcade. WHO dunnit is a specific table/add-on, not a replacement identity for the base app. Individual content IDs and table claims are retained separately.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "196847",
+      "title_id": "PCSB00116"
+    },
+    "PCSB00160": {
+      "action": "retain",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2012/03/22/foosball-2012-coming-to-ps3-and-ps-vita-with-ps-move-support-and-cross-play/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "52219",
+      "rationale": "NPS base application is Foosball 2012. Publisher confirms this standalone Vita game; later Grip Games collection merchandising sharing the serial does not replace its application identity.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "52219",
+      "title_id": "PCSB00160"
+    },
+    "PCSB00411": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2013/06/10/new-the-walking-dead-dlc-series-coming-to-ps-vita-with-bundle/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "1871",
+      "rationale": "Exact NPS/VitaDB name is The Complete First Season. Telltale confirms Vita release contains the full season including 400 Days; generic Season One ID1871 is not used as the package identity.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "41623",
+      "title_id": "PCSB00411"
+    },
+    "PCSB00483": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/archive/2013/12/18/playstation-store-update-minecraft-broken-sword-5-the-walking-dead-more/feed/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "2924",
+      "rationale": "NPS explicitly identifies Episode 1, and PlayStation launch record confirms Vita Episode 1. Full combined-game ID2924 is rejected for this episode application.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "94068",
+      "title_id": "PCSB00483"
+    },
+    "PCSB00726": {
+      "action": "retain",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://github.com/Vita3K/compatibility/issues/3716",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "138688",
+      "rationale": "NPS Origins + Legends and Vita3K Legends + Origins are the same explicitly named two-game double pack. Catalog summary explicitly identifies this collection and Vita distribution; individual Rayman game IDs are not substituted.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "138688",
+      "title_id": "PCSB00726"
+    },
+    "PCSB00769": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/archive/2015/07/01/geometry-wars-3-dimensions-evolved-hits-ps-vita-next-week/feed/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "7705",
+      "rationale": "NPS/VitaDB explicitly name Dimensions Evolved. The developer confirms the Vita launch was Evolved, with expanded content; original Dimensions ID7705 is rejected.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "17573",
+      "title_id": "PCSB00769"
+    },
+    "PCSB00782": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2015/04/21/playstation-store-update-389/",
+        "https://www.strictlylimitedgames.com/blogs/strictly-limited-games-releases/sayonara-umiharakawase",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "110017",
+      "rationale": "Digital 2015 releases are Sayonara UmiharaKawase + / Japanese Chirari. The original PlayStation release announcement uses one plus. 2018 Strictly Limited ++ package is a distinct later edition and is rejected for these serials.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "27109",
+      "title_id": "PCSB00782"
+    },
+    "PCSB00901": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2015/10/13/playstation-store-update-413/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "10989",
+      "rationale": "VitaDB names Extended Edition and PlayStation explicitly lists the Vita release as Extended Edition. Generic original game ID10989 is not used for this platform edition.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "20957",
+      "title_id": "PCSB00901"
+    },
+    "PCSB01199": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://github.com/Vita3K/compatibility/issues/4304",
+        "https://www.strictlylimitedgames.com/blogs/strictly-limited-games-releases/sayonara-umiharakawase",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "27109",
+      "rationale": "NPS and Vita3K both explicitly name ++. Strictly Limited publisher confirms the 2018 Vita ++ edition; 2015 digital + ID27109 is rejected.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "110017",
+      "title_id": "PCSB01199"
+    },
+    "PCSE00003": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/archive/2012/02/21/virtua-tennis-4-world-tour-edition-serving-up-tomorrow/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "5258",
+      "rationale": "Exact NPS/VitaDB/retail name is World Tour Edition. SEGA executive producer confirms this is the Vita edition; generic Virtua Tennis 4 artwork identity 5258 is superseded.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "42707",
+      "title_id": "PCSE00003"
+    },
+    "PCSE00012": {
+      "action": "retain",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2011/12/22/playstation-vita-launch-lineup-and-details/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "42708",
+      "rationale": "NPS/VitaDB/Vita3K explicitly identify Unrestricted; Sony launch-window list names the Vita Unrestricted edition. Generic console Supremacy MMA ID7200 is rejected.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "42708",
+      "title_id": "PCSE00012"
+    },
+    "PCSE00021": {
+      "action": "retain",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/archive/2012/02/21/playstation-store-update-ps-vita-launch-edition",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "21569",
+      "rationale": "NPS/Vita3K explicitly identify Sigma Plus. Immutable IGDB summary confirms Vita features; base Sigma is explicitly a PS3 title. Shortened retail name does not replace the Vita Plus edition.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "21569",
+      "title_id": "PCSE00021"
+    },
+    "PCSE00051": {
+      "action": "retain",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://github.com/Vita3K/compatibility/issues/63",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "9435",
+      "rationale": "Urban Trial is the actual game title, not a demo marker. Publisher source base/game assertions and Vita3K exact title identify Urban Trial Freestyle. Unlock/demo/promotional source rows remain independently typed and do not establish entitlement.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "9435",
+      "title_id": "PCSE00051"
+    },
+    "PCSE00316": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2013/06/10/new-the-walking-dead-dlc-series-coming-to-ps-vita-with-bundle/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "1871",
+      "rationale": "Exact NPS/VitaDB name is The Complete First Season. Telltale confirms Vita release contains the full season including 400 Days; generic Season One ID1871 is not used as the package identity.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "41623",
+      "title_id": "PCSE00316"
+    },
+    "PCSE00640": {
+      "action": "unresolved",
+      "artwork_scope": "game",
+      "candidate_igdb_ids": [
+        "7444",
+        "26848"
+      ],
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://www.yachtclubgames.com/blog/shovel-knight-update-notes/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "7444",
+      "published_version_transition": {
+        "publisher_version": "3.0",
+        "sony_app_ver_threshold": null,
+        "source": "https://www.yachtclubgames.com/blog/shovel-knight-update-notes/",
+        "status": "Vita included in publisher notes; Sony APP_VER equivalence not publicly verified"
+      },
+      "rationale": "Original Shovel Knight and later Treasure Trove share this title ID. Official publisher version3.0 notes document the rename, but no authoritative equivalence to Sony PARAM.SFO APP_VER threshold was established. Title ID alone cannot safely choose exact edition; both available asset identities remain explicit.",
+      "reason": "version_required_to_distinguish_original_and_treasure_trove",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": null,
+      "title_id": "PCSE00640"
+    },
+    "PCSE00655": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/archive/2015/07/01/geometry-wars-3-dimensions-evolved-hits-ps-vita-next-week/feed/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "7705",
+      "rationale": "NPS/VitaDB explicitly name Dimensions Evolved. The developer confirms the Vita launch was Evolved, with expanded content; original Dimensions ID7705 is rejected.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "17573",
+      "title_id": "PCSE00655"
+    },
+    "PCSE00683": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2015/04/21/playstation-store-update-389/",
+        "https://www.strictlylimitedgames.com/blogs/strictly-limited-games-releases/sayonara-umiharakawase",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "110017",
+      "rationale": "Digital 2015 releases are Sayonara UmiharaKawase + / Japanese Chirari. The original PlayStation release announcement uses one plus. 2018 Strictly Limited ++ package is a distinct later edition and is rejected for these serials.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "27109",
+      "title_id": "PCSE00683"
+    },
+    "PCSE00956": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2018/02/02/the-drop-new-playstation-games-for-2-6-2018/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "6147",
+      "rationale": "VitaDB explicitly names Reloaded Edition, and Sony Vita release announcement confirms Mercenary Kings Reloaded Edition. Generic earlier Mercenary Kings ID6147 is rejected.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "84923",
+      "title_id": "PCSE00956"
+    },
+    "PCSG00231": {
+      "action": "retain",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://github.com/Vita3K/compatibility/issues/63",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "9435",
+      "rationale": "Urban Trial is the actual game title, not a demo marker. Publisher source base/game assertions and Vita3K exact title identify Urban Trial Freestyle. Unlock/demo/promotional source rows remain independently typed and do not establish entitlement.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "9435",
+      "title_id": "PCSG00231"
+    },
+    "PCSG00554": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2015/04/21/playstation-store-update-389/",
+        "https://www.strictlylimitedgames.com/blogs/strictly-limited-games-releases/sayonara-umiharakawase",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "110017",
+      "rationale": "Digital 2015 releases are Sayonara UmiharaKawase + / Japanese Chirari. The original PlayStation release announcement uses one plus. 2018 Strictly Limited ++ package is a distinct later edition and is rejected for these serials.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "27109",
+      "title_id": "PCSG00554"
+    },
+    "PCSG00681": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://nippon1.jp/consumer/criminalgirls2/",
+        "https://blog.playstation.com/2016/10/11/criminal-girls-2-party-favors-out-today-on-ps-vita/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "24195",
+      "rationale": "Japanese NPS/VitaDB product is Criminal Girls 2. Western Vita3K subtitle Party Favors cannot override the Japanese regional product name; official IGDB Japanese identity11751 is used instead of Western24195.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "11751",
+      "title_id": "PCSG00681"
+    },
+    "PCSG00878": {
+      "action": "correct",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://blog.playstation.com/2017/02/24/the-drop-new-playstation-games-for-2282017/",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "18905",
+      "rationale": "NPS exact Japanese release name is Shinshaku Tsurugi no Machi no Ihoujin: Kuro no Kyuuden, matching IGDB141989. Generic Stranger of Sword City ID18905 does not identify this revised release.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "141989",
+      "title_id": "PCSG00878"
+    },
+    "PCSH00159": {
+      "action": "retain",
+      "artwork_scope": "game",
+      "evidence": [
+        "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+        "https://github.com/Vita3K/compatibility/issues/63",
+        "data/review-catalog-facts.json"
+      ],
+      "prior_igdb_id": "9435",
+      "rationale": "Urban Trial is the actual game title, not a demo marker. Publisher source base/game assertions and Vita3K exact title identify Urban Trial Freestyle. Unlock/demo/promotional source rows remain independently typed and do not establish entitlement.",
+      "reason": "public_full_edition_platform_identity",
+      "regional_artwork_verified": false,
+      "selected_igdb_id": "9435",
+      "title_id": "PCSH00159"
+    }
+  },
+  "policy": "Every existing review case disposed individually. No count-based retention; unsafe title-ID-only edition mapping fails closed.",
+  "schema_version": 1
+}

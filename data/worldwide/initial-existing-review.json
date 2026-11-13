@@ -1,0 +1,1876 @@
+[
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42707",
+              "5258"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "42707"
+            ],
+            "source": "nps_games",
+            "title": "Virtua Tennis 4: World Tour Edition"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Virtua Tennis 4: World Tour Edition"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42707",
+              "5258"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "42707"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Virtua Tennis™ 4: World Tour Edition"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Virtua Tennis™ 4: World Tour Edition"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42707",
+              "5258"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/431"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "5258"
+            ],
+            "source": "vita3k",
+            "title": "Virtua Tennis 4"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Virtua Tennis 4"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42707",
+              "5258"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "retail_game",
+        "evidence": [
+          "https://raw.githubusercontent.com/libretro/libretro-database/master/metadat/no-intro/Sony%20-%20PlayStation%20Vita.dat"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "42707"
+            ],
+            "source": "libretro_nointro_retail",
+            "title": "Virtua Tennis 4 - World Tour Edition"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Virtua Tennis 4 - World Tour Edition"
+        ]
+      }
+    ],
+    "existing_igdb_id": "5258",
+    "title_id": "PCSB00031",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [],
+    "existing_igdb_id": "9435",
+    "title_id": "PCSB00038",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "196847",
+              "349355"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "196847"
+            ],
+            "source": "nps_games",
+            "title": "Pinball Arcade"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Pinball Arcade"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "196847",
+              "349355"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "349355"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Pinball Arcade WHO dunnit™"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Pinball Arcade WHO dunnit™",
+          "Pinball Arcade WHO dunnit™ Pro Pack",
+          "Pinball Arcade WHO dunnit™ Pro Upgrade",
+          "Pinball Arcade: Season Five Pro Upgrade",
+          "Pinball Arcade: Season Three Pro Upgrade"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "196847",
+              "349355"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/3621"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "196847"
+            ],
+            "source": "vita3k",
+            "title": "Pinball Arcade"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Pinball Arcade"
+        ]
+      }
+    ],
+    "existing_igdb_id": "196847",
+    "title_id": "PCSB00116",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "52219",
+              "99795"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "52219"
+            ],
+            "source": "nps_games",
+            "title": "Foosball 2012"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Foosball 2012"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "52219",
+              "99795"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "99795"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "The Grip Games PS Vita Collection"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Foosball 2012 (PS Vita)",
+          "Grip Games Anthology",
+          "The Grip Games PS Vita Collection"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "52219",
+              "99795"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/1240"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "52219"
+            ],
+            "source": "vita3k",
+            "title": "Foosball 2012"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Foosball 2012"
+        ]
+      }
+    ],
+    "existing_igdb_id": "52219",
+    "title_id": "PCSB00160",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "1871",
+              "41623"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "41623"
+            ],
+            "source": "nps_games",
+            "title": "The Walking Dead: The Complete First Season"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "The Walking Dead: The Complete First Season"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "1871",
+              "41623"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "41623"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "The Walking Dead: The Complete First Season"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "The Walking Dead: The Complete First Season"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "1871",
+              "41623"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/1595"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "1871"
+            ],
+            "source": "vita3k",
+            "title": "The Walking Dead"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "The Walking Dead"
+        ]
+      }
+    ],
+    "existing_igdb_id": "1871",
+    "title_id": "PCSB00411",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "2924",
+              "94068"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "94068"
+            ],
+            "source": "nps_games",
+            "title": "Broken Sword 5 - the Serpent's Curse: Episode 1"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Broken Sword 5 - the Serpent's Curse: Episode 1"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "2924",
+              "94068"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "94068"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Broken Sword 5 - the Serpent's Curse: Episode 1"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Broken Sword 5 - the Serpent's Curse: Episode 1"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "2924",
+              "94068"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/2774"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "2924"
+            ],
+            "source": "vita3k",
+            "title": "Broken Sword 5 - the Serpent's Curse"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Broken Sword 5 - the Serpent's Curse"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "retail_game",
+        "evidence": [
+          "https://raw.githubusercontent.com/libretro/libretro-database/master/metadat/no-intro/Sony%20-%20PlayStation%20Vita%20%28PSN%29.dat"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Broken Sword 5 - The Serpent's Curse (PSN)"
+        ]
+      }
+    ],
+    "existing_igdb_id": "2924",
+    "title_id": "PCSB00483",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Rayman Origins + Legends"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Rayman Origins + Legends"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/3716"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Rayman Legends + Rayman Origins"
+        ]
+      }
+    ],
+    "existing_igdb_id": "138688",
+    "title_id": "PCSB00726",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "17573",
+              "7705"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "17573"
+            ],
+            "source": "nps_games",
+            "title": "Geometry Wars 3: Dimensions Evolved"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Geometry Wars 3: Dimensions Evolved"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "17573",
+              "7705"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "17573"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Geometry Wars 3™: Dimensions Evolved"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Geometry Wars 3™: Dimensions Evolved"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "17573",
+              "7705"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/35"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "7705"
+            ],
+            "source": "vita3k",
+            "title": "Geometry Wars 3: Dimensions"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Geometry Wars 3: Dimensions"
+        ]
+      }
+    ],
+    "existing_igdb_id": "7705",
+    "title_id": "PCSB00769",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Sayonara UmiharaKawase +"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Sayonara UmiharaKawase +"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/240"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Sayonara UmiharaKawase +"
+        ]
+      }
+    ],
+    "existing_igdb_id": "110017",
+    "title_id": "PCSB00782",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "10989",
+              "20957"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "10989"
+            ],
+            "source": "nps_games",
+            "title": "Three Fourths Home"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Three Fourths Home"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "10989",
+              "20957"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "20957"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Three Fourths Home: Extended Edition"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Three Fourths Home: Extended Edition"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "10989",
+              "20957"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/2864"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "10989"
+            ],
+            "source": "vita3k",
+            "title": "Three Fourths Home"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Three Fourths Home"
+        ]
+      }
+    ],
+    "existing_igdb_id": "10989",
+    "title_id": "PCSB00901",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/pending/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": "110017",
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "110017"
+            ],
+            "source": "nps_pending_games",
+            "title": "Sayonara UmiharaKawase ++"
+          },
+          {
+            "igdb_ids": [
+              "110017"
+            ],
+            "source": "nps_pending_games",
+            "title": "Sayonara UmiharaKawase ++"
+          }
+        ],
+        "missing_reason": null,
+        "titles": [
+          "Sayonara UmiharaKawase ++"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/4304"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Sayonara Umihara Kawase ++"
+        ]
+      }
+    ],
+    "existing_igdb_id": "27109",
+    "title_id": "PCSB01199",
+    "worldwide_igdb_id": "110017"
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42707",
+              "5258"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "42707"
+            ],
+            "source": "nps_games",
+            "title": "Virtua Tennis 4: World Tour Edition"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Virtua Tennis 4: World Tour Edition"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42707",
+              "5258"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "42707"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Virtua Tennis™ 4: World Tour Edition"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Virtua Tennis™ 4: World Tour Edition"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42707",
+              "5258"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/1517"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "5258"
+            ],
+            "source": "vita3k",
+            "title": "Virtua Tennis 4"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Virtua Tennis 4"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42707",
+              "5258"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "retail_game",
+        "evidence": [
+          "https://raw.githubusercontent.com/libretro/libretro-database/master/metadat/no-intro/Sony%20-%20PlayStation%20Vita.dat"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "42707"
+            ],
+            "source": "libretro_nointro_retail",
+            "title": "Virtua Tennis 4 - World Tour Edition"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Virtua Tennis 4 - World Tour Edition"
+        ]
+      }
+    ],
+    "existing_igdb_id": "5258",
+    "title_id": "PCSE00003",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42708",
+              "7200"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "42708"
+            ],
+            "source": "nps_games",
+            "title": "Supremacy MMA Unrestricted"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Supremacy MMA Unrestricted"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42708",
+              "7200"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "42708"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Supremacy MMA Unrestricted"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Supremacy MMA Unrestricted"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42708",
+              "7200"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/1610"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "42708"
+            ],
+            "source": "vita3k",
+            "title": "Supremacy MMA: Unrestricted"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Supremacy MMA: Unrestricted"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "42708",
+              "7200"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "retail_game",
+        "evidence": [
+          "https://raw.githubusercontent.com/libretro/libretro-database/master/metadat/no-intro/Sony%20-%20PlayStation%20Vita.dat"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "7200"
+            ],
+            "source": "libretro_nointro_retail",
+            "title": "Supremacy MMA"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Supremacy MMA"
+        ]
+      }
+    ],
+    "existing_igdb_id": "42708",
+    "title_id": "PCSE00012",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "21569",
+              "5974"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "21569"
+            ],
+            "source": "nps_games",
+            "title": "Ninja Gaiden Sigma Plus"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Ninja Gaiden Sigma Plus"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "21569",
+              "5974"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "21569"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "NINJA GAIDEN® SIGMA PLUS"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "NINJA GAIDEN Σ PLUS full game",
+          "NINJA GAIDEN® SIGMA PLUS"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "21569",
+              "5974"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/450"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "21569"
+            ],
+            "source": "vita3k",
+            "title": "Ninja Gaiden Sigma Plus"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Ninja Gaiden Sigma Plus"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "21569",
+              "5974"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "retail_game",
+        "evidence": [
+          "https://raw.githubusercontent.com/libretro/libretro-database/master/metadat/no-intro/Sony%20-%20PlayStation%20Vita.dat"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "5974"
+            ],
+            "source": "libretro_nointro_retail",
+            "title": "Ninja Gaiden Sigma"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Ninja Gaiden Sigma"
+        ]
+      }
+    ],
+    "existing_igdb_id": "21569",
+    "title_id": "PCSE00021",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [],
+    "existing_igdb_id": "9435",
+    "title_id": "PCSE00051",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "1871",
+              "41623"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "41623"
+            ],
+            "source": "nps_games",
+            "title": "The Walking Dead: The Complete First Season"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "The Walking Dead: The Complete First Season"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "1871",
+              "41623"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "41623"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "The Walking Dead: The Complete First Season"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "The Walking Dead: The Complete First Season"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "1871",
+              "41623"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/1099"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "1871"
+            ],
+            "source": "vita3k",
+            "title": "The Walking Dead"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "The Walking Dead"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "retail_game",
+        "evidence": [
+          "https://raw.githubusercontent.com/libretro/libretro-database/master/metadat/no-intro/Sony%20-%20PlayStation%20Vita.dat"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Walking Dead, The - A Telltale Games Series - The Complete First Season"
+        ]
+      }
+    ],
+    "existing_igdb_id": "1871",
+    "title_id": "PCSE00316",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "26848",
+              "7444"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "7444"
+            ],
+            "source": "nps_games",
+            "title": "Shovel Knight"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Shovel Knight"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "26848",
+              "7444"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "26848"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Shovel Knight: Treasure Trove"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Shovel Knight: Treasure Trove",
+          "ショベルナイト"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "26848",
+              "7444"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/1678"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "7444"
+            ],
+            "source": "vita3k",
+            "title": "Shovel Knight"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Shovel Knight"
+        ]
+      }
+    ],
+    "existing_igdb_id": "7444",
+    "title_id": "PCSE00640",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "17573",
+              "7705"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "17573"
+            ],
+            "source": "nps_games",
+            "title": "Geometry Wars 3: Dimensions Evolved"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Geometry Wars 3: Dimensions Evolved"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "17573",
+              "7705"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "17573"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Geometry Wars™ 3: Dimensions Evolved"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Geometry Wars™ 3: Dimensions Evolved"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "17573",
+              "7705"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/3743"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "7705"
+            ],
+            "source": "vita3k",
+            "title": "Geometry Wars 3: Dimensions"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Geometry Wars 3: Dimensions"
+        ]
+      }
+    ],
+    "existing_igdb_id": "7705",
+    "title_id": "PCSE00655",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Sayonara UmiharaKawase +"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Sayonara UmiharaKawase +"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/3225"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Sayonara UmiharaKawase +"
+        ]
+      }
+    ],
+    "existing_igdb_id": "110017",
+    "title_id": "PCSE00683",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Mercenary Kings Reloaded (3.61+!) [3.67]"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "6147",
+              "84923"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "84923"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Mercenary Kings: Reloaded Edition"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Mercenary Kings: Reloaded Edition"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "6147",
+              "84923"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/1885"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "6147"
+            ],
+            "source": "vita3k",
+            "title": "Mercenary Kings"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Mercenary Kings"
+        ]
+      }
+    ],
+    "existing_igdb_id": "6147",
+    "title_id": "PCSE00956",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [],
+    "existing_igdb_id": "9435",
+    "title_id": "PCSG00231",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Sayonara UmiharaKawase"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Sayonara UmiharaKawase +",
+          "さよなら 海腹川背 ちらり"
+        ]
+      },
+      {
+        "conflicts": [],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/239"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": null,
+        "missing_reason": "no_exact_catalog_identity",
+        "titles": [
+          "Sayonara UmiharaKawase +"
+        ]
+      }
+    ],
+    "existing_igdb_id": "110017",
+    "title_id": "PCSG00554",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "11751",
+              "24195"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "11751"
+            ],
+            "source": "nps_games",
+            "title": "Criminal Girls 2"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Criminal Girls 2"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "11751",
+              "24195"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "game",
+        "evidence": [
+          "https://raw.githubusercontent.com/VitaSmith/VitaDB/master/VitaDB.sql"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "11751"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "Criminal Girls 2"
+          },
+          {
+            "igdb_ids": [
+              "11751"
+            ],
+            "source": "vitasmith_vitadb",
+            "title": "CRIMINAL GIRLS 2"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "CRIMINAL GIRLS 2",
+          "クリミナルガールズ２"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "11751",
+              "24195"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/233"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "24195"
+            ],
+            "source": "vita3k",
+            "title": "Criminal Girls 2 Party Favors"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Criminal Girls 2 Party Favors"
+        ]
+      }
+    ],
+    "existing_igdb_id": "24195",
+    "title_id": "PCSG00681",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "141989",
+              "18905"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "base_application",
+        "evidence": [
+          "https://nopaystation.com/tsv/PSV_GAMES.tsv"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "141989"
+            ],
+            "source": "nps_games",
+            "title": "Shinshaku Tsurugi no Machi no Ihoujin: Kuro no Kyuuden"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Shinshaku Tsurugi no Machi no Ihoujin: Kuro no Kyuuden"
+        ]
+      },
+      {
+        "conflicts": [
+          {
+            "igdb_ids": [
+              "141989",
+              "18905"
+            ],
+            "kind": "serial_mapping_conflict"
+          }
+        ],
+        "content_type": "reported_application",
+        "evidence": [
+          "https://github.com/Vita3K/compatibility/issues/2045"
+        ],
+        "mapped_igdb_id": null,
+        "mapping_evidence": [
+          {
+            "igdb_ids": [
+              "18905"
+            ],
+            "source": "vita3k",
+            "title": "Stranger of Sword City"
+          }
+        ],
+        "missing_reason": "serial_mapping_conflict",
+        "titles": [
+          "Stranger of Sword City"
+        ]
+      }
+    ],
+    "existing_igdb_id": "18905",
+    "title_id": "PCSG00878",
+    "worldwide_igdb_id": null
+  },
+  {
+    "claims": [],
+    "existing_igdb_id": "9435",
+    "title_id": "PCSH00159",
+    "worldwide_igdb_id": null
+  }
+]

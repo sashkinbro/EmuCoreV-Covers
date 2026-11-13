@@ -1,0 +1,688 @@
+{
+  "asset_catalog_entities": 2326,
+  "complete_worldwide": false,
+  "current_provider_entities": 2341,
+  "current_provider_entities_with_covers": 2293,
+  "current_provider_entities_without_covers": 48,
+  "historical_retained_entities": 33,
+  "no_cover_entities": [
+    {
+      "igdb_id": 11819,
+      "name": "Girl Friend Beta: Summer Vacation Spent With You",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 19801,
+      "name": "Stranger of Sword City 2",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 26831,
+      "name": "Audio Hero",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 42667,
+      "name": "Phineas & Ferb: Day of Doofensmirtz",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 60033,
+      "name": "Myriad",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        48,
+        6,
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 62075,
+      "name": "Aiyoku no Eustia: Angel's Blessing",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 89870,
+      "name": "Tales of Innocence R: Limited Edition",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 96349,
+      "name": "Chameleon Legacy",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46,
+        38
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 96359,
+      "name": "One Piece: Pirate Warriors 3 Launch Bundle",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 99542,
+      "name": "Drinkbox Vita Collection",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 99557,
+      "name": "Grip Games Anthology",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        9,
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 99559,
+      "name": "Arcade Apocalypse Bundle",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        9,
+        48,
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 145090,
+      "name": "Kimi wo Aogi Otome wa Hime Ni",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 186918,
+      "name": "Natural Doctrine: Omochidashi Pack",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 214520,
+      "name": "Bard's Gold: Complete Edition",
+      "provider_game_type": 10,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 228933,
+      "name": "Lucilla in the Dark",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 344442,
+      "name": "LittleBigPlanet PS Vita: DC Comics Premium Level Pack",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 349347,
+      "name": "Pinball Arcade: Hurricane",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        46,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 349350,
+      "name": "Pinball Arcade: F-14 Tomcat",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 349351,
+      "name": "Pinball Arcade: The Getaway - High Speed II",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 349357,
+      "name": "Pinball Arcade: High Speed",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 350585,
+      "name": "Sangokushi 12: Power Up Kit",
+      "provider_game_type": 2,
+      "provider_platforms": [
+        48,
+        41,
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 350710,
+      "name": "The Pinkman Files",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        82,
+        6,
+        14,
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353147,
+      "name": "Pinball Arcade: Phantom of the Opera",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353152,
+      "name": "Pinball Arcade: Ripley’s Believe It or Not!",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353213,
+      "name": "Pinball Arcade: Harley-Davidson / 3rd Edition",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353219,
+      "name": "Pinball Arcade: Red & Ted's Road Show",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353220,
+      "name": "Pinball Arcade: Gladiators",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        46,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353226,
+      "name": "Pinball Arcade: High Roller Casino",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353234,
+      "name": "Pinball Arcade: Rescue 911",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        46,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353253,
+      "name": "Pinball Arcade: Flight 2000",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353259,
+      "name": "Pinball Arcade: Fish Tales",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353261,
+      "name": "Pinball Arcade: Goin' Nuts",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353684,
+      "name": "Pinball Arcade: FunHouse",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353692,
+      "name": "Pinball Arcade: Firepower",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353695,
+      "name": "Pinball Arcade: Pin-Bot",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353700,
+      "name": "Pinball Arcade: Haunted House",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353705,
+      "name": "Pinball Arcade: Lights Camera Action!",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353706,
+      "name": "Pinball Arcade: The Party Zone",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        12,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353709,
+      "name": "Pinball Arcade: Jack-Bot",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        41,
+        46,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353711,
+      "name": "Pinball Arcade: Fireball",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        46,
+        49
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 353716,
+      "name": "Pinball Arcade: Frank Thomas' Big Hurt",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        9,
+        48,
+        34,
+        6,
+        39,
+        14,
+        46,
+        49,
+        130
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 365125,
+      "name": "Miku Miku Hockey 2.0",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 372821,
+      "name": "The Hungry Horde: Holiday Hijinx",
+      "provider_game_type": 1,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 396396,
+      "name": "Blue Reflection: Final Fantasy XV Costumes",
+      "provider_game_type": 13,
+      "provider_platforms": [
+        48,
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 428781,
+      "name": "Octalide",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 428782,
+      "name": "Volt",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    },
+    {
+      "igdb_id": 428783,
+      "name": "Mou, Sou Suru Shika Nai!!",
+      "provider_game_type": 0,
+      "provider_platforms": [
+        46
+      ],
+      "reason": "igdb_cover_not_available"
+    }
+  ],
+  "originals_downloaded": 2326,
+  "provider_native_release_assertion": "Platform-46 metadata only except separately cited review facts; not all entries are native commercial games.",
+  "release_facts_entities": 137,
+  "release_review_path": "data/provider-release-review.json",
+  "review_ledger_sha256": "48cd4bc3db1624ca6d3053256b9fc31c6c2c3fe3a7c746f0b827721695d29baf",
+  "reviewed_new_entity_classes": {
+    "announced_companion_app_release_unverified": 1,
+    "announced_or_future_release_pending": 1,
+    "asset_already_added": 10,
+    "bundle_candidate_pending_component_proof": 1,
+    "confirmed_vita_bundle_art_gap": 1,
+    "confirmed_vita_edition_art_gap": 1,
+    "confirmed_vita_product_art_gap": 2,
+    "developer_confirmed_vita_homebrew": 1,
+    "developer_confirmed_vita_homebrew_engine": 1,
+    "edition_candidate_pending_primary_release_proof": 1,
+    "legacy_platform_candidate": 21,
+    "native_source_corroborated_art_gap": 1,
+    "non_base_content_provider_type": 6,
+    "playstation_mobile_separate_scope": 1,
+    "provider_cover_not_available": 48,
+    "provider_platform_conflict": 2,
+    "renamed_project_duplicate_candidate": 1,
+    "season_pass_bundle_not_base": 1,
+    "umbrella_or_episode_ambiguity": 1,
+    "vita_release_unverified": 2
+  },
+  "source_snapshot_sha256": "7016535c52cabb6815ca51b579d266b19bfb7525fb923e55cb97465e6cf8e459"
+}
