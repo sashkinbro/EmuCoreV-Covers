@@ -1577,5 +1577,31 @@
       "https://github.com/Vita3K/compatibility/issues/1110",
       "data/catalog.json"
     ]
+  },
+  "PCSE00640": {
+    "igdb_id": 7444,
+    "title": "Shovel Knight",
+    "source": "https://bucanero.github.io/apollo-saves/PSV/PCSE00640/",
+    "note": "Reviewed game-level base-art default for US PCSE00640 Shovel Knight (public base version 1.00 identity), using existing IGDB 7444 artwork. Updates can rename the same title ID to Shovel Knight: Treasure Trove (IGDB 26848); this mapping does not identify the installed update, certify edition-specific artwork, or claim verified US/regional retail packaging. Sony APP_VER transition threshold remains unverified.",
+    "identity_evidence": [
+      "https://bucanero.github.io/apollo-saves/PSV/PCSE00640/",
+      "https://github.com/TheLostPantheon/nativ",
+      "https://www.yachtclubgames.com/blog/shovel-knight-update-notes/"
+    ],
+    "artwork_scope": "game",
+    "regional_artwork_verified": false,
+    "release_variant_conflict": {
+      "candidate_igdb_ids": [
+        "7444",
+        "26848"
+      ],
+      "resolution": "curated_base_game_artwork_default_not_installed_edition_detection",
+      "sony_app_ver_threshold": null,
+      "evidence": [
+        "https://bucanero.github.io/apollo-saves/PSV/PCSE00640/",
+        "https://github.com/TheLostPantheon/nativ",
+        "https://www.yachtclubgames.com/blog/shovel-knight-update-notes/"
+      ]
+    }
   }
 }

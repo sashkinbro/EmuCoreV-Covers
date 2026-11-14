@@ -843,28 +843,38 @@
       "title_id": "PCSE00316"
     },
     "PCSE00640": {
-      "action": "unresolved",
+      "action": "reviewed_base_game_artwork_default",
       "artwork_scope": "game",
       "candidate_igdb_ids": [
         "7444",
         "26848"
       ],
+      "edition_identity_verified": false,
       "evidence": [
         "https://nopaystation.com/tsv/PSV_GAMES.tsv",
         "https://www.yachtclubgames.com/blog/shovel-knight-update-notes/",
-        "data/review-catalog-facts.json"
+        "data/review-catalog-facts.json",
+        "https://bucanero.github.io/apollo-saves/PSV/PCSE00640/",
+        "https://github.com/TheLostPantheon/nativ"
       ],
       "prior_igdb_id": "7444",
+      "prior_review": {
+        "action": "unresolved",
+        "rationale": "Original Shovel Knight and later Treasure Trove share this title ID. Official publisher version3.0 notes document the rename, but no authoritative equivalence to Sony PARAM.SFO APP_VER threshold was established. Title ID alone cannot safely choose exact edition; both available asset identities remain explicit.",
+        "reason": "version_required_to_distinguish_original_and_treasure_trove",
+        "selected_igdb_id": null
+      },
       "published_version_transition": {
         "publisher_version": "3.0",
         "sony_app_ver_threshold": null,
         "source": "https://www.yachtclubgames.com/blog/shovel-knight-update-notes/",
         "status": "Vita included in publisher notes; Sony APP_VER equivalence not publicly verified"
       },
-      "rationale": "Original Shovel Knight and later Treasure Trove share this title ID. Official publisher version3.0 notes document the rename, but no authoritative equivalence to Sony PARAM.SFO APP_VER threshold was established. Title ID alone cannot safely choose exact edition; both available asset identities remain explicit.",
-      "reason": "version_required_to_distinguish_original_and_treasure_trove",
+      "rationale": "Reviewed game-level base-art default for US PCSE00640 Shovel Knight (public base version 1.00 identity), using existing IGDB 7444 artwork. Updates can rename the same title ID to Shovel Knight: Treasure Trove (IGDB 26848); this mapping does not identify the installed update, certify edition-specific artwork, or claim verified US/regional retail packaging. Sony APP_VER transition threshold remains unverified.",
+      "reason": "curated_base_game_artwork_default_with_update_branding_ambiguity_retained",
       "regional_artwork_verified": false,
-      "selected_igdb_id": null,
+      "selected_igdb_id": "7444",
+      "selected_title": "Shovel Knight",
       "title_id": "PCSE00640"
     },
     "PCSE00655": {

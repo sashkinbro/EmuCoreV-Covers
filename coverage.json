@@ -10,7 +10,7 @@
     "reported_release_variant_conflicts": 1
   },
   "flat_covers": 2326,
-  "mapped_title_ids": 3425,
+  "mapped_title_ids": 3426,
   "originals": 2326,
   "retained_catalog_art_without_runtime_serials": 664,
   "small_originals": [
@@ -1733,19 +1733,6 @@
       "titles": [
         "SnagFilms",
         "SnagFilms: Watch Free Movies & TV Shows"
-      ]
-    },
-    {
-      "candidate_igdb_ids": [
-        "26848",
-        "7444"
-      ],
-      "reason": "version_required_to_distinguish_original_and_treasure_trove",
-      "title_id": "PCSE00640",
-      "titles": [
-        "Shovel Knight",
-        "Shovel Knight: Treasure Trove",
-        "ショベルナイト"
       ]
     },
     {
@@ -4311,18 +4298,17 @@
   "worldwide_coverage_summary": {
     "complete_worldwide": false,
     "native_base_status": {
-      "base_artwork_available": 3425,
-      "base_identity_matched": 3433,
-      "base_identity_unresolved": 429,
+      "base_artwork_available": 3426,
+      "base_identity_matched": 3434,
+      "base_identity_unresolved": 428,
       "missing_reasons": {
         "ambiguous_or_conflicting_exact_igdb_identities": 9,
         "duplicate_igdb_ar_football_identity_unresolved": 3,
         "duplicate_or_localized_igdb_identity_unresolved": 15,
         "excluded_unresolved_source_content_or_edition_conflict": 8,
         "igdb_cover_not_available": 21,
-        "mapped": 9808,
-        "no_exact_igdb_identity": 979,
-        "version_required_to_distinguish_original_and_treasure_trove": 3
+        "mapped": 9811,
+        "no_exact_igdb_identity": 979
       },
       "native_base_title_ids": 3862,
       "records": 10846,

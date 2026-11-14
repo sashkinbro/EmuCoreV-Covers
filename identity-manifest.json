@@ -118251,6 +118251,52 @@
       ],
       "title": "Dengeki Bunko: Fighting Climax"
     },
+    "PCSE00640": {
+      "artwork_scope": "game",
+      "content_types": [
+        "base_application",
+        "game",
+        "reported_application",
+        "theme",
+        "update"
+      ],
+      "evidence": [
+        {
+          "kind": "public_identity_review",
+          "source": "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+          "title": "Shovel Knight"
+        },
+        {
+          "kind": "public_identity_review",
+          "source": "https://www.yachtclubgames.com/blog/shovel-knight-update-notes/",
+          "title": "Shovel Knight"
+        },
+        {
+          "kind": "public_identity_review",
+          "source": "data/review-catalog-facts.json",
+          "title": "Shovel Knight"
+        },
+        {
+          "kind": "public_identity_review",
+          "source": "https://bucanero.github.io/apollo-saves/PSV/PCSE00640/",
+          "title": "Shovel Knight"
+        },
+        {
+          "kind": "public_identity_review",
+          "source": "https://github.com/TheLostPantheon/nativ",
+          "title": "Shovel Knight"
+        }
+      ],
+      "igdb_id": "7444",
+      "match_method": "public_edition_platform_review",
+      "region": "USA",
+      "regional_artwork_verified": false,
+      "review_rationale": "Reviewed game-level base-art default for US PCSE00640 Shovel Knight (public base version 1.00 identity), using existing IGDB 7444 artwork. Updates can rename the same title ID to Shovel Knight: Treasure Trove (IGDB 26848); this mapping does not identify the installed update, certify edition-specific artwork, or claim verified US/regional retail packaging. Sony APP_VER transition threshold remains unverified.",
+      "source_regions": [
+        "US"
+      ],
+      "title": "Shovel Knight"
+    },
     "PCSE00641": {
       "artwork_scope": "game",
       "content_types": [
@@ -288002,7 +288048,7 @@
     "provider-corpus-review.json": "48cd4bc3db1624ca6d3053256b9fc31c6c2c3fe3a7c746f0b827721695d29baf",
     "provider-release-review.json": "db762938839cf6ec082eef1fe0312b20793c027a39ed3140c91901358100923c",
     "review-catalog-facts.json": "b1258cd31debd1e0102590bb11c25cdfe65b9c86e5a98fff9f5960e4735238f8",
-    "reviewed-mappings.json": "8886042fe5b02e04a66c0565887f28d02ff2028c85c0b50da3ac9098da0426d0",
+    "reviewed-mappings.json": "41f09cd2c45b6ba11665441481a890bdd2874699231523e3788f8bd7983af97f",
     "sources.json": "b300e61ec5e8583a69e113d766b9d01555f4ba736e869dfde1f71b500dbe0ba9",
     "title-assertions.json": "4211db61149026e16f3e92d18149772e4536918415b4ebc8d029f06cc467a77a",
     "vita3k-commercial.json": "1c727d5250e0124373e94e3d586d73d26a072676fc507fad4a6134e4c36cd538"
@@ -289309,19 +289355,6 @@
       "titles": [
         "SnagFilms",
         "SnagFilms: Watch Free Movies & TV Shows"
-      ]
-    },
-    {
-      "candidate_igdb_ids": [
-        "26848",
-        "7444"
-      ],
-      "reason": "version_required_to_distinguish_original_and_treasure_trove",
-      "title_id": "PCSE00640",
-      "titles": [
-        "Shovel Knight",
-        "Shovel Knight: Treasure Trove",
-        "ショベルナイト"
       ]
     },
     {
@@ -291886,18 +291919,17 @@
   "worldwide_coverage_summary": {
     "complete_worldwide": false,
     "native_base_status": {
-      "base_artwork_available": 3425,
-      "base_identity_matched": 3433,
-      "base_identity_unresolved": 429,
+      "base_artwork_available": 3426,
+      "base_identity_matched": 3434,
+      "base_identity_unresolved": 428,
       "missing_reasons": {
         "ambiguous_or_conflicting_exact_igdb_identities": 9,
         "duplicate_igdb_ar_football_identity_unresolved": 3,
         "duplicate_or_localized_igdb_identity_unresolved": 15,
         "excluded_unresolved_source_content_or_edition_conflict": 8,
         "igdb_cover_not_available": 21,
-        "mapped": 9808,
-        "no_exact_igdb_identity": 979,
-        "version_required_to_distinguish_original_and_treasure_trove": 3
+        "mapped": 9811,
+        "no_exact_igdb_identity": 979
       },
       "native_base_title_ids": 3862,
       "records": 10846,

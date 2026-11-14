@@ -180931,6 +180931,52 @@
       ],
       "title": "Dengeki Bunko: Fighting Climax"
     },
+    "PCSE00640": {
+      "artwork_scope": "game",
+      "content_types": [
+        "base_application",
+        "game",
+        "reported_application",
+        "theme",
+        "update"
+      ],
+      "evidence": [
+        {
+          "kind": "public_identity_review",
+          "source": "https://nopaystation.com/tsv/PSV_GAMES.tsv",
+          "title": "Shovel Knight"
+        },
+        {
+          "kind": "public_identity_review",
+          "source": "https://www.yachtclubgames.com/blog/shovel-knight-update-notes/",
+          "title": "Shovel Knight"
+        },
+        {
+          "kind": "public_identity_review",
+          "source": "data/review-catalog-facts.json",
+          "title": "Shovel Knight"
+        },
+        {
+          "kind": "public_identity_review",
+          "source": "https://bucanero.github.io/apollo-saves/PSV/PCSE00640/",
+          "title": "Shovel Knight"
+        },
+        {
+          "kind": "public_identity_review",
+          "source": "https://github.com/TheLostPantheon/nativ",
+          "title": "Shovel Knight"
+        }
+      ],
+      "igdb_id": "7444",
+      "match_method": "public_edition_platform_review",
+      "region": "USA",
+      "regional_artwork_verified": false,
+      "review_rationale": "Reviewed game-level base-art default for US PCSE00640 Shovel Knight (public base version 1.00 identity), using existing IGDB 7444 artwork. Updates can rename the same title ID to Shovel Knight: Treasure Trove (IGDB 26848); this mapping does not identify the installed update, certify edition-specific artwork, or claim verified US/regional retail packaging. Sony APP_VER transition threshold remains unverified.",
+      "source_regions": [
+        "US"
+      ],
+      "title": "Shovel Knight"
+    },
     "PCSE00641": {
       "artwork_scope": "game",
       "content_types": [
@@ -351625,6 +351671,7 @@
     "PCSE00637": "60781",
     "PCSE00638": "6804",
     "PCSE00639": "11448",
+    "PCSE00640": "7444",
     "PCSE00641": "8422",
     "PCSE00642": "52797",
     "PCSE00643": "35252",

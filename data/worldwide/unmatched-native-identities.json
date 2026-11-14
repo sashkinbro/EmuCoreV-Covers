@@ -1304,19 +1304,6 @@
       ]
     },
     {
-      "candidate_igdb_ids": [
-        "26848",
-        "7444"
-      ],
-      "reason": "version_required_to_distinguish_original_and_treasure_trove",
-      "title_id": "PCSE00640",
-      "titles": [
-        "Shovel Knight",
-        "Shovel Knight: Treasure Trove",
-        "ショベルナイト"
-      ]
-    },
-    {
       "candidate_igdb_ids": [],
       "reason": "no_exact_igdb_identity",
       "title_id": "PCSE00649",

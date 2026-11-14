@@ -7,9 +7,8 @@
     "duplicate_or_localized_igdb_identity_unresolved": 15,
     "excluded_unresolved_source_content_or_edition_conflict": 8,
     "igdb_cover_not_available": 21,
-    "mapped": 9808,
-    "no_exact_igdb_identity": 979,
-    "version_required_to_distinguish_original_and_treasure_trove": 3
+    "mapped": 9811,
+    "no_exact_igdb_identity": 979
   },
   "by_region": {
     "ASIA": {
@@ -92,14 +91,13 @@
       "title_ids": 714
     },
     "US": {
-      "base_artwork_available": 1026,
-      "base_identity_matched": 1026,
-      "base_identity_unresolved": 64,
+      "base_artwork_available": 1027,
+      "base_identity_matched": 1027,
+      "base_identity_unresolved": 63,
       "missing_reasons": {
-        "mapped": 3083,
+        "mapped": 3086,
         "no_exact_igdb_identity": 145,
-        "non_base_content_type": 921,
-        "version_required_to_distinguish_original_and_treasure_trove": 3
+        "non_base_content_type": 921
       },
       "native_base_title_ids": 1090,
       "records": 5275,
@@ -167,19 +165,18 @@
       "title_ids": 946
     },
     "nps_games": {
-      "base_artwork_available": 3348,
-      "base_identity_matched": 3355,
-      "base_identity_unresolved": 396,
+      "base_artwork_available": 3349,
+      "base_identity_matched": 3356,
+      "base_identity_unresolved": 395,
       "missing_reasons": {
         "ambiguous_or_conflicting_exact_igdb_identities": 3,
         "duplicate_igdb_ar_football_identity_unresolved": 1,
         "duplicate_or_localized_igdb_identity_unresolved": 5,
         "excluded_unresolved_source_content_or_edition_conflict": 3,
         "igdb_cover_not_available": 7,
-        "mapped": 3348,
+        "mapped": 3349,
         "no_exact_igdb_identity": 383,
-        "non_base_content_type": 23,
-        "version_required_to_distinguish_original_and_treasure_trove": 1
+        "non_base_content_type": 23
       },
       "native_base_title_ids": 3751,
       "records": 3782,
@@ -303,38 +300,36 @@
       "title_ids": 16
     },
     "vita3k": {
-      "base_artwork_available": 2838,
-      "base_identity_matched": 2846,
-      "base_identity_unresolved": 252,
+      "base_artwork_available": 2839,
+      "base_identity_matched": 2847,
+      "base_identity_unresolved": 251,
       "missing_reasons": {
         "ambiguous_or_conflicting_exact_igdb_identities": 3,
         "duplicate_igdb_ar_football_identity_unresolved": 1,
         "duplicate_or_localized_igdb_identity_unresolved": 5,
         "excluded_unresolved_source_content_or_edition_conflict": 1,
         "igdb_cover_not_available": 8,
-        "mapped": 2838,
+        "mapped": 2839,
         "no_exact_igdb_identity": 241,
-        "non_base_content_type": 269,
-        "version_required_to_distinguish_original_and_treasure_trove": 1
+        "non_base_content_type": 269
       },
       "native_base_title_ids": 3098,
       "records": 3373,
       "title_ids": 3373
     },
     "vitasmith_vitadb": {
-      "base_artwork_available": 3316,
-      "base_identity_matched": 3322,
-      "base_identity_unresolved": 358,
+      "base_artwork_available": 3317,
+      "base_identity_matched": 3323,
+      "base_identity_unresolved": 357,
       "missing_reasons": {
         "ambiguous_or_conflicting_exact_igdb_identities": 3,
         "duplicate_igdb_ar_football_identity_unresolved": 1,
         "duplicate_or_localized_igdb_identity_unresolved": 5,
         "excluded_unresolved_source_content_or_edition_conflict": 3,
         "igdb_cover_not_available": 6,
-        "mapped": 3322,
+        "mapped": 3323,
         "no_exact_igdb_identity": 346,
-        "non_base_content_type": 3479,
-        "version_required_to_distinguish_original_and_treasure_trove": 1
+        "non_base_content_type": 3479
       },
       "native_base_title_ids": 3680,
       "records": 7877,
@@ -354,18 +349,17 @@
       "title_ids": 71
     },
     "base_application": {
-      "base_artwork_available": 3365,
-      "base_identity_matched": 3372,
-      "base_identity_unresolved": 400,
+      "base_artwork_available": 3366,
+      "base_identity_matched": 3373,
+      "base_identity_unresolved": 399,
       "missing_reasons": {
         "ambiguous_or_conflicting_exact_igdb_identities": 3,
         "duplicate_igdb_ar_football_identity_unresolved": 1,
         "duplicate_or_localized_igdb_identity_unresolved": 5,
         "excluded_unresolved_source_content_or_edition_conflict": 3,
         "igdb_cover_not_available": 7,
-        "mapped": 3365,
-        "no_exact_igdb_identity": 387,
-        "version_required_to_distinguish_original_and_treasure_trove": 1
+        "mapped": 3366,
+        "no_exact_igdb_identity": 387
       },
       "native_base_title_ids": 3772,
       "records": 3772,
@@ -394,18 +388,17 @@
       "title_ids": 1015
     },
     "game": {
-      "base_artwork_available": 3316,
-      "base_identity_matched": 3322,
-      "base_identity_unresolved": 356,
+      "base_artwork_available": 3317,
+      "base_identity_matched": 3323,
+      "base_identity_unresolved": 355,
       "missing_reasons": {
         "ambiguous_or_conflicting_exact_igdb_identities": 3,
         "duplicate_igdb_ar_football_identity_unresolved": 1,
         "duplicate_or_localized_igdb_identity_unresolved": 5,
         "excluded_unresolved_source_content_or_edition_conflict": 3,
         "igdb_cover_not_available": 6,
-        "mapped": 3316,
-        "no_exact_igdb_identity": 343,
-        "version_required_to_distinguish_original_and_treasure_trove": 1
+        "mapped": 3317,
+        "no_exact_igdb_identity": 343
       },
       "native_base_title_ids": 3678,
       "records": 3678,
@@ -470,18 +463,17 @@
       "title_ids": 73
     },
     "reported_application": {
-      "base_artwork_available": 2854,
-      "base_identity_matched": 2862,
-      "base_identity_unresolved": 252,
+      "base_artwork_available": 2855,
+      "base_identity_matched": 2863,
+      "base_identity_unresolved": 251,
       "missing_reasons": {
         "ambiguous_or_conflicting_exact_igdb_identities": 3,
         "duplicate_igdb_ar_football_identity_unresolved": 1,
         "duplicate_or_localized_igdb_identity_unresolved": 5,
         "excluded_unresolved_source_content_or_edition_conflict": 1,
         "igdb_cover_not_available": 8,
-        "mapped": 2854,
-        "no_exact_igdb_identity": 241,
-        "version_required_to_distinguish_original_and_treasure_trove": 1
+        "mapped": 2855,
+        "no_exact_igdb_identity": 241
       },
       "native_base_title_ids": 3114,
       "records": 3114,
@@ -589,18 +581,17 @@
     "source": "https://api.igdb.com/v4/games"
   },
   "native_base_status": {
-    "base_artwork_available": 3425,
-    "base_identity_matched": 3433,
-    "base_identity_unresolved": 429,
+    "base_artwork_available": 3426,
+    "base_identity_matched": 3434,
+    "base_identity_unresolved": 428,
     "missing_reasons": {
       "ambiguous_or_conflicting_exact_igdb_identities": 9,
       "duplicate_igdb_ar_football_identity_unresolved": 3,
       "duplicate_or_localized_igdb_identity_unresolved": 15,
       "excluded_unresolved_source_content_or_edition_conflict": 8,
       "igdb_cover_not_available": 21,
-      "mapped": 9808,
-      "no_exact_igdb_identity": 979,
-      "version_required_to_distinguish_original_and_treasure_trove": 3
+      "mapped": 9811,
+      "no_exact_igdb_identity": 979
     },
     "native_base_title_ids": 3862,
     "records": 10846,
@@ -608,7 +599,7 @@
   },
   "native_base_title_ids": 3862,
   "native_vita_title_ids": 4315,
-  "runtime_title_ids_with_artwork": 3425,
+  "runtime_title_ids_with_artwork": 3426,
   "schema_version": 2,
   "scope": "Sourced worldwide native Vita identity union; region/title-ID/content-type/edition evidence retained. Not proof of worldwide historical completeness.",
   "source_assertions": 82590,
